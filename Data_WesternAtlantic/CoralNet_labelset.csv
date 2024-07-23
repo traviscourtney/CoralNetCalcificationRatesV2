@@ -1,0 +1,4711 @@
+Name,Functional Group,Default
+51_tabular_hard_coral,Hard coral,HCTa
+Acanthastrea,Hard coral,Acanth
+Acanthastrea echinata,Hard coral,AcanEch
+Acanthastrea_encrusting,Hard coral,acaenc
+Acanthastrea hemprichii,Hard coral,AcanHem
+Acanthastrea_massive,Hard coral,acamas
+Acanthastrea maxima,Hard coral,AcMax
+acropERROR,Hard coral,errorcode
+Acropora,Hard coral,Acropora
+Acropora aculeus,Hard coral,AcrAcu
+Acropora arabensis,Hard coral,AcrArab
+Acropora (arborescent),Hard coral,Acr_arb
+Acropora_arborescent,Hard coral,acrarb
+Acropora (arborescent table),Hard coral,Acr_arbTab
+Acropora austera,Hard coral,ACRau
+Acropora azurea,Hard coral,ACRaz
+Acropora (branching),Hard coral,Acr_bra
+Acropora branching (pale),Hard coral,PACR_br
+Acropora_bushy,Hard coral,acrbus
+Acropora (caespitose),Hard coral,Acr_caes
+Acropora cervicornis,Hard coral,AcrCerv
+Acropora clathrata,Hard coral,AcrClath
+Acropora Club Shaped,Hard coral,AcClub
+Acropora (corymbose),Hard coral,Acr_corym
+Acropora corymbose small,Hard coral,acr_cor
+Acropora corymbose/tabular/plate,Hard coral,BRA_TAB-Ac
+Acropora corymbose/tabular/plate Bleached,Hard coral,BRA_TAB-B*
+Acropora cytherea,Hard coral,AcrCyth
+Acropora cytherea bleached,Hard coral,ACYT_BL
+Acropora (digitate),Hard coral,Acr_dig
+"Acropora digitate, branches resembling finger",Hard coral,BRA_DIG_Ac
+Acropora digitate/finger-like Bleached,Hard coral,BRA_DIG_B*
+Acropora digitifera,Hard coral,ACRdi
+Acropora divaricata,Hard coral,AcrDiv
+Acropora downingi,Hard coral,AcrDown
+Acropora echinata1,Hard coral,AE1
+Acropora echinata2,Hard coral,AE2
+Acropora elseyi,Hard coral,AcrEls
+Acropora (encrusting),Hard coral,Acr_enc
+Acropora_encrusting,Hard coral,acrenc
+Acropora Encrusting,Hard coral,ACE**
+Acropora florida,Hard coral,AcrFlo
+Acropora formosa (muricata) group,Hard coral,Acr_f_m_gr
+Acropora gemmifera,Hard coral,AcrGem
+Acropora gemmifera bleached,Hard coral,AGEM_BL
+Acropora (hispidose),Hard coral,Acr_hisp
+Acropora humilis,Hard coral,AcrHum
+Acropora humilis group,Hard coral,Acr_hum_gr
+Acropora hyacinthus,Hard coral,AcrHya
+Acropora hyacinthus group,Hard coral,Acr_hya_gr
+Acropora intermedia,Hard coral,ACRin
+Acropora latistella,Hard coral,Acr_lat
+Acropora listeri,Hard coral,ACRli
+Acropora loripes,Hard coral,AcrLor
+Acropora microclados,Hard coral,ACRmc
+Acropora microphthalma,Hard coral,ACRmi
+Acropora millepora,Hard coral,AcrMille
+Acropora monticulosa,Hard coral,AcrMon
+Acropora muricata,Hard coral,AcrMur
+Acropora nana,Hard coral,ACRna
+Acropora nasuta,Hard coral,AcrNas
+Acropora palmata,Hard coral,AcrPalm
+Acropora pharaonis,Hard coral,AcrPhar
+Acropora (plating),Hard coral,Acr_plat
+Acropora prolifera,Hard coral,AcrPro
+Acropora retusa,Hard coral,ARET
+Acropora robusta group,Hard coral,Acr_rob_gr
+Acropora samoensis,Hard coral,AcrSam
+Acropora sarmentosa,Hard coral,ACRsa
+Acropora secale,Hard coral,AcrSec
+Acropora sp.,Hard coral,Acr_spe
+Acropora Sp1.,Hard coral,ASp1
+Acropora Sp2,Hard coral,ASp2
+Acropora Sp3,Hard coral,ASp3
+Acropora spathulata,Hard coral,AcrSpa
+Acropora squarrosa,Hard coral,AcrSqu
+Acropora (submassive),Hard coral,Acr_sub
+Acropora_tabular,Hard coral,acrtab
+Acropora (tabulate),Hard coral,Acr_tab
+Acropora tabulate (pale),Hard coral,PAcr_tab
+Acropora tenuis,Hard coral,AcrTen
+Acropora tortuosa,Hard coral,AcrTort
+Acropora valida,Hard coral,AcrVal
+Acroporidae (branching),Hard coral,ACR_br
+Acroporidae branching bleached (white),Hard coral,ACR-BRA-B*
+Acroporidae (hispidose),Hard coral,ACR_hi
+Acroporidae hispidose bleached,Hard coral,ACR-HIP-B*
+Acroporidae Other,Hard coral,ACR-OTH
+Acroporidae Other Bleached,Hard coral,ACR-OTH-B*
+Acroporidae (plate/encrusting),Hard coral,ACR_p_e
+Acroporidae plate/encrusting Bleached,Hard coral,ACR-PE-B*
+Acroporidae (table/corymbose/digitate),Hard coral,ACR_t_c_d
+Agaricia,Hard coral,Agaricia
+Agaricia agaricites,Hard coral,AgAga
+Agaricia fragilis,Hard coral,AgFra
+Agaricia grahamae,Hard coral,AgGra
+Agaricia humilis,Hard coral,AgHum
+Agaricia lamarcki,Hard coral,AgLam
+Agaricia tenuifolia,Hard coral,AgTen
+Agaricia/Undaria,Hard coral,AGAR
+Agaricia undata,Hard coral,AgUnd
+Agariciidae,Hard coral,AGARICIIDA
+Agracia agricites,Hard coral,AGAG
+Alek,Hard coral,alek
+Alveopora,Hard coral,Alveopora
+Alveopora_encrusting,Hard coral,alvenc
+Alveopora_massive,Hard coral,alvmas
+Alveopora tizardi,Hard coral,AlTiz
+Anacropora,Hard coral,Anacropora
+Anacropora_bushy,Hard coral,anabus
+Anomastraea,Hard coral,Anoma
+Anomastraea irregularis,Hard coral,AnIrr
+Apalmata Bleached,Hard coral,ApBl
+Apalmata live,Hard coral,ApLive
+Apalmata Old Dead,Hard coral,ApDead
+Apalmata Pale,Hard coral,ApPale
+Apalmata Recent Mortality,Hard coral,ApRM
+Arabastrea,Hard coral,AR
+Astrangia,Hard coral,Astran
+Astrangia poculata,Hard coral,AstranPoc
+Astrangia sp.,Hard coral,ASTR
+Astrea,Hard coral,Astrea
+Astrea curta,Hard coral,AstrCurt
+Astreopora,Hard coral,Astreo
+Astreopora-Cyphastrea,Hard coral,AsCy
+Astreopora (encrusting),Hard coral,Astreo_enc
+Astreopora_encrusting,Hard coral,astenc
+Astreopora_foliose,Hard coral,astfol
+Astreopora gracilis,Hard coral,AstreoGra
+Astreopora incrustans,Hard coral,AstreoInc
+Astreopora (massive),Hard coral,Astreo_mas
+Astreopora_massive,Hard coral,astmas
+Astreopora myriophthalma,Hard coral,AstreoMyr
+Astreopora ocellata,Hard coral,AstreoOce
+Astreopora Plate Like,Hard coral,AstPlat
+Astreopora (sub-massive),Hard coral,Astreo_sub
+Astreopora (tabulate),Hard coral,Astreo_tab
+Astreopora-Turbinaria,Hard coral,AsTu
+Balanophyllia,Hard coral,Balanophy
+Balanophyllia elegans,Hard coral,BalEle
+Blastomussa,Hard coral,Blast
+Blastomussa Sub-Massive,Hard coral,Blast_subm
+Bleached Acanthastrea,Hard coral,BAcan
+Bleached Acanthastrea Sub-massive,Hard coral,BlAcaSM
+Bleached Acropora,Hard coral,B_Acro
+Bleached Acropora (arborescent),Hard coral,B_Acr_arb
+Bleached Acropora branching,Hard coral,BAcroBr
+Bleached Acropora corymbose,Hard coral,BlAcro-Cor
+Bleached Acropora Digitate,Hard coral,BlAcrDig
+Bleached Acropora Encrusting,Hard coral,BlAcrEnc
+Bleached Acropora formosa.,Hard coral,B_ACfor
+Bleached Acropora tabulate,Hard coral,BAT
+Bleached Agaricia gahamae,Hard coral,BL_AgGra
+Bleached Alveopora Encrusting,Hard coral,BlAlvEnc
+Bleached Alveopora Sub-massive,Hard coral,BlAlvSM
+Bleached Anomastraea,Hard coral,B_Anon
+Bleached Astreopora,Hard coral,B_Astreo
+Bleached Astreopora Encrusting,Hard coral,BlAstrEnc
+Bleached Astreopora Sub-Massive,Hard coral,BlAstrSM
+Bleached Astreopora Tabulate,Hard coral,BlAstrTab
+Bleached Blastomussa Sub-Massive,Hard coral,BlBlastoSM
+Bleached branching,Hard coral,BlB
+Bleached Colpophyllia natans,Hard coral,BL_CoNat
+Bleached Coscinarea,Hard coral,B_Cosc
+Bleached Coscinarea Encrusting,Hard coral,BlCoscEnc
+Bleached Coscinarea Sub-Massive,Hard coral,BlCoscSM
+Bleached Cycloseris,Hard coral,B_Cyclo
+Bleached Cyphastrea,Hard coral,B_Cyph
+Bleached Cyphastrea ocellina,Hard coral,BLCOce
+Bleached Cyphastrea Sub-Massive,Hard coral,BlCypSM
+Bleached Diploastrea,Hard coral,BDIPLO
+Bleached Diploria labyrinthiformes,Hard coral,DLAB-BL
+Bleached Dipsastraea,Hard coral,B_Dipsa
+Bleached Echinophyllia,Hard coral,B_Echin
+Bleached Echinopora,Hard coral,B_Echinop
+Bleached Encrusting,Hard coral,BlE
+Bleached Favia Encrusting,Hard coral,BlFavEnc
+Bleached Favia matthai,Hard coral,B_FaviaM
+Bleached Favia sp.,Hard coral,B_Favia
+Bleached Favia Sub-massive,Hard coral,BlFavSM
+Bleached Favites,Hard coral,B_Favites
+Bleached Favites Encrusting,Hard coral,BlFaviEn
+Bleached Favites pentagona,Hard coral,B_FavPent
+Bleached Favites Sub-massive,Hard coral,BlFaviSM
+Bleached Fungia,Hard coral,B_Fungia
+Bleached Galaxea,Hard coral,BGalax
+Bleached Gardineroseris,Hard coral,BGard
+Bleached Goniastrea,Hard coral,BGon
+Bleached Goniastrea Sub-massive,Hard coral,BlGoniSM
+Bleached Goniopora,Hard coral,B_Goniop
+Bleached Halomitra,Hard coral,BHalo
+Bleached Hard Coral,Hard coral,B_HC
+Bleached Herpolitha,Hard coral,BHerpo
+Bleached Heteropsammia cochlea,Hard coral,BlHetcFL
+Bleached Hydnophora,Hard coral,BHydno
+Bleached Isopora,Hard coral,Blisop
+Bleached Isopora Columnar,Hard coral,BlIsoCol
+Bleached Isopora Encrusting,Hard coral,BlIsoEnc
+Bleached Isopora Sub-Massive,Hard coral,BlIsoSM
+Bleached Leptastrea,Hard coral,B_Leptastr
+Bleached Leptastrea purpurea,Hard coral,BLLPur
+Bleached Leptastrea Sub-Massive,Hard coral,BlLepSM
+Bleached Leptoria,Hard coral,BlLept
+Bleached Leptoseris,Hard coral,Bleptos
+Bleached Leptoseris Branching,Hard coral,BlLepBr
+Bleached Leptoseris Encrusting,Hard coral,BlLepEnc
+Bleached Lobactis scutaria,Hard coral,B_LobScut
+Bleached Lobophyllia sp.,Hard coral,B_Lobo
+Bleached Madracis,Hard coral,BMADR
+Bleached M. Annularis,Hard coral,BMA
+Bleached massive,Hard coral,BlMa
+Bleached Merulina,Hard coral,B_Mer
+Bleached Montastrea Encrusting,Hard coral,BlMonEnc
+Bleached Montastrea Sub-Massive,Hard coral,BlMonSM
+Bleached Montipora,Hard coral,B_Monti
+Bleached Montipora capitata,Hard coral,BMCAP
+Bleached Montipora flabellata,Hard coral,BMFLA
+Bleached Montipora flabellata,Hard coral,B_MontiFla
+Bleached Montipora patula,Hard coral,BMPAT
+Bleached Montipora Sub-Massive,Hard coral,BlMontSM
+Bleached Montipora Tabulate,Hard coral,BlMontTbl
+Bleached Mycedium,Hard coral,B_Myc
+Bleached Orbicella,Hard coral,BORB
+Bleached Orbicella annularis,Hard coral,BL_OrbAnn
+Bleached Orbicella faveolata,Hard coral,BL_OrbFav
+Bleached Orbicella franksi,Hard coral,BL_OrbFran
+Bleached Other Acropora,Hard coral,BOAcro
+Bleached Other Corals,Hard coral,BleOC
+Bleached Oulophyllia,Hard coral,BOulo
+Bleached Oxypora,Hard coral,B_Oxyp
+Bleached Pachyseris,Hard coral,BPach
+Bleached Partial Acanthastrea Sub-massive,Hard coral,BlPtAcaSM
+Bleached Partial Acropora branching,Hard coral,BlPtAcrBra
+Bleached Partial Acropora corymbose,Hard coral,BlPtAcrCor
+Bleached Partial Acropora Digitate,Hard coral,BlPtAcrDig
+Bleached Partial Acropora Encrusting,Hard coral,BlPtAcrEnc
+Bleached Partial Acropora tabulate,Hard coral,BlPtAcrTbl
+Bleached Partial Alveopora Encrusting,Hard coral,BlPtAlvEnc
+Bleached Partial Alveopora Sub-massive,Hard coral,BlPtAlvSM
+Bleached Partial Astreopora Encrusting,Hard coral,BlPAstrEnc
+Bleached Partial Astreopora Sub-Massive,Hard coral,BlPAstrSM
+Bleached Partial Astreopora Tabulate,Hard coral,BlPAstrTab
+Bleached Partial Coscinarea Encrusting,Hard coral,BlPtCosEnc
+Bleached Partial Cyphastrea Sub-Massive,Hard coral,BlPtCypSM
+Bleached Partial Echinophyllia Encrusting,Hard coral,BlPtEchEnc
+Bleached Partial Echinopora Foliose,Hard coral,BlPtEchFol
+Bleached Partial Favia Encrusting,Hard coral,BlPtFavEnc
+Bleached Partial Favia Sub-massive,Hard coral,BlPtFavSM
+Bleached Partial Favites Encrusting,Hard coral,BlPtFaviEn
+Bleached Partial Favites Sub-massive,Hard coral,BlPtFaviSM
+Bleached Partial Isopora Columnar,Hard coral,BlPtIsoCol
+Bleached Partial Isopora Encrusting,Hard coral,BlPtIsoEnc
+Bleached Partial Isopora Sub-Massive,Hard coral,BlPtIsoSM
+Bleached Partial Leptastrea Encrusting,Hard coral,BlPtLepEnc
+Bleached Partial Leptastrea Sub-Massive,Hard coral,BlPtLepSM
+Bleached Partial Leptoseris Branching,Hard coral,BlPtLepBr
+Bleached Partial Leptoseris Encrusting,Hard coral,BlPtLepEn
+Bleached Partial Lobophyllia Foliose,Hard coral,BlPtMerFol
+Bleached Partial Lobophyllia Sub-Massive,Hard coral,BlPtLobSM
+Bleached Partial Montastrea Encrusting,Hard coral,BlPtMonEnc
+Bleached Partial Montastrea Sub-Massive,Hard coral,BlPtMonSM
+Bleached Partial Montipora Encrusting,Hard coral,BlPtMontEn
+Bleached Partial Montipora Sub-Massive,Hard coral,BlPtMontSM
+Bleached Partial Montipora Tabulate,Hard coral,BlPtMontTb
+Bleached Partial Pavona Sub-Massive,Hard coral,BlPtPavSM
+Bleached Partial Platygyra Encrusting,Hard coral,BlPtPlatEn
+Bleached Partial Platygyra Sub-Massive,Hard coral,BlPtPlatSM
+Bleached Partial Plesiastrea Encrusting,Hard coral,BlPtPleEn
+Bleached Partial Pocillopora Branching,Hard coral,BlPtPocBr
+Bleached Partial Porites Encrusting,Hard coral,BlPtPorEnc
+Bleached Partial Porites Sub-Massive,Hard coral,BlPtPorSM
+Bleached Partial Seriatopora Branching,Hard coral,BlPtSerBr
+Bleached Partial Stony Coral Encrusting,Hard coral,BlPtCorEnc
+Bleached Partial Syphyliia Encrusting,Hard coral,BlPtSyphEn
+Bleached Partial Turbinaria Encrusting,Hard coral,BlPtTurbEn
+Bleached Partial Turbinaria Foliose,Hard coral,BlPTurbFol
+Bleached Patial Goniastrea Sub-massive,Hard coral,BlPtGoniSM
+Bleached Patial Goniopora Sub-massive,Hard coral,BlPtGonSM
+Bleached Patial Heteropsammia cochlea,Hard coral,BlPtHetcFL
+Bleached Pavona,Hard coral,B_Pavona
+Bleached Pavona duerdeni,Hard coral,BLPDUE
+Bleached Pavona Sub-Massive,Hard coral,BlPavSM
+Bleached Pavona varians,Hard coral,BLPVAR
+Bleached Pectinia,Hard coral,B_Pec
+Bleached Pectinia - unidentified plating,Hard coral,B_PEC-UP
+Bleached Physogyra,Hard coral,Bphyso
+Bleached Platygyra,Hard coral,B_Plat
+Bleached Platygyra Encrusting,Hard coral,BlPlatEnc
+Bleached Platygyra ryukyuensis,Hard coral,B_Pryu
+Bleached Platygyra Sub-Massive,Hard coral,BlPlatSM
+Bleached Plesiastrea,Hard coral,B_Ples
+Bleached Pocillopora,Hard coral,B_Pocillo
+Bleached Pocillopora (branching),Hard coral,B_Poc_bran
+Bleached Pocillopora damacornis,Hard coral,BPDAM
+Bleached Pocillopora damicornis,Hard coral,B_PocDam
+Bleached Pocillopora grandis (eydouxi),Hard coral,B_PocGran
+Bleached Pocillopora ligulata,Hard coral,B_PocLig
+Bleached Pocillopora meandrina,Hard coral,B_PocMean
+Bleached Podabacia Foliose,Hard coral,BlPodFol
+Bleached Porites,Hard coral,B_Porit
+Bleached Porites astreoides,Hard coral,B_PAST
+Bleached Porites brighami,Hard coral,BLPBRI
+Bleached Porites compressa,Hard coral,B_PorComp
+Bleached Porites cylindrica,Hard coral,B_Pcyl
+Bleached Porites Encrusting,Hard coral,BlPorEnc
+Bleached Porites encrusting-plates,Hard coral,POR_EP_B
+Bleached Porites lobata,Hard coral,BLPLOB
+Bleached Porites (massive),Hard coral,B_Por_mass
+Bleached Porites nodular brnaches,Hard coral,POR_NOD_B
+Bleached Porites Sub-Massive,Hard coral,BlPorSM
+Bleached Poritidae branching,Hard coral,POR_BRA_B
+Bleached Psammocora,Hard coral,B_Psam
+Bleached Pseudodiploria strigosa,Hard coral,BL_PseuStr
+Bleached Pt Blastomussa Sub-Massive,Hard coral,BlPtBlasSM
+Bleached Pt Coscinarea Sub-Massive,Hard coral,BlPtCoscSM
+Bleached Sandolitha,Hard coral,B_Sando
+Bleached Seratiopora hystrix,Hard coral,B_Shys
+Bleached Seriatopora,Hard coral,BlSeri
+Bleached Seriatopora Branching,Hard coral,BlSerBr
+Bleached Siderastrea,Hard coral,B_SID
+Bleached Siderastreidae,Hard coral,BSider
+Bleached Stony Coral Encrusting,Hard coral,BlCorEnc
+Bleached Stylocoeniella,Hard coral,BStyloco
+Bleached Stylophora,Hard coral,B_Styloph
+Bleached Stylophora pistillata,Hard coral,B_StPis
+Bleached Stylophora pistillata (partial),Hard coral,B_StPis-pa
+Bleached Stylophora pistillata (total),Hard coral,B_Stpis-to
+Bleached Symphyllia,Hard coral,bsymph
+Bleached Syphyliia Encrusting,Hard coral,BlSyphEnc
+Bleached Tubastrea,Hard coral,B_Tuba
+Bleached Turbinarea,Hard coral,B_TURB
+Bleached Turbinaria Encrusting,Hard coral,BlTurbEn
+Bleached Turbinaria Foliose,Hard coral,BlTurbFol
+Bleaching,Hard coral,BLC
+Bleaching encrusting Montipora,Hard coral,B_MOEN
+Bleaching Favia speciosa,Hard coral,B_FaviaS
+Bleaching Favites halicora,Hard coral,B_FavHal
+Bleaching foliose Montipora,Hard coral,B_MOFO
+Bleaching Goniastrea edwardsi,Hard coral,B_GonEd
+Bleaching Goniastrea stelligera,Hard coral,B_GonStell
+Bleaching Herpolitha,Hard coral,B_Herpo
+Bleaching Hydnophora,Hard coral,B_HYDNO
+Bleaching Hydnophora Exesa,Hard coral,B_HyExe
+Bleaching Leptastrea,Hard coral,B_Lepta
+Bleaching leptoseris,Hard coral,B_Lepto
+Bleaching Montastraea,Hard coral,B_Monta
+Bleaching Other corals,Hard coral,BlOC
+Bleaching Palythoa,Hard coral,B_Paly
+Bleaching Pavona duerdeni,Hard coral,B_PaveDUER
+Bleaching Pavona varians,Hard coral,B_PVAR
+Bleaching Unknown Hard Coral,Hard coral,B_UnkCoral
+Boulder.,Hard coral,BOULD
+BRA: Acropora Bottlebrush,Hard coral,BRA_BOT_Ac
+BRA: Isopora,Hard coral,BRA_LRG_I
+Branching Acropora - Healthy,Hard coral,BA
+Branching bleached,Hard coral,BRA_BLC
+Branching Coral,Hard coral,BRANCH
+BRA: Other,Hard coral,BRA_OTH
+BRA: Other Bleached (white),Hard coral,BRA_OTH-B*
+Bryozoa: Hard:Branching,Hard coral,BHBr
+Bryozoa: Hard: Branching: Adenolopsis sp.,Hard coral,BHBAS
+Bryozoa: Hard: Fenestrate: Adeona grisea,Hard coral,BHFAG
+Bryozoa: Hard: Fenestrate: Fenestrate Bryozoa,Hard coral,BHFFB
+Bryozoa: Hard: Massive: Celleporaria,Hard coral,BHMC
+Bryozoa: Soft:Dendroid,Hard coral,BSDr
+Bryozoa: Soft: Dendroid: Flustridae,Hard coral,BSDF
+Bryozoa: Soft: Foliaceous:,Hard coral,FSB
+Bubble Coral,Hard coral,MASE_MEA_P
+Cantharellus,Hard coral,Canth
+Catalaphyllia,Hard coral,Catala
+Caulastrea,Hard coral,Caula
+Caulastrea_massive,Hard coral,caumas
+C_BR,Hard coral,C_BR
+C_BR_ACR,Hard coral,C_BR_ACR
+C_BR_ACR_B,Hard coral,C_BR_ACR_B
+C_BR_ACR_P,Hard coral,C_BR_ACR_P
+C_BR_MON_B,Hard coral,C_BR_MON_B
+C_BR_OTH,Hard coral,C_BR_OTH
+C_BR_OTH_B,Hard coral,C_BR_OTH_B
+C_CB_ACR,Hard coral,C_CB_ACR
+C_CB_ACR_P,Hard coral,C_CB_ACR_P
+C_CB_OTH,Hard coral,C_CB_OTH
+C_CB_OTH_B,Hard coral,C_CB_OTH_B
+C_CL_GAL,Hard coral,C_CL_GAL
+C_CL_GAL_B,Hard coral,C_CL_GAL_B
+C_CL_GAP,Hard coral,C_CL_GAP
+C_CL_GAP_B,Hard coral,C_CL_GAP_B
+C_CL_MON,Hard coral,C_CL_MON
+C_CL_MON_B,Hard coral,C_CL_MON_B
+C_CL_OTH_B,Hard coral,C_CL_OTH_B
+C_CL_POR_B,Hard coral,C_CL_POR_B
+C_EN_ACR_B,Hard coral,C_EN_ACR_B
+C_EN_FUN,Hard coral,C_EN_FUN
+C_EN_FUN_B,Hard coral,C_EN_FUN_B
+C_EN_GAP,Hard coral,C_EN_GAP
+C_EN_GAP_B,Hard coral,C_EN_GAP_B
+C_EN_PAC,Hard coral,C_EN_PAC
+C_EN_PAC_B,Hard coral,C_EN_PAC_B
+C_FL_OTH_B,Hard coral,C_FL_OTH_B
+C_FO_MON_B,Hard coral,C_FO_MON_B
+C_FO_OTH_B,Hard coral,C_FO_OTH_B
+C_FO_PAC,Hard coral,C_FO_PAC
+C_FO_PAC_B,Hard coral,C_FO_PAC_B
+Cirrhipathes sp.,Hard coral,Cirr
+Cladocora arbuscula,Hard coral,ClaArb
+Cladocora caespitosa,Hard coral,ClaCae
+Cladopsammia gracilis,Hard coral,ClaGra
+C_LA_MON,Hard coral,C_LA_MON
+C_LA_MON_B,Hard coral,C_LA_MON_B
+C_LA_OTH,Hard coral,C_LA_OTH
+C_LA_OTH_B,Hard coral,C_LA_OTH_B
+C_LA_PAC,Hard coral,C_LA_PAC
+C_LA_PAC_B,Hard coral,C_LA_PAC_B
+C_LA_POR,Hard coral,C_LA_POR
+C_LA_POR_B,Hard coral,C_LA_POR_B
+C_LA_TUR,Hard coral,C_LA_TUR
+C_LA_TUR_B,Hard coral,C_LA_TUR_B
+C_MS_GAP,Hard coral,C_MS_GAP
+C_MS_GAP_B,Hard coral,C_MS_GAP_B
+C_MS_LOB,Hard coral,C_MS_LOB
+C_MS_LOB_B,Hard coral,C_MS_LOB_B
+C_MS_MON,Hard coral,C_MS_MON
+C_MS_MON_B,Hard coral,C_MS_MON_B
+C_MS_OTH_B,Hard coral,C_MS_OTH_B
+Cnidarian,Hard coral,Cndi
+Cnidarian_Tubastrea,Hard coral,Cnd
+Coeloseris,Hard coral,Coeloseris
+Colpophyllia breviserialis,Hard coral,COB
+Colpophyllia natans,Hard coral,CoNat
+COLPOPHYLLIA NATANS w White Pox,Hard coral,CoNat-WPox
+Coral from other experiment,Hard coral,CFOE
+Coral Juvenile,Hard coral,Cor_juv
+"Coral: massive, sub-massive, encrusting",Hard coral,MSE-HC
+Coral: meandroid,Hard coral,MEA-HC
+Corals:Stony Coral:Acropora:Submassive,Hard coral,AcrCS*
+Corals:Stony Coral:Branching,Hard coral,CB
+Corals:stonycoral:digitat,Hard coral,ACD
+Corals:Stony Coral:Mushroom,Hard coral,CMR*
+Corals:Stony Coral:Musroom,Hard coral,CMR
+Corals: Stony corals:Bottlebrush,Hard coral,CBTB
+Corals: Stony corals: Corymbose,Hard coral,CCOR
+Corals: Stony corals: Digitate,Hard coral,CDIG
+Corals: Stony corals: Solitary / mushroom: At,Hard coral,CSOA
+Corals: Stony corals: Solitary / mushroom: Fr,Hard coral,CSOFL
+Corals: Stony corals: Staghorn,Hard coral,CSTAG
+Corals: Stony corals: Tabulate,Hard coral,CTAB
+coral:stonycoral;foliosa,Hard coral,cf
+Coscinaraea,Hard coral,Cosci
+Coscinaraea columna,Hard coral,CoCol
+Coscinaraea (encrusting),Hard coral,Co_enc
+Coscinaraea_encrusting,Hard coral,cosenc
+Coscinaraea_massive,Hard coral,cosmas
+Coscinaraea monile,Hard coral,CoMon
+Coscinaraea (sub-massive),Hard coral,Co_subm
+Craterastrea,Hard coral,Craterastr
+CRED-Goniopora/Alveopora spp,Hard coral,*GOAL
+CRED-Pavona spp_encrusting,Hard coral,*PAEN
+CRED-Pavona spp_foliose,Hard coral,*PAFO
+CRED-Pavona spp_massive,Hard coral,*PAMA
+CRED-Porites rus/monticulosa,Hard coral,*PRUS
+CRED-Porites spp_encrusting,Hard coral,*POEN
+CRED-Porites spp_foliose,Hard coral,*POFO
+CREP-T2 Non-Scleractinian,Hard coral,*NS
+CREP-T2 Tabulate hard coral,Hard coral,*TAB
+CREP-T3a Lobophyllia/Symphyllia spp,Hard coral,*LOSY
+CREP-T3a Montipora spp_non-encrusting,Hard coral,*MONE
+CREP-T3a Platygyra/Leptoria spp,Hard coral,*PLLE
+CREP-T3a Porites spp_non-massive,Hard coral,*POMN
+C_SM_GAP,Hard coral,C_SM_GAP
+C_SM_GAP_B,Hard coral,C_SM_GAP_B
+C_SM_MON_B,Hard coral,C_SM_MON_B
+C_SM_OTH_B,Hard coral,C_SM_OTH_B
+C_SM_POR_B,Hard coral,C_SM_POR_B
+C_TA_OTH_B,Hard coral,C_TA_OTH_B
+C_TA_PAC,Hard coral,C_TA_PAC
+C_TA_PAC_B,Hard coral,C_TA_PAC_B
+Ctenactis,Hard coral,Ctena
+Ctenella,Hard coral,Ctenella
+Culicia tenella,Hard coral,CuTen
+Cyathelia_bushy,Hard coral,sytbus
+Cycloseris,Hard coral,Cyclo
+Cycloseris curvata,Hard coral,CycCur
+Cycloseris_massive,Hard coral,cycmas
+Cycloseris vaughani,Hard coral,CycVau
+Cynarina,Hard coral,Cynar
+Cyphastrea,Hard coral,Cypha
+Cyphastrea agassizi,Hard coral,CyphAga
+Cyphastrea chalcidicum,Hard coral,CYPch
+Cyphastrea_encrusting,Hard coral,cypenc
+Cyphastrea_massive,Hard coral,cypmas
+Cyphastrea microphthalma,Hard coral,CyphMic
+Cyphastrea ocellina,Hard coral,CyphOce
+Cyphastrea ocellina bleached,Hard coral,Cypoc BL
+Cyphastrea serailia,Hard coral,CyphSer
+Cyphastrea (sub-massive),Hard coral,Cyph_subm
+Danafungia,Hard coral,Dana
+Dark pink cca,Hard coral,Dark_pcca
+Dead Acropora,Hard coral,Dead Acrop
+Dead Acropora Arborescent,Hard coral,AcArb-D
+Dead Acropora (branching),Hard coral,DAcropBra
+Dead Acropora Plating,Hard coral,AcPlat-D
+Dead Acropora (Tabulate),Hard coral,DAcropTab
+Dead Acr other,Hard coral,AcrOther-D
+Dead Foliose (Old),Hard coral,ODFoliose
+Dead fungia,Hard coral,Fung-D
+Dead Massive Coral,Hard coral,DMS
+Dead Montipora,Hard coral,DMonti
+Dead Other Acropora,Hard coral,DOAcro
+Dead Pocillopora,Hard coral,D_Pocillo
+Dead Pocillopora eydouxi,Hard coral,D_eyd
+Dead Pocillopora (old),Hard coral,ODPoc
+Dead Porites massive,Hard coral,PorMass-D
+Dead Porites submassive,Hard coral,PorSubm-D
+Dendrogyra cylindrus,Hard coral,DenCyl
+Dendrophyllia,Hard coral,Dendroph
+Diaseris,Hard coral,Diaser
+Dichocoenia stellaris,Hard coral,CIS
+Dichocoenia stokesi,Hard coral,Dicho_stok
+Diploastrea,Hard coral,Diplo
+Diploastrea heliopora,Hard coral,DiplHel
+Diploria labyrinthiformis,Hard coral,DiplLab
+Dipsastraea,Hard coral,Dipsa
+Dipsastraea_encrusting,Hard coral,dipenc
+Dipsastraea favus,Hard coral,DipsFav
+Dipsastraea_massive,Hard coral,dipmas
+Dipsastraea matthai,Hard coral,DipsMatt
+Dipsastraea maxima,Hard coral,DipsMax
+Dipsastraea pallida,Hard coral,DipsPal
+Dipsastraea speciosa,Hard coral,DipsSpe
+Dipsastraea veroni,Hard coral,DipsVer
+Diseased Coral,Hard coral,DISCORAL
+Distichopora,Hard coral,Distcho
+Distochopora,Hard coral,DIST
+Echinophyllia,Hard coral,Echinophyl
+Echinophyllia aspera,Hard coral,EcAsp
+Echinophyllia_encrusting,Hard coral,echenc
+Echinophyllia_massive,Hard coral,echmas
+Echinopora,Hard coral,Echinopora
+Echinopora Branching,Hard coral,ECHIBR
+Echinopora_encrusting,Hard coral,ecoenc
+Echinopora_foliose,Hard coral,ecofol
+Echinopora lamellosa,Hard coral,Ech_lam
+Encrusting Coral (PALE),Hard coral,PEncr
+Encrusting Coscinaraea species,Hard coral,Cos_Enc
+Encrusting gorgonians,Hard coral,ENGR
+Erythrastrea,Hard coral,Eryth
+Euphyllia,Hard coral,Euphyllia
+Euphyllia_massive,Hard coral,eupmas
+Eusmilia fastigiata,Hard coral,EFAS
+Favia,Hard coral,fav
+Favia Columnar,Hard coral,FavCol
+Favia Encrusting,Hard coral,FavEnc
+Favia fragum,Hard coral,FaviaFrag
+Favia gravida,Hard coral,FAVG
+Favia leptophylla,Hard coral,FAVL
+Favia Massive,Hard coral,FavMa
+Favia Sub-massive,Hard coral,FavSM
+Favidae-Mussidae massive/meandroid,Hard coral,FAV-MUS
+Favidae-Mussidae massive/meandroid Bleached,Hard coral,FAV-MUS-B*
+Faviidae,Hard coral,Faviidae
+Faviidae Siderastreidae,Hard coral,FAV_SID
+Faviid - Unidentified,Hard coral,FAV-U
+Favites,Hard coral,Favites
+Favites abdita,Hard coral,FavAbd
+Favites acuticollis,Hard coral,FavAcu
+Favites complanata,Hard coral,FavCom
+Favites_encrusting,Hard coral,faienc
+Favites flexuosa,Hard coral,FavFlex
+Favites halicora,Hard coral,FavHal
+Favites (massive),Hard coral,Fav_mass
+Favites_massive,Hard coral,faimas
+Favites micropentagonus,Hard coral,FavMic
+Favites pentagona,Hard coral,FavPent
+Favites Sub-massive,Hard coral,FaviSM
+Fire Coral 1,Hard coral,FCor
+Focal Coral Colony,Hard coral,FCC
+Fungia,Hard coral,Fungia
+Fungia fungites,Hard coral,Fung_fung
+Fungiidae,Hard coral,FUNGIID
+Fungiidae_massive,Hard coral,funmas
+Fused Branching Acropora,Hard coral,Fus_Acr_Br
+Galaxea,Hard coral,Galaxea
+Galaxea_encrusting,Hard coral,galenc
+Galaxea fascicularis,Hard coral,GalFasc
+Galaxea_massive,Hard coral,galmas
+Gardineroseris,Hard coral,Gardineros
+Gardineroseris planulata,Hard coral,GaPlan
+Goniastrea,Hard coral,Goniastrea
+Goniastrea edwardsi,Hard coral,GonEd
+Goniastrea edwardsi_retiformis,Hard coral,Gon_e_r
+Goniastrea_encrusting,Hard coral,gonenc
+Goniastrea_massive,Hard coral,gonmas
+Goniastrea stelligera,Hard coral,GonStell
+Goniastrea Sub-Massive,Hard coral,GonSub
+Goniopora,Hard coral,Goniopora
+Goniopora_columnar,Hard coral,gnicol
+Goniopora_encrusting,Hard coral,gnienc
+Goniopora lobata,Hard coral,GonioLob
+Goniopora_massive,Hard coral,gnimas
+Gonistrea pectinata,Hard coral,GOSpe
+Gustavia,Hard coral,GUS
+Gyrosmilia,Hard coral,Gyr
+Halomitra,Hard coral,Hal
+Hard coral,Hard coral,HC
+Hard Coral (arborescent),Hard coral,HC_arb
+Hard Coral (branching),Hard coral,C_branch
+Hard coral broken,Hard coral,HC_broke
+Hard Coral (bushy),Hard coral,HC_bushy
+Hard Coral (columnar),Hard coral,HC_column
+Hard Coral Corymbose,Hard coral,HcC
+Hard Coral Coverage,Hard coral,HC_Sclerac
+Hard Coral Digitate,Hard coral,HcD
+Hard Coral (encrusting),Hard coral,HC_encr
+Hard Coral (foliose),Hard coral,HC_fol
+Hard coral:foliose broken,Hard coral,HC_F_broke
+Hard Coral (free-living),Hard coral,HC_free
+Hard Coral: Hispidose,Hard coral,HISP
+Hard Coral (massive),Hard coral,HC_massive
+Hard Coral plate,Hard coral,HCP
+Hard Coral Solitary,Hard coral,HcSo
+Hard Coral (submassive),Hard coral,HC_submass
+Hard Coral Tabulate,Hard coral,HcT
+Hard Coral: Tabulate: Dissected,Hard coral,CTAB_D
+Hard Coral: Tabulate: Fused,Hard coral,CTAB_F
+Harry Rabin,Hard coral,BRNR
+HC_BRA,Hard coral,HC_BRA
+HC_BRA_ACRO,Hard coral,HC_BRA_ACR
+HC_BRA_ACRO_B,Hard coral,BR_ACRO_B
+HC_COR,Hard coral,HC_COR
+HC_ENC,Hard coral,HC_ENC
+HC_LAM_TURB,Hard coral,HC_LAM_TUR
+HC_MAS,Hard coral,HC_MAS
+HC_SOL,Hard coral,HC_SOL
+HC_SUB,Hard coral,HC_SUB
+Hcucullata,Hard coral,HCUC
+Heliofungia,Hard coral,HFUN
+Heliopora coerulea,Hard coral,HelCoe
+Helioseris cucullata,Hard coral,HeCuc
+Helliopora,Hard coral,CHL**
+Herpolitha,Hard coral,Herpo
+Herpolitha limax,Hard coral,Her_lim
+Heterocyathus,Hard coral,Heterocya
+Heterocyathus aequicostatus,Hard coral,HetAeq
+Heteropsammia cochlea,Hard coral,HeCoch
+Homophyllia sp.,Hard coral,Homo
+Horastrea,Hard coral,Horastrea
+Hydnophora,Hard coral,Hydno
+Hydnophora_arborecent,Hard coral,hydarb
+Hydnophora Digitate,Hard coral,HydDi
+Hydnophora_encrusting,Hard coral,hydenc
+Hydnophora exesa,Hard coral,HyExe
+Hydnophora massive,Hard coral,HydMa
+Hydnophora_massive,Hard coral,hydmas
+Hydnophora microconos,Hard coral,Hyd_mic
+Hydnophora pilosa,Hard coral,HyPil
+Hydnophora Plating,Hard coral,HydPla
+Hydnophora rigida,Hard coral,HYDri
+Hydnophora Submassive,Hard coral,HydSub
+Isophyllia,Hard coral,Isophyllia
+Isophyllia rigida,Hard coral,IsophRig
+Isophyllia sinuosa,Hard coral,IsophSin
+Isopora,Hard coral,Isopora
+Isopora_arborescent,Hard coral,isparb
+Isopora_column,Hard coral,ispcol
+Isopora Columnar,Hard coral,IsoCol
+Isopora_encrusting,Hard coral,ispenc
+Isopora Encrusting,Hard coral,IsoEnc
+Isopora Sub-Massive,Hard coral,IsoSM
+KBayBleach2019,Hard coral,BlPCOM
+"Leaf, Blade Coral",Hard coral,Corleaf
+Leptastrea,Hard coral,Lepta
+Leptastrea bewickensis,Hard coral,LEBEW
+Leptastrea bottae,Hard coral,Lbott
+Leptastrea_encrusting,Hard coral,letenc
+Leptastrea_massive,Hard coral,letmas
+Leptastrea purpurea,Hard coral,LPurp
+Leptastrea purpurea algal overgrowth,Hard coral,Leppur AO
+Leptastrea purpurea bleached,Hard coral,Leppur BL
+Leptastrea purpurea tissue loss,Hard coral,Leppur TL
+Leptastrea purpurea trematodiasis,Hard coral,Leppur TR
+Leptastrea transversa,Hard coral,LeTran
+"Leptastrea transversa, bleached",Hard coral,LTRA_BL
+Leptopsammia pruvoti,Hard coral,LEP_PRU
+Leptoria,Hard coral,Leptoria
+Leptoria_massive,Hard coral,ltrmas
+Leptoseris,Hard coral,Leptoseris
+Leptoseris amitoriensis,Hard coral,Lami
+Leptoseris Branching,Hard coral,LepBr
+Leptoseris cailleti,Hard coral,LEPC
+Leptoseris cucullata,Hard coral,LEPCU
+Leptoseris_encrusting,Hard coral,lpsenc
+Leptoseris Encrusting,Hard coral,LepEnc
+Leptoseris_foliose,Hard coral,lpsfol
+Leptoseris fragilis,Hard coral,Lfra
+Leptoseris glabra,Hard coral,Lgla
+Leptoseris hawaiiensis,Hard coral,LEPH
+Leptoseris incrustans,Hard coral,L.incrus
+Leptoseris plating/encrusting,Hard coral,LEP-PE
+Leptoseris yabei,Hard coral,Lyabei
+Lettuce Coral,Hard coral,LETT
+LHI,Hard coral,Pdam fluo
+Lithophyllon,Hard coral,Litho
+Lithophyllon_,Hard coral,Lithoph
+Lithophyllon_encrusting,Hard coral,litenc
+Lithophyllon_foliose,Hard coral,litfol
+Live,Hard coral,Live
+Live Coral,Hard coral,LICO
+Lobactis,Hard coral,Lobac
+Lobactis_massive,Hard coral,lbamas
+Lobactis scutaria,Hard coral,LobScut
+Lobe coral-Algal overgrowth,Hard coral,LobAlgae
+Lobe coral-Bleached,Hard coral,LobBleach
+Lobe coral-Healthy,Hard coral,LobHealthy
+Lobe coral-Tissue loss,Hard coral,LobTissueL
+Lobe coral-Trematodiasis,Hard coral,LobPimple
+Lobophyllia,Hard coral,Lobophyl
+Lobophyllia corymbosa,Hard coral,Lob_cor
+Lobophyllia hemprichii,Hard coral,LoboHemp
+Lobophyllia_massive,Hard coral,lobmas
+Lobophyllia radians,Hard coral,SYMra
+Lobophyllia recta,Hard coral,SYMre
+Lobophyllia(Symphyllia) agaricia,Hard coral,SYMag
+Lophelia pertusa,Hard coral,LophPer
+Madracis,Hard coral,Madracis
+Madracis auretenra,Hard coral,MadAure
+Madracis carmabi,Hard coral,MadCarm
+Madracis decactis,Hard coral,MadDeca
+Madracis formosa,Hard coral,MadForm
+Madracis kirbyi,Hard coral,MadKirb
+Madracis mirabilis,Hard coral,MAMI
+Madracis pharensis,Hard coral,MadPhar
+Madracis senaria,Hard coral,MadSen
+Mangulosa,Hard coral,MANG
+Manicina areolata,Hard coral,MAA
+M Annularis complex,Hard coral,MACom
+Mareolata,Hard coral,MARE
+MASE: Bleached,Hard coral,MASE_BLC
+MASE: Large Rounded Polyps,Hard coral,MASE_LRG_O
+MASE: Meandering Other,Hard coral,MASE_MEA_O
+MASE: Other,Hard coral,MASE_OTH
+MASE: Other Bleached,Hard coral,MASEoth-B*
+MASE: Small or Invis Polyps,Hard coral,MASE_SML_O
+Massive colonies with invisible polyps,Hard coral,MASE_INV
+Massive colonies with visible polyps,Hard coral,MASE_VIS_O
+Massive / Encrusting Coral,Hard coral,MASENC
+"Massive, Submassive, Encrusting: Colonies of",Hard coral,MASE_VIS_I
+"Massive, Submassive, Encrusting colonies of P",Hard coral,MASE_INV_P
+Massive/SubMassive/Encrusting: Montipora,Hard coral,MASE_SM_Mo
+Meandrina,Hard coral,MEAN
+Meandrina braziliensis,Hard coral,MEBR
+Meandrina jacksoni,Hard coral,MEANJ
+Meandrina meandrites,Hard coral,MM
+Meandroid (brain) corals,Hard coral,Brain
+menj,Hard coral,1
+menj 2,Hard coral,m2
+Merulina,Hard coral,Merulina
+Merulina ampliata,Hard coral,MERam
+Merulina_encrusting,Hard coral,meuenc
+Merulina_foliose,Hard coral,meufol
+Merulinidae_encrusting,Hard coral,merenc
+Merulinidae_massive,Hard coral,mermas
+Micromussa,Hard coral,Mcmsa
+Micromussa lordhowensis,Hard coral,Micro_lhi
+Millepora alcicornis,Hard coral,MILA
+Millepora_arborescent,Hard coral,milarb
+Millepora braziliensis,Hard coral,MIBR
+Millepora complanata,Hard coral,MILC
+Millepora dead,Hard coral,MILDEAD
+Millepora nitida,Hard coral,MINI
+Millepora squarrosa 2,Hard coral,MSQU
+Millepora tenera,Hard coral,MILte
+Montastraea,Hard coral,Montastr
+Montastraea cavernosa,Hard coral,MontaCav
+Montastraea (encrusting),Hard coral,Monta_encr
+Montastraea Sub-Massive,Hard coral,MonSM
+Montastrea_massive,Hard coral,mtamas
+Montipora,Hard coral,Monti
+Montipora aequituberculata,Hard coral,MoAeq
+Montipora (branching),Hard coral,Monti_br
+Montipora cactus,Hard coral,MONca
+Montipora capitata,Hard coral,MontiCap
+Montipora capitata algal overgrowth,Hard coral,Moncap AO
+Montipora capitata bleached,Hard coral,Moncap BL
+Montipora capitata morpho 1,Hard coral,MON_Cap_pl
+Montipora capitata morpho 2,Hard coral,MON_Cap_br
+Montipora capitata paled,Hard coral,MCAP Pale
+Montipora capitata tissue loss,Hard coral,Moncap TL
+Montipora capitata trematodiasis,Hard coral,Moncap TR
+Montipora danae,Hard coral,MontiDan
+Montipora digitata,Hard coral,Mondig
+Montipora efflorescens,Hard coral,Mon_eff
+Montipora (encrusting),Hard coral,Monti_encr
+Montipora_encrusting,Hard coral,monenc
+Montipora Encrusting/Massive tuberculae,Hard coral,Monttub
+Montipora flabellata,Hard coral,MontiFlab
+Montipora flabellata algal overgrowth,Hard coral,Monfla AO
+Montipora flabellata tissue loss,Hard coral,Monfla TL
+Montipora flabellata trematodiasis,Hard coral,Monfla TR
+Montipora (foliose),Hard coral,Monti_fol
+Montipora_foliose,Hard coral,monfol
+Montipora foveolata,Hard coral,MonFov
+Montipora funnel corallites,Hard coral,Montfun
+Montipora grisea,Hard coral,MONgr
+Montipora hoffmeisteri,Hard coral,Mon_hof
+Montipora incrassata,Hard coral,MON_Inc
+Montipora informis,Hard coral,MoInfo
+Montipora Laminar without Ridges,Hard coral,MontLam
+Montipora Laminar with Ridges,Hard coral,MontLamR
+Montipora_massive,Hard coral,monmas
+Montipora meandrina,Hard coral,Mon_mea
+Montipora millepora,Hard coral,MonMil
+Montipora mollis,Hard coral,MONml
+Montipora monasteriata,Hard coral,MONmo
+Montipora Mounding,Hard coral,Mont Mound
+Montipora Nonencrusting,Hard coral,MONE
+Montipora patula,Hard coral,MontiPat
+Montipora patula algal overgrowth,Hard coral,Monpat AO
+Montipora patula bleached,Hard coral,Monpat BL
+Montipora patula tissue loss,Hard coral,Monpat TL
+Montipora patula trematodiasis,Hard coral,Monpat TR
+Montipora Plating,Hard coral,MonPla
+Montipora small corallites,Hard coral,Montsm
+Montipora spongiosa,Hard coral,MontiSpon
+Montipora stellata,Hard coral,MontiStel
+Montipora studeri,Hard coral,M.studeri
+Montipora submassive,Hard coral,Monti_subm
+Montipora Sub-Massive,Hard coral,MontSubM
+Montipora Tabulate,Hard coral,MontTbl
+Montipora turgescens,Hard coral,Mon_tur
+Montipora undata,Hard coral,MONun
+Montipora venosa,Hard coral,MonVen
+Montipora verrucosa,Hard coral,MONve
+Montipora with verrucae,Hard coral,Montver
+Montipota other,Hard coral,MON_OTH
+Moseleya,Hard coral,Mos
+Mr Webb,Hard coral,Webb
+Mushroom coral-Healthy,Hard coral,MushHealth
+Mussa angulosa,Hard coral,MUSANG
+Mussidae,Hard coral,Muss
+Mussismilia braziliensis,Hard coral,MuBr
+Mussismilia harttii,Hard coral,MuHa
+Mussismilia hispida,Hard coral,MuHi
+Mussismilia leptophylla,Hard coral,MULE
+Mycedium,Hard coral,Myc
+Mycedium_encrusting,Hard coral,mycenc
+Mycedium_foliose,Hard coral,mycfol
+Mycedium plating,Hard coral,MYC-PLA
+Mycetophyllia,Hard coral,Mycetophy
+Mycetophyllia aliciae,Hard coral,MycetAli
+Mycetophyllia danaana,Hard coral,MycetDan
+Mycetophyllia ferox,Hard coral,MycetFer
+Mycetophyllia lamarckana,Hard coral,MycetLam
+No Bleaching,Hard coral,NBle
+No bleaching branching,Hard coral,NBlB
+No bleaching Encrusting,Hard coral,NBE
+No bleaching Massive,Hard coral,NBlM
+No Bleaching Other Corals,Hard coral,NBlOC
+No dead coral,Hard coral,no_dead
+No Disease,Hard coral,NODZ
+No live coral,Hard coral,no_live
+Non-Acropora branching,Hard coral,NonAcBr
+Non-Acropora (Digitate),Hard coral,NonAcDig
+Non-Acropora encrusting,Hard coral,NonAcEnc
+Non-Acropora foliose,Hard coral,NonAcF
+Non-Acropora massive,Hard coral,NonAcM
+Non-Acropora submassive,Hard coral,NonAcSub
+Non-Scleractinian Hard Corals,Hard coral,NS
+O2_HardCoral,Hard coral,O2HC
+Ocomplex bleached,Hard coral,OCOM-BL
+Oculina,Hard coral,Oculina
+Oculina arbuscula,Hard coral,OcuArb
+Oculina diffusa,Hard coral,OCD
+Oculina patagonica,Hard coral,OcuPat
+Oculina robusta,Hard coral,Orob
+Odiffusa,Hard coral,ODIF
+Old dead Acropora (branching),Hard coral,OD_openacr
+Old dead closed Acropora,Hard coral,OD_clacro
+Old dead coral (encrusting),Hard coral,ODencr
+Old dead tabular Acropora,Hard coral,OD_tabacr
+Orange encrusting bryozoan 3,Hard coral,BROR3
+Orbicella,Hard coral,Orbicella
+Orbicella annularis,Hard coral,OrbAnn
+Orbicella faveolata,Hard coral,OrbFav
+Orbicella franksi,Hard coral,OrbFrank
+Other coral or algae,Hard coral,OthCor
+Other hard coral,Hard coral,OTH-HC
+Other Hard Coral Bleached (white),Hard coral,OTH-HC-B*
+Other scleractinians,Hard coral,HC_other
+Oulophyllia,Hard coral,Ouloph
+Oulophyllia crispa,Hard coral,Oul_cri
+Oulophyllia_encrusting,Hard coral,oulenc
+Oulophyllia_massive,Hard coral,oulmas
+Out-planted colony,Hard coral,Planted
+Oxypora,Hard coral,Oxyp
+Oxypora_encrusting,Hard coral,oxyenc
+Oxypora_foliose,Hard coral,oxyfol
+Oxypora_massive,Hard coral,oxymas
+Pachyseris,Hard coral,Pachyseris
+Pachyseris_encrusting,Hard coral,pacenc
+Pachyseris_foliose,Hard coral,pacfol
+Pachyseris plating,Hard coral,PAC-PLA
+Pachyseris speciosa,Hard coral,PACsp
+Paled massive/submassive,Hard coral,P_lobe
+Pale foliose,Hard coral,pale_fol
+Pale Other Acropora,Hard coral,POAcro
+Palythoa sp,Hard coral,Paly
+Paracyathus,Hard coral,Paracya
+Paracyathus pulchellus_Phyllangia americana,Hard coral,CUP
+Paracyathus stokesi,Hard coral,PaSto
+Paragoniastrea australensis,Hard coral,Para_austr
+Paragoniastrea russelli,Hard coral,ParagRus
+Paramontastraea peresi,Hard coral,ParamPer
+Paramontastraea salebrosa,Hard coral,PSal
+Partial Bleaching,Hard coral,PBle
+Partial Bleaching Branching,Hard coral,PBB
+Partial Bleaching Encrusting,Hard coral,PBE
+Partial Bleaching Massive,Hard coral,PBM
+Partial Bleaching Other Corals,Hard coral,PBlOC
+Partially bleached Branching,Hard coral,PBlB
+Partially Bleached Coral,Hard coral,ParBl
+Partially bleached massive,Hard coral,PBlM
+Pavona,Hard coral,Pavona
+Pavona cactus,Hard coral,PavCac
+Pavona clavus,Hard coral,PavClav
+Pavona (columnar),Hard coral,Pav_col
+Pavona_columnar,Hard coral,pavcol
+Pavona decussata,Hard coral,PavDec
+Pavona decussata_divaricata_frondifera,Hard coral,Pav_d_d_f
+Pavona duerdeni,Hard coral,PavDue
+Pavona encrusting,Hard coral,Pav-encr
+Pavona_encrusting,Hard coral,pavenc
+Pavona explanulata,Hard coral,PavExp
+Pavona_foliose,Hard coral,pavfol
+Pavona maldivensis,Hard coral,PavMal
+Pavona maldivensis bleached,Hard coral,PMAL_BL
+Pavona_massive,Hard coral,pavmas
+Pavona massive/encrusting,Hard coral,PAV-ME
+Pavona (submassive),Hard coral,Pav_sub
+Pavona varians,Hard coral,PavVar
+Pavona varians algal overgrowth,Hard coral,Pavvar AO
+Pavona varians bleached,Hard coral,Pavvar BL
+Pavona varians tissue loss,Hard coral,Pavvar TL
+Pavona varians trematodiasis,Hard coral,Pavvar TR
+Pavona varians_venosa,Hard coral,Pav_v_v
+Pavona venosa,Hard coral,PavVen
+P. duerdeni,Hard coral,PAV_Due
+Pectinia,Hard coral,PEC
+Pectiniid - Unidentified Plating,Hard coral,PEC-UP
+Phyllangia americana,Hard coral,Phymerica
+Phyllangia mouchezii,Hard coral,phyl
+Phymastrea,Hard coral,Phyma
+Physogyra,Hard coral,Phys
+Pigmented Montipora capitata,Hard coral,MCAP_Pig
+Pigmented Porites Compressa,Hard coral,PCOM_Pig
+Plating Coral,Hard coral,PLATEC
+Platygyra,Hard coral,Platy
+Platygyra 1,Hard coral,Plat1
+Platygyra 2,Hard coral,Plat2
+Platygyra crosslandi,Hard coral,PlCross
+Platygyra daedalea,Hard coral,PlDaed
+Platygyra_encrusting,Hard coral,plaenc
+Platygyra Encrusting,Hard coral,PlatEnc
+Platygyra lamellina,Hard coral,PlLam
+Platygyra_massive,Hard coral,plamas
+Platygyra Massive,Hard coral,PlatMa
+Platygyra pini,Hard coral,PLApi
+Platygyra ryukyuensis 1,Hard coral,Pryu
+Platygyra sinensis,Hard coral,PlSinen
+Platygyra Sub-Massive,Hard coral,PlatSM
+Plerogyra,Hard coral,Plero
+Plesiastrea,Hard coral,Plesiastr
+Plesiastrea versipora,Hard coral,PlesVers
+Pleuractis,Hard coral,Pleur
+Pleuractis_massive,Hard coral,plemas
+Pocillopora,Hard coral,Pocill
+Pocillopora aliciae,Hard coral,PocAli
+Pocillopora ank_dan_ele_mea_set_ver,Hard coral,Poc_ademsv
+Pocillopora (branching),Hard coral,Poc_bran
+Pocillopora_bushy,Hard coral,pocbus
+Pocillopora cauliflower,Hard coral,POCI_CAU
+Pocillopora damicornis,Hard coral,PocDam
+Pocillopora eydouxi_woodjonesi,Hard coral,Poc_e_w
+Pocillopora grandis (eydouxi),Hard coral,PocGran
+Pocillopora ligulata,Hard coral,PocLig
+Pocillopora meandrina,Hard coral,PocMea
+Pocillopora meandrina algal overgrowth,Hard coral,Pocmea AO
+Pocillopora meandrina tissue loss,Hard coral,Pocmea TL
+Pocillopora meandrina trematodiasis,Hard coral,Pocmea TR
+Pocillopora (pale),Hard coral,PPoc
+Pocillopora verrucosa,Hard coral,PocVer
+Pocilloporidae,Hard coral,POCIL
+Pocilloporidae Bleached (white),Hard coral,POCI-B*
+Podabacia,Hard coral,Podbac
+Podabacia_encrusting,Hard coral,podenc
+Podabacia_foliose,Hard coral,podfol
+Polycyathus margondoni,Hard coral,PoMar
+Polyphillia,Hard coral,Polyph
+POLYPHYLLIA,Hard coral,POLPHIL
+Polyphyllia_massive,Hard coral,polmas
+Porites,Hard coral,Porites
+Porites annae,Hard coral,Por_ann
+Porites arnaudi,Hard coral,Por_arn
+Porites asteroides orange,Hard coral,Ast_orange
+Porites astreoides,Hard coral,PorAstr
+Porites attenuata,Hard coral,Por_att
+Porites bernardi,Hard coral,P. bern
+Porites (branching),Hard coral,Por_branch
+Porites branneri,Hard coral,PorBran
+Porites brighami,Hard coral,PorBrig
+Porites brighami algal overgrowth,Hard coral,Porbri AO
+Porites brighami bleached,Hard coral,Porbri BL
+Porites brighami tissue loss,Hard coral,Porbri TL
+Porites brighami trematodiasis,Hard coral,Porbri TR
+Porites colonensis,Hard coral,PORCOL
+Porites columna,Hard coral,P_col
+Porites_columnar,Hard coral,potcol
+Porites compressa,Hard coral,PorComp
+Porites compressa algal overgrowth,Hard coral,Porcom AO
+Porites compressa morpho 1 fingers,Hard coral,POR_Com_fi
+Porites compressa morpho 2 fused branches,Hard coral,POR_Com_fu
+Porites compressa paled,Hard coral,PCMP Pale
+Porites compressa tissue loss,Hard coral,Porcom TL
+Porites compressa trematodiasis,Hard coral,Porcom TR
+Porites cylindrica,Hard coral,PorCyl
+Porites digitiform,Hard coral,PDIG
+Porites divaricata,Hard coral,PorDiv
+Porites duerdeni,Hard coral,PDUER
+Porites_encrusting,Hard coral,potenc
+Porites encrusting-plates,Hard coral,POR_OTH_EP
+Porites evermanni,Hard coral,PorEverm
+Porites evermanni algal overgrowth,Hard coral,Poreve AO
+Porites evermanni bleached,Hard coral,Poreve BL
+Porites evermanni tissue loss,Hard coral,Poreve TL
+Porites evermanni trematodiasis,Hard coral,Poreve TR
+Porites_foliose,Hard coral,potfol
+Porites furcata,Hard coral,PorFurc
+Porites harrisoni,Hard coral,PorHar
+Porites hawaiiensis,Hard coral,POHA
+Porites heronensis,Hard coral,Por_her
+Porites horizontalata_rus,Hard coral,Por_h_r
+Porites irregularis,Hard coral,P. Irr
+Porites lichen,Hard coral,PorLich
+Porites lobata,Hard coral,PorLob
+Porites lobata 1,Hard coral,Plob
+Porites lobata algal overgrowth,Hard coral,Porlob AO
+Porites lobata bleached,Hard coral,Porlob BL
+Porites lobata healthy,Hard coral,PorlobH
+Porites lobata tissue loss,Hard coral,Porlob TL
+Porites lobata trematodiasis,Hard coral,Porlob TR
+Porites lutea,Hard coral,PorLut
+Porites lutea bleached,Hard coral,PLUT_BL
+Porites (massive),Hard coral,Por_mass
+Porites_massive,Hard coral,potmas
+Porites monticulosa,Hard coral,PorMont
+Porites monticulosa bleached,Hard coral,PMON_BL
+Porites-mound,Hard coral,POR-M
+Porites nigrescens,Hard coral,PORni
+Porites nodifera,Hard coral,PoNod
+Porites nodular branches,Hard coral,POR_NOD
+Porites non-massive,Hard coral,PONM
+Porites PLating,Hard coral,POR-PLA
+Porites porites,Hard coral,PorPor
+Porites rus,Hard coral,PorRus
+Porites rus bleached,Hard coral,PRUS_BL
+Porites solida,Hard coral,Por_sol
+Porites Sub-Massive,Hard coral,PorSM
+Porites superfusa,Hard coral,P-SUPER
+Poritidae branching,Hard coral,POR-BRA
+Poritidae branching Bleached (white),Hard coral,POR-BRA-B*
+Poritidae encrusting,Hard coral,POR-ENC
+Poritidae encrusting Bleached (white),Hard coral,POR-ENC-B*
+Poritidae (massive),Hard coral,POR_mas
+Poritidae plating,Hard coral,POR_PLA
+Poritipora,Hard coral,Poritip
+Pporites,Hard coral,PPOR
+Psammocora,Hard coral,Psammo
+Psammocora albopicta,Hard coral,PsamAlb
+Psammocora_bushy,Hard coral,psabus
+Psammocora_columnar,Hard coral,psacol
+Psammocora contigua,Hard coral,PsamCon
+Psammocora_encrusting,Hard coral,psaenc
+Psammocora_massive,Hard coral,psamas
+Psammocora nierstraszi,Hard coral,PsamNier
+Psammocora profundacella,Hard coral,PsamProf
+Psammocora stellata,Hard coral,PsamStell
+Pseudodiploria,Hard coral,PSEU
+Pseudodiploria bleached,Hard coral,PSEU-BL
+Pseudodiploria clivosa,Hard coral,PseuCliv
+Pseudodiploria strigosa,Hard coral,PseuStrig
+Pseudosiderastrea,Hard coral,Pseudosid
+Recent Dead Coral,Hard coral,RD_HC
+Recently dead closed Acropora,Hard coral,RD_clacro
+Recently Dead Foliose Coral,Hard coral,RDFoliose
+Recently killed coral,Hard coral,RKC
+recently partially dead Pocillopora,Hard coral,Poc_RPDead
+Recovered,Hard coral,RECOV
+Recruit,Hard coral,REC
+Recruit 01,Hard coral,Rec01
+Recruit 10,Hard coral,Rec10
+Recruit 2,Hard coral,Rec2
+Recruit 3,Hard coral,Rec3
+Recruit 4,Hard coral,Rec4
+Recruit 5,Hard coral,Rec5
+Recruit 6,Hard coral,Rec6
+Recruit 7,Hard coral,Rec7
+Recruit 8,Hard coral,Rec8
+Recruit 9,Hard coral,Rec9
+RS-Coelastrea,Hard coral,Coelas
+RS-Porites columnar,Hard coral,PoColumn
+Sandalolitha,Hard coral,SANDALTH
+Sandolitha,Hard coral,Sando
+Sarcothelia edmonsonii,Hard coral,Sedmon
+Scapophyllia,Hard coral,Scapophyll
+Sclerophyllia maxima,Hard coral,ScMax
+Scolymia,Hard coral,SCOL
+Scolymia cubensis,Hard coral,SCOCUB
+Scolymia lacera,Hard coral,SCOLA
+Scolymia_massive,Hard coral,scomas
+Scolymia wellsi,Hard coral,SCOW
+Sediment buried coral,Hard coral,SedBCor
+Seratiopora hystrix,Hard coral,Shys
+Seriatopora,Hard coral,Seriatop
+Seriatopora Branching,Hard coral,SerBr
+Seriatopora_bushy,Hard coral,serbus
+Seriatopora caliendrum,Hard coral,SERca
+Short Branching Coral,Hard coral,S_BRANCH
+Siderastrea,Hard coral,Siderastr
+Siderastrea_encrusting,Hard coral,sidenc
+Siderastrea_massive,Hard coral,sidmas
+Siderastrea radians,Hard coral,SidRad
+Siderastrea savignyana,Hard coral,SidSav
+Siderastrea siderea,Hard coral,SidSid
+Siderastrea stellata,Hard coral,SidStel
+Siderastreidae,Hard coral,Sider
+Solenastrea,Hard coral,SOLE
+Solenastrea bournoni,Hard coral,SOLBOU
+Solenastrea hyades,Hard coral,SOL
+Stephanocoenia intersepta,Hard coral,StephInt
+Stephanocoenia michellini,Hard coral,SMIC
+Stephanocoenia spp.,Hard coral,StSp
+Stichopathes sp.,Hard coral,Stpa
+Stony Corals: Colonial,Hard coral,StonyC_Col
+Stony Corals: Solitary,Hard coral,StonyC_Sol
+Stylaraea,Hard coral,Stylar
+Stylaster_bushy,Hard coral,syabus
+Stylaster roseus,Hard coral,Fire Sros
+Stylocoeniella,Hard coral,Styloc
+Stylophora,Hard coral,Styloph
+Stylophora (branching),Hard coral,St_bra
+Stylophora_bushy,Hard coral,stybus
+Stylophora mordax,Hard coral,Sty_mor
+Stylophora pistillata,Hard coral,StPis
+Submassive Goniopora,Hard coral,C_SM_GOP
+Submassive Goniopora (Bleached),Hard coral,C_SM_GOP_B
+Submassive Goniopora (Paling),Hard coral,C_SM_GOP_P
+Symphyllia,Hard coral,Symph
+Symphyllia_encrusting,Hard coral,symenc
+Symphyllia Encrusting,Hard coral,SymEn
+Symphyllia_massive,Hard coral,symmas
+Syphyliia Encrusting,Hard coral,SyphEnc
+Table-like Hard Coral,Hard coral,PHC
+Tabulate Acropora,Hard coral,TabAc
+test coral,Hard coral,TC
+TFP: Porites,Hard coral,TFP_SMO_Po
+TFP: Turbinaria,Hard coral,TFP_RND_Tu
+TFP: Visible Relief Structures,Hard coral,TFP_RDG_Al
+TFP: Visible Relief Structures Bleached,Hard coral,TFP_RDG-B*
+TFP: Visible Round Corallites,Hard coral,TFP_RND_Al
+TFP: Visible Round Corallites Bleached,Hard coral,TFP_RND-B*
+"Thin, Foliose, and Plating bleached",Hard coral,TFP_BLC
+Thin/Foliose/Plating Montipora,Hard coral,TFP_RDG_Mo
+"Thin, Foliose, Plating: Other",Hard coral,TFP_OTH
+Totally bleached Acropora formosa 1,Hard coral,TB_ACfor
+Totally bleached Lobophyllia sp.,Hard coral,TB_Lobo
+Totally bleached Montipora sp.,Hard coral,TB_Monti
+Totally bleached Platygyra ryukyuensis,Hard coral,TB_Pryu
+Totally bleached Porites cylindrica,Hard coral,TB_Pcyl
+Totally bleached Seratiopora hystrix,Hard coral,TB_Shys
+Trachyphyllia,Hard coral,Trachyph
+Tridacna crocea,Hard coral,Tri_cro
+Tubastraea,Hard coral,Tubastraea
+Tubastraea_bushy,Hard coral,tubbus
+Tubastraea coccinea,Hard coral,TUBCOC
+Tubastraea tagusensis,Hard coral,TuTag
+Tubastrea,Hard coral,Tubastrea
+Tubastrea aurea,Hard coral,TUBAU
+Tubastrea coccinea,Hard coral,Tub_C
+Tubipora_massive,Hard coral,tubmas
+Turbinaria (coral),Hard coral,Turbinaria
+Turbinaria_encrusting,Hard coral,turenc
+Turbinaria Encrusting,Hard coral,TurbEnc
+Turbinaria_foliose,Hard coral,turfol
+Turbinaria Foliose,Hard coral,TurbFol
+Turbinaria_massive,Hard coral,turmas
+Turbinaria mesenterina,Hard coral,TurMes
+Turbinaria peltata,Hard coral,TurPel
+Turbinaria reniformis,Hard coral,TurRen
+Unhealthy tissue color,Hard coral,UnHCol
+Unidentified Hard Coral,Hard coral,HCoral
+unknown branching coral,Hard coral,UCB
+Unknown Coral,Hard coral,Un coral
+unknown dead branching,Hard coral,unk_br_D
+unknown dead massive,Hard coral,unk_mass_D
+unknown encrusting coral,Hard coral,Enc_cor
+Unknown Hard Coral,Hard coral,UnkCoral
+unknown massive coral,Hard coral,UMC
+zooanhtid,Hard coral,ZO
+Zoopilus echinatus,Hard coral,ZPE
+0mm Encrusting Sponge,Other Invertebrates,0mmEnSp
+0mm Sponge Maybe,Other Invertebrates,0mmSpMb
+0mm Yellow Encrusting Sponge,Other Invertebrates,0mmYEnSp
+10cm Agelas conifera/tubulata,Other Invertebrates,10cAgConTu
+10cm Ailochroia crassa,Other Invertebrates,10cAiCr
+10cm Ball Sponge,Other Invertebrates,10cBaSp
+10cm Brown and White Sponge,Other Invertebrates,10cBWSp
+10cm Elkhorn Agelas,Other Invertebrates,10cElkAg
+10cm Massive Sponge,Other Invertebrates,10cMaSp
+10cm Multitubed Sponge,Other Invertebrates,10cMuSp
+10cm Myrmekioderma,Other Invertebrates,10cMyrmek
+10cm Orange Agelas,Other Invertebrates,10cOrAg
+10cm Plakortis,Other Invertebrates,10cPlak
+10cm Sponge,Other Invertebrates,10cSpgOth
+10cm Sponge Maybe,Other Invertebrates,10cSpMb
+10cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,10cYlSclsp
+10cm Thin Ear Sponge,Other Invertebrates,10cTnEarSp
+10cm Tube Sponge,Other Invertebrates,10cTbSp
+10cm White Tube Sponge,Other Invertebrates,10cWTubSp
+10cm Xestospongia muta,Other Invertebrates,10cXmuta
+10cm Yellow Ear Sponge,Other Invertebrates,10cYlEarSp
+1cm Agelas conifera/tubulata,Other Invertebrates,1cAgConTub
+1cm Ailochroia crassa,Other Invertebrates,1cAiCr
+1cm Aplysina Rope,Other Invertebrates,1cApRop
+1 cm Brown and White Sponge,Other Invertebrates,1cBWSp
+1cm Encrusting Sponge,Other Invertebrates,1cEnSp
+1cm Myrmekioderma,Other Invertebrates,1cMyrmek
+1cm Orange Agelas,Other Invertebrates,1cOrAg
+1cm Plakortis,Other Invertebrates,1cPlak
+1cm Rope Sponge,Other Invertebrates,1cRpSp
+1cm Sponge,Other Invertebrates,1cSpgOth
+1cm Sponge Maybe,Other Invertebrates,1cSpMb
+1cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,1cYlSclsp
+1cm Thin Ear Sponge,Other Invertebrates,1cTnEarSp
+1cm Tube Sponge,Other Invertebrates,1cTbSp
+1cm White Encrusting Sponge,Other Invertebrates,1cWEnSp
+1cm Xestospongia Muta,Other Invertebrates,1cXmuta
+1 cm Yellow Ear Sponge,Other Invertebrates,1cYlEarSp
+1cm Yellow Encrusting Sponge,Other Invertebrates,1cYEnSp
+1m Massive Sponge,Other Invertebrates,100cMaSp
+1m Sponge Maybe,Other Invertebrates,1mSpMb
+1m Xestospongia muta,Other Invertebrates,100cXmuta
+1m Yellow Ear Sponge,Other Invertebrates,100cYlErSp
+20cm Agelas conifera/tubulata,Other Invertebrates,20cAgConTu
+20cm Ball Sponge,Other Invertebrates,20cBaSp
+20cm Brown and White Sponge,Other Invertebrates,20cBWSp
+20cm Elkhorn Agelas,Other Invertebrates,20cElkAg
+20cm Massive Sponge,Other Invertebrates,20cMaSp
+20cm Multitubed Sponge,Other Invertebrates,20cMuSp
+20cm Myrmekioderma,Other Invertebrates,20cMyrmek
+20cm Orange Agelas,Other Invertebrates,20cOrAg
+20cm Plakortis,Other Invertebrates,20cPlak
+20cm Sponge,Other Invertebrates,20cSpgOth
+20cm Sponge Maybe,Other Invertebrates,20cSpMb
+20cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,20cYlSclsp
+20 cm Tube Sponge,Other Invertebrates,20cTbSp
+20cm Xestospongia muta,Other Invertebrates,20cXmuta
+20cm Yellow Ear Sponge,Other Invertebrates,20cYlEarSp
+3cm Agelas conifera/tubulata,Other Invertebrates,3cAgConTub
+3cm Ailochroia crassa,Other Invertebrates,3cAiCr
+3cm Aplysina Rope,Other Invertebrates,3cApRop
+3cm Ball Sponge,Other Invertebrates,3cBaSp
+3cm Brown and White Sponge,Other Invertebrates,3cBWSp
+3cm Elkhorn Agelas,Other Invertebrates,3cElkAg
+3cm Encrusting Sponge,Other Invertebrates,3cEnSp
+3cm Massive Sponge,Other Invertebrates,3cMaSp
+3cm Multitubed Sponge,Other Invertebrates,3cMuSp
+3cm Myrmekioderma,Other Invertebrates,3cMyrmek
+3cm Orange Agelas,Other Invertebrates,3cOrAg
+3cm Plakortis,Other Invertebrates,3cPlak
+3cm Rope Sponge,Other Invertebrates,3cRpSp
+3cm Sponge,Other Invertebrates,3cSpgOth
+3cm Sponge Maybe,Other Invertebrates,3cSpMb
+3cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,3cYlSclsp
+3cm Thin Ear Sponge,Other Invertebrates,3cTnEarSp
+3cm Tube Sponge,Other Invertebrates,3cTbSp
+3cm White Encrusting Sponge,Other Invertebrates,3cWEnSp
+3cm White Tube Sponge,Other Invertebrates,3cWTubSp
+3cm Xestospongia muta,Other Invertebrates,3cXmuta
+3 cm Yellow Ear Sponge,Other Invertebrates,3cYlEarSp
+3cm Yellow Encrusting Sponge,Other Invertebrates,3cYEnSp
+50cm Ball Sponge,Other Invertebrates,50cBaSp
+50cm Brown and White Sponge,Other Invertebrates,50cBWSp
+50cm Massive Sponge,Other Invertebrates,50cMaSp
+50cm Multitubed Sponge,Other Invertebrates,50cMuSp
+50cm Orange Agelas,Other Invertebrates,50cOrAg
+50cm Sponge,Other Invertebrates,50cSpgOth
+50cm Sponge Maybe,Other Invertebrates,50cSpMb
+50cm Tube Sponge,Other Invertebrates,50cTbSp
+50cm Xestospongia muta,Other Invertebrates,50cXmuta
+50cm Yellow Ear Sponge,Other Invertebrates,50cYlEarSp
+51_arborescent_antipatharians,Other Invertebrates,ANAb
+51_arborescent_bryozoans,Other Invertebrates,BRAr
+51_arborescent_octocoral,Other Invertebrates,OCA
+51_arborescent_zoantharian,Other Invertebrates,ZOAr
+51_branching_repent_sponge,Other Invertebrates,SPBR
+51_bushy_hydrozoan,Other Invertebrates,HBu
+51_bushy_octocoral,Other Invertebrates,OCB
+51_clustered_ascidian,Other Invertebrates,ASCl
+51_clustered_octocoral,Other Invertebrates,OCC
+51_digitate_octocoral,Other Invertebrates,OCDi
+51_encrusting_actinarians,Other Invertebrates,ACEn
+51_encrusting_ascidian,Other Invertebrates,ASEn
+51_encrusting_bryozoans,Other Invertebrates,BREn
+51_encrusting_octocoral,Other Invertebrates,OCE
+51_encrusting_sponge,Other Invertebrates,SPEn
+51_encrusting_zoantharian,Other Invertebrates,ZOEn
+51_erect_single_ascidian,Other Invertebrates,ASES
+51_fan_shape_octocoral,Other Invertebrates,OCFA
+51_flabellate_sponge,Other Invertebrates,SPFl
+51_globular_sponge,Other Invertebrates,SPGl
+51_lobate_octocoral,Other Invertebrates,OCL
+51_massive_bryozoans,Other Invertebrates,BRMa
+51_massive_sponge,Other Invertebrates,SPM
+51_massive_zoantharian,Other Invertebrates,ZOMa
+51_papillate_sponge,Other Invertebrates,SPP
+51_pedunculate_sponge,Other Invertebrates,SPPe
+51_plumose_hydrozoan,Other Invertebrates,HPl
+51_tubular_sponge,Other Invertebrates,SPT
+51_whip_antipatharians,Other Invertebrates,ANWi
+51_whip_shape_octocoral,Other Invertebrates,OCWS
+5cm Agelas conifera/tubulata,Other Invertebrates,5cAgConTub
+5cm Ailochroia crassa,Other Invertebrates,5cAiCr
+5cm Aplysina Rope,Other Invertebrates,5cApRop
+5cm Ball Sponge,Other Invertebrates,5cBaSp
+5cm Brown and White Sponge,Other Invertebrates,5cBWSp
+5cm Elkhorn Agelas,Other Invertebrates,5cElkAg
+5cm Massive Sponge,Other Invertebrates,5cMaSp
+5cm Multitubed Sponge,Other Invertebrates,5cMuSp
+5cm Myrmekioderma,Other Invertebrates,5cMyrmek
+5cm Orange Agelas,Other Invertebrates,5cOrAg
+5cm Plakortis,Other Invertebrates,5cPlak
+5cm Rope Sponge,Other Invertebrates,5cRpSp
+5cm Sponge,Other Invertebrates,5cSpgOth
+5cm Sponge Maybe,Other Invertebrates,5cSpMb
+5cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,5cYlSclsp
+5cm Thin Ear Sponge,Other Invertebrates,5cTnEarSp
+5cm Tube Sponge,Other Invertebrates,5cTbSp
+5cm White Encrusting Sponge,Other Invertebrates,5cWEnSp
+5cm White Tube Sponge,Other Invertebrates,5cWTubSp
+5cm Xestospongia muta,Other Invertebrates,5cXmuta
+5cm Yellow Encrusting Sponge,Other Invertebrates,5cYEnSp
+5c Yellow Ear Sponge,Other Invertebrates,5cYlEarSp
+5mm Agelas conifera/tubulata,Other Invertebrates,5mmAgConTb
+5mm Ailochroia crassa,Other Invertebrates,5mmAiCr
+5mm Encrusting Sponge,Other Invertebrates,5mmEnSp
+5mm Sponge,Other Invertebrates,5mmSpgOth
+5mm Sponge Maybe,Other Invertebrates,5mmSpMb
+5mm Thin Ear Sponge,Other Invertebrates,5mmTnEarSp
+5mm White Encrusting Sponge,Other Invertebrates,5mmWEnSp
+5mm Yellow Encrusting Sponge,Other Invertebrates,5mmYEnSp
+7cm Agelas conifera/tubulata,Other Invertebrates,7cAgConTub
+7cm Ailochroia crassa,Other Invertebrates,7cAiCr
+7cm Aplysina Rope,Other Invertebrates,7cApRop
+7cm Ball Sponge,Other Invertebrates,7cBaSp
+7cm Brown and White Sponge,Other Invertebrates,7cBWSp
+7cm Elkhorn Agelas,Other Invertebrates,7cElkAg
+7cm Massive Sponge,Other Invertebrates,7cMaSp
+7cm Multitubed Sponge,Other Invertebrates,7cMuSp
+7cm Myrmekioderma,Other Invertebrates,7cMyrmek
+7cm Orange Agelas,Other Invertebrates,7cOrAg
+7cm Plakortis,Other Invertebrates,7cPlak
+7cm Rope Sponge,Other Invertebrates,7cRpSp
+7cm Sponge,Other Invertebrates,7cSpgOth
+7cm Sponge Maybe,Other Invertebrates,7cSpMb
+7cm Thick Encrusting Yellow Sclerosponge,Other Invertebrates,7cYlSclsp
+7cm Thin Ear Sponge,Other Invertebrates,7cTnEarSp
+7cm Tube Sponge,Other Invertebrates,7cTbSp
+7cm White Tube Sponge,Other Invertebrates,7cWTubSp
+7cm Xestospongia muta,Other Invertebrates,7cXmuta
+7cm Yellow Ear Sponge,Other Invertebrates,7cYlEarSp
+Aaptos_encrusting,Other Invertebrates,aapenc
+Abietinaria spp.,Other Invertebrates,ABTI
+Acanthella,Other Invertebrates,acant
+Acanthodoris hudsoni,Other Invertebrates,Ahu
+Acanthodoris nanaimoensis,Other Invertebrates,Ana
+Acanthodoris spp.,Other Invertebrates,Acs
+Acanthogorgia_fan,Other Invertebrates,actfan
+Acmaea mitra,Other Invertebrates,Ami
+Acodontaster hodgsoni,Other Invertebrates,ACOD
+Acrozoanthus_encrusting,Other Invertebrates,acoenc
+Acrozoanthus_massive,Other Invertebrates,acomas
+Actinia equina,Other Invertebrates,Actinequ
+Actiniaria,Other Invertebrates,Actini
+Actinopyga varians,Other Invertebrates,ACVA
+Adeonella calveti,Other Invertebrates,Adeonel_ca
+Adocia,Other Invertebrates,ADOC
+Aegires albus,Other Invertebrates,AEG
+Aeolidia papillosa,Other Invertebrates,Apa
+Aequipecten tehuelchus,Other Invertebrates,A.tehuelcu
+Aequiyoldia eightsii,Other Invertebrates,Yold
+aetea spp.,Other Invertebrates,Aetea
+Agelas,Other Invertebrates,A.O
+Agelas clathrodes,Other Invertebrates,ACl
+Agelas conifera/tubulata,Other Invertebrates,AgConTub
+Agelas_tubular,Other Invertebrates,agetub
+Aglaophenia spp.,Other Invertebrates,AGLA
+Aglaophenia trifida,Other Invertebrates,AglaTrif
+Agonopsis vulsa,Other Invertebrates,Avu
+Aiolochroia crassa,Other Invertebrates,Acra
+Aiptasia pulchella,Other Invertebrates,APul
+Aiptasia sp.,Other Invertebrates,aip
+Aka sp. 2,Other Invertebrates,Aka_sp2
+Akatopora leucocypha,Other Invertebrates,AkatoLeuco
+Alcyonidium sp.,Other Invertebrates,ALSp
+Alcyoniidae,Other Invertebrates,ALC-SF
+Alcyoniidae Bleached (white),Other Invertebrates,ALC-SF-B*
+Alcyonium antarcticum,Other Invertebrates,ALCYO
+Alcyonium coralloides,Other Invertebrates,Alcyo_cora
+Alcyonium siderium (canopy),Other Invertebrates,ALC
+Alcyonium siderium (substratum),Other Invertebrates,ALS
+Alcyonium spp.,Other Invertebrates,ALCY
+Aldersladum,Other Invertebrates,Ald
+Aldisa albomarginata,Other Invertebrates,Aal
+Aldisa cooperi,Other Invertebrates,Acp
+Aldisa tara,Other Invertebrates,Ata
+Alectryonella plicatula,Other Invertebrates,ALECpli
+Alicia mirabilis,Other Invertebrates,ALIM
+Allostichaster capensis,Other Invertebrates,A.capensis
+Amathia sp.,Other Invertebrates,Amath
+Amauropsis aureolata,Other Invertebrates,AMAU
+Amphibalanus amphitrite,Other Invertebrates,Amphib am
+Amphimedon compressa,Other Invertebrates,AmphComp
+Amphimedon spp.,Other Invertebrates,Amp_spp
+Amphipoda,Other Invertebrates,AMPH.
+"Amphipod, unidentified",Other Invertebrates,Amp
+Amphissa columbiana,Other Invertebrates,Aco
+Amphitrides gracilis,Other Invertebrates,Amphitrid_
+Amplexidiscus_encrusting,Other Invertebrates,ampenc
+Anasterias minuta,Other Invertebrates,Anasteria
+Ancula gibbosa,Other Invertebrates,ANC
+Anémona-sp1,Other Invertebrates,ANT-ANEM
+Anemone,Other Invertebrates,Anemone
+Anemone / Barnacles,Other Invertebrates,Ane_BAR
+anemones: Flytrap,Other Invertebrates,TRAFL
+anemones: Fourlobed,Other Invertebrates,TRAFO
+Anemone: solitary,Other Invertebrates,ASOL
+"Anemone, unidentified",Other Invertebrates,ANUN
+Anemonia viridis,Other Invertebrates,ANEMV
+Annalida,Other Invertebrates,Worm
+Annectocyma major,Other Invertebrates,Anec_mj
+"Annelida, unidentified",Other Invertebrates,ANNE
+Annella,Other Invertebrates,ANN
+Annella_fan,Other Invertebrates,anefan
+Anomia achaeus,Other Invertebrates,Anom_ach
+Anomia ephippium,Other Invertebrates,Anom_ephi
+Anomia/Heteranomia spp.,Other Invertebrates,ANO
+Anomia simplex,Other Invertebrates,ANS
+Anomia sp.,Other Invertebrates,AnomiaSp
+Anoplodactylus species,Other Invertebrates,AnoploSp
+Anoxycalyx (Scolymastra) joubini,Other Invertebrates,ANOX
+Anthelia,Other Invertebrates,anthe
+Anthelia_clustered,Other Invertebrates,antclu
+Anthoathecata,Other Invertebrates,Anto
+Anthopleura,Other Invertebrates,Anthopleur
+Anthopleura artemisia,Other Invertebrates,ANTHART
+Anthopleura elegantissima,Other Invertebrates,ANEL
+Anthopleura nigrescens,Other Invertebrates,A.nigresce
+Anthopleura xanthogrammica,Other Invertebrates,ANXA
+Anthothoe chilensis,Other Invertebrates,anemocomu
+Anthozoa,Other Invertebrates,ANTH
+Antillogorgia spp.,Other Invertebrates,ANTSPP
+Antipatharia,Other Invertebrates,Ant
+Antipatharia_arborescent,Other Invertebrates,antarb
+Antipatharia_whip,Other Invertebrates,antwhi
+Antropora sp.,Other Invertebrates,AntroSP
+Aphrocallistes vastus,Other Invertebrates,APVA
+Aplidiopsis pannosum,Other Invertebrates,APPA
+Aplidium californicum,Other Invertebrates,APCA
+Aplidium fuscum,Other Invertebrates,Aplidium f
+Aplidium glabrum,Other Invertebrates,AGL
+Aplidium imbutum,Other Invertebrates,APLI
+Aplidium solidum,Other Invertebrates,APSO
+Aplidium sp.,Other Invertebrates,Aplid
+Aplidium stellatum,Other Invertebrates,APSTE
+Aplysia dactylomela,Other Invertebrates,APLYsia
+Aplysilla longispina,Other Invertebrates,AplysLong
+Aplysilla sp.,Other Invertebrates,APL
+Aplysilla sulfurea,Other Invertebrates,Aplys_sulf
+Aplysina archeri,Other Invertebrates,AplArch
+Aplysina cauliformis,Other Invertebrates,Acau
+Aplysina fistularis,Other Invertebrates,AplFist
+Aplysina fulva,Other Invertebrates,Aful
+Aplysina fulva/cauliformis,Other Invertebrates,ApFuCa
+Aplysina sp-2,Other Invertebrates,SPON-APLY2
+Aplysina spp,Other Invertebrates,SPON-APLY4
+Aplysina spp.,Other Invertebrates,AP sp
+Aplysina-spp-6,Other Invertebrates,SPON-APLY6
+Apomatus spp.,Other Invertebrates,Aps
+Arbacia dufresnii,Other Invertebrates,ErizoVerde
+Arbacia punculata,Other Invertebrates,Apun
+Arborescent Soft Coral,Other Invertebrates,ArSC
+Arctica islandica,Other Invertebrates,Arctic isl
+Armactinia antarctica,Other Invertebrates,ARMA.
+Armena californica,Other Invertebrates,Arc
+ARMS-Barnacle,Other Invertebrates,_BAR
+ARMS-CREP-Bivalve-empty,Other Invertebrates,_BIEM
+ARMS-CREP-Calcareous Worm Tube,Other Invertebrates,_CAWT
+ARMS-CREP-Eggs,Other Invertebrates,_EGG
+ARMS-CREP-Foraminifera,Other Invertebrates,_FORM
+ARMS-CREP-Soft Worm Tube,Other Invertebrates,_SOWT
+ARMS-CREP-Vermetidae,Other Invertebrates,_VER
+ARMS_OtherMollusk,Other Invertebrates,_OMOL
+ARMS-PMT-Encrusting Sponge,Other Invertebrates,EncSP
+ARMS-PMT-Tunicata,Other Invertebrates,TUNI
+Arntzia gracilis,Other Invertebrates,ARN
+Artemesina sp.,Other Invertebrates,ARTE
+Artemidactis victrix,Other Invertebrates,ARMA
+Artemidactis victrix.,Other Invertebrates,ARTEM
+Arthropod-1,Other Invertebrates,ART-SP1
+"Arthropoda, unidentified",Other Invertebrates,ARTH
+Arthropoma sp.,Other Invertebrates,ArthroSP
+Ascandra contorta,Other Invertebrates,Ascan_cont
+Ascidiacea,Other Invertebrates,ASCID
+Ascidia challengeri,Other Invertebrates,ASCI.
+Ascidia columbiana,Other Invertebrates,ASCO
+Ascidia conchilega,Other Invertebrates,Ascidi_con
+Ascidia mentula,Other Invertebrates,Ascidi_men
+Ascidian,Other Invertebrates,ASCD
+Ascidian_clustered,Other Invertebrates,ascclu
+Ascidian (colonial),Other Invertebrates,ASCD_col
+Ascidian_encrusting,Other Invertebrates,ascenc
+Ascidian_erect_single,Other Invertebrates,ascere
+Ascidians,Other Invertebrates,Ascidians
+Ascidian (solitary),Other Invertebrates,ASCD_sol
+Ascidians: stalked:,Other Invertebrates,ASS
+Ascidians: stalked:Colonial,Other Invertebrates,ASSC
+Ascidians: Stalked: Social,Other Invertebrates,ASSL
+Ascidians: stalked: Solitary,Other Invertebrates,ASSS
+Ascidians: Unstalked,Other Invertebrates,ASU
+Ascidians: Unstalked: Colonial,Other Invertebrates,ASUC
+Ascidians: Unstalked: Solitary,Other Invertebrates,ASUS
+Ascidians: Untalked: Social,Other Invertebrates,ASUL
+"Ascidian, unidentified",Other Invertebrates,ASCI
+Ascidia paratropa,Other Invertebrates,ASPT
+Ascidia sp.,Other Invertebrates,AscidiaSP
+Ascidia-sp1,Other Invertebrates,ASCI-SP1
+Ascidia-sp13,Other Invertebrates,ASCI-SP13
+Ascidia-sp-14,Other Invertebrates,ASCI-SP14
+Ascidia-sp-15,Other Invertebrates,ASCI-SP15
+Ascidia-sp-16,Other Invertebrates,ASCI-SP16
+Ascidia-sp-2,Other Invertebrates,ASCI-SP2
+Ascidia-sp-3,Other Invertebrates,ASCI-SP3
+Ascidia-sp-4,Other Invertebrates,ASCI-SP-4
+Ascidia-sp-5,Other Invertebrates,ASCI-SP5
+Ascidia-sp-6,Other Invertebrates,ASCI-SP6
+Ascidia-sp-7,Other Invertebrates,ASCI-SP7
+Ascidia-sp-8,Other Invertebrates,ASCI-SP8
+Ascidiella aspersa,Other Invertebrates,ASC
+Ascidiella scabra,Other Invertebrates,Ascidiel_s
+Asterias spp.,Other Invertebrates,AST
+Asterocarpa humilis,Other Invertebrates,ascidROJA
+Asteroidea,Other Invertebrates,STF
+Asterospicularia_clustered,Other Invertebrates,astclu
+Astrogorgia_fan,Other Invertebrates,astfan
+Astyris gausapata,Other Invertebrates,Aga
+Atubulata,Other Invertebrates,ATUB
+Aulacomya atra,Other Invertebrates,cholga
+Aulorhynchus flavidus,Other Invertebrates,Afl
+Austromegabalanus psittacus,Other Invertebrates,cirriGrand
+Axinella demicornis,Other Invertebrates,AXd
+axinella polypoides,Other Invertebrates,AXp
+axinella ps1,Other Invertebrates,Aps1
+axinella ps2,Other Invertebrates,Aps2
+axinella ps3,Other Invertebrates,Aps3
+Axinella sp,Other Invertebrates,axi
+Axinella vaselety,Other Invertebrates,AXv
+Axynissa aculeata,Other Invertebrates,Axy_acu
+Bacterial mats: Cyanobacteria,Other Invertebrates,BMC
+Balanus/Amphibalanus spp.,Other Invertebrates,BAS
+Balanus balanus,Other Invertebrates,BABA
+Balanus crenatus,Other Invertebrates,BACR
+Balanus eburneus,Other Invertebrates,Bal Eburn
+Balanus glandula,Other Invertebrates,BAGL
+Balanus nubilis,Other Invertebrates,BANB
+Balanus rostratus,Other Invertebrates,BARO
+Balanus sp.,Other Invertebrates,Bala_sp
+Balanus trigonus,Other Invertebrates,BTR
+Ball Sponge,Other Invertebrates,BallSpong
+Barentsia sp.,Other Invertebrates,BarenSP
+"Barnacle, dead",Other Invertebrates,BAUD
+Barnacle/ Oyster,Other Invertebrates,BO
+Barnacles,Other Invertebrates,Barn
+Barnacless,Other Invertebrates,Bar
+Barnacle - Tessoropora rosea,Other Invertebrates,Barnacle
+"Barnacle, unidentified",Other Invertebrates,BAUN
+Beania sp.,Other Invertebrates,BeaniaSP
+Bebryce_fan,Other Invertebrates,bebfan
+Bedeva paivae,Other Invertebrates,BedPai
+Benthic Invertebrate,Other Invertebrates,BInv
+Berthella californica,Other Invertebrates,Bca
+Betaeus lilianae,Other Invertebrates,camaron
+Biflustra arborencens,Other Invertebrates,BifluArbo
+Biflustra tenuis,Other Invertebrates,BifluTenu
+Biotic Matrix,Other Invertebrates,BMAT
+Bispira brunnea,Other Invertebrates,Bisp_brun
+Bittium eschrichtii,Other Invertebrates,Bes
+Bivalve,Other Invertebrates,Bivalve
+"bivalve, unidentified",Other Invertebrates,Biv
+Bivalve_White,Other Invertebrates,Bvv_w
+Bivalvia,Other Invertebrates,Bivalv_sp
+BK26,Other Invertebrates,BK26
+Black Coral 1,Other Invertebrates,BCor1
+Black Nerita - Nerita Atramentosa,Other Invertebrates,NER ATR
+Black/Octocorals (3D): fleshy,Other Invertebrates,OBF
+Black/Octocorals (3D): fleshy: arborescent,Other Invertebrates,OBFA
+Black/Octocorals (3D): fleshy: mushroom,Other Invertebrates,OBFM
+Black/Octocorals (3D): Fleshy: Mushroom: St,Other Invertebrates,O_3D_MshSt
+Black/Octocorals (3D): Fleshy: Mushroom: US,Other Invertebrates,O_3D_MshUS
+Black/Octocorals (3D): nfleshy: arborescent,Other Invertebrates,OBNA
+Black/Octocorals (3D): nfleshy:Bottle-brush,Other Invertebrates,OBNBB
+Black/Octocorals (3D): nfleshy:Bottle-brushC,Other Invertebrates,OBNBC
+Black/Octocorals (3D): nfleshy:Bottle-brushS,Other Invertebrates,OBNBS
+Black/Octocorals (3D): non-fleshy: Bushy,Other Invertebrates,OBNB
+Black/Octocorals: branching (3D),Other Invertebrates,OB
+Black/Octocorals: branching (3D): non-fleshy,Other Invertebrates,OBN
+Black/Octocorals: Fan(2D) Fern-frond,Other Invertebrates,OFaF
+Black/Octocorals: Fan(2D) Fern-frond: complex,Other Invertebrates,OFaFC
+Black/Octocorals: Fan(2D) Fern-frond: simple,Other Invertebrates,OFaFS
+Black/Octocorals: Quill (seapen),Other Invertebrates,O_Seapen
+black sponge,Other Invertebrates,BLs
+Bleaching Cladiella,Other Invertebrates,B_Clad
+Bleaching Lobophyton/Sinularia,Other Invertebrates,B_LoSi
+Bleaching Lobophyton sp.,Other Invertebrates,B_LBPN
+Bleaching Sinularia,Other Invertebrates,B_Sinu
+Boltenia echinata,Other Invertebrates,BEC
+Boltenia ovifera (canopy),Other Invertebrates,BOC
+Boltenia ovifera (substratum),Other Invertebrates,BOS
+Boltenia villosa,Other Invertebrates,BOVI
+Boreotrophon multicostatus,Other Invertebrates,Bmu
+Boring Bivalves,Other Invertebrates,Datemussel
+Boring sponge,Other Invertebrates,BORS
+Botrylloides,Other Invertebrates,Botryll
+Botrylloides diegensis,Other Invertebrates,BotDie
+Botrylloides nigrum,Other Invertebrates,BotryNigr
+Botrylloides sp.,Other Invertebrates,Botryl
+Botrylloides violaceus,Other Invertebrates,BOVO
+Botryllus planus,Other Invertebrates,Botry plan
+Botryllus schlosseri,Other Invertebrates,BSC
+Botryllus sp.,Other Invertebrates,BOTsp
+Botryllus sp1,Other Invertebrates,Bot_1
+Botryllus tabori,Other Invertebrates,BotryTabo
+Botryllus tuberatus,Other Invertebrates,BotryTube
+Bougainvillia rugosa,Other Invertebrates,Bouga rugo
+Bovallia gigantea,Other Invertebrates,BOVA
+Brachidontes pharaonis,Other Invertebrates,BRACH
+Brachidontes playasensis,Other Invertebrates,B.playasen
+Brachidontes semilaevis,Other Invertebrates,B.semilaev
+Brachidontes sp.,Other Invertebrates,MEJI
+Brachiopoda,Other Invertebrates,BRA.
+"Brachiopoda, unidentified",Other Invertebrates,BRAC
+Brachopods,Other Invertebrates,BRA
+Branching Gorgonian,Other Invertebrates,BrGorg
+Branching-repent Sponge,Other Invertebrates,BraS
+Briareum,Other Invertebrates,GORG-BRI
+Briareum asbestinum,Other Invertebrates,BRIASB
+Briareum_encrusting,Other Invertebrates,brienc
+Briozoo-sp.1,Other Invertebrates,BRY-1
+Briozoo-sp.2,Other Invertebrates,BRY-2
+Briozoo-sp-4,Other Invertebrates,BRY-4
+Briozoo-sp-5,Other Invertebrates,BRY-5
+Briozoo-sp-6,Other Invertebrates,BRY-6
+Briozoo-sp-7,Other Invertebrates,BRY-7
+broun sponge,Other Invertebrates,BRs
+Bryopesanser pasanseris,Other Invertebrates,BryopPasan
+Bryozoa,Other Invertebrates,BRYO
+Bryozoa_bushy,Other Invertebrates,brybus
+Bryozoa_encrusting,Other Invertebrates,bryenc
+Bryozoa: hard,Other Invertebrates,BH
+Bryozoa: hard: branching,Other Invertebrates,BHB
+Bryozoa: Hard: Branching: Antler,Other Invertebrates,BH_BrAnt
+Bryozoa: Hard: Branching: Coralhead,Other Invertebrates,BH_BrHead
+Bryozoa: Hard: Branching: Leaf,Other Invertebrates,BH_BrLeaf
+Bryozoa: hard: encrusting,Other Invertebrates,BHE
+Bryozoa: hard: fenestrate,Other Invertebrates,BHF
+Bryozoa: Hard: Lettuce,Other Invertebrates,BH_Lettuce
+Bryozoa: hard: massive,Other Invertebrates,BHM
+Bryozoa_massive,Other Invertebrates,brymas
+Bryozoan,Other Invertebrates,bryozoan
+Bryozoan Almond Zooid,Other Invertebrates,BRAZ
+Bryozoan_branching,Other Invertebrates,Brz_br
+"Bryozoan, branching unidentified",Other Invertebrates,BRBR
+"bryozoan, dead encrusting",Other Invertebrates,ENBD
+Bryozoan_encrusting,Other Invertebrates,Brz_enc
+"Bryozoan, encrusting unidentified",Other Invertebrates,ENBR
+Bryozoan Irregular Zooid,Other Invertebrates,BRIZ
+Bryozoan_light_brown,Other Invertebrates,Brz_b
+Bryozoan_light_white,Other Invertebrates,Brz_w
+Bryozoan Ovoid Zooid,Other Invertebrates,BROZ
+Bryozoa: Soft,Other Invertebrates,BS
+Bryozoa: Soft: dendroid,Other Invertebrates,BSD
+Bryozoa: Soft: Foliaceous,Other Invertebrates,BSF
+Bryzoa,Other Invertebrates,BRY
+BS_FAN,Other Invertebrates,BS_FAN
+Bubarida,Other Invertebrates,SPON-BUBA
+Buccinum undatum,Other Invertebrates,BUC
+Bugula californica,Other Invertebrates,BUCA
+Bugula neritina (canopy),Other Invertebrates,BNC
+Bugula neritina (substratum),Other Invertebrates,BNS
+Bugula simplex (canopy),Other Invertebrates,BSI
+Bugula simplex (substratum),Other Invertebrates,BSS
+Bugula sp.,Other Invertebrates,Bug
+Bugula turrita (canopy),Other Invertebrates,BTC
+Bugula turrita (substratum),Other Invertebrates,BTS
+Bugulina sp.,Other Invertebrates,Brio.Bugul
+Bushy Soft Coral,Other Invertebrates,BuSC
+Caberea boryi,Other Invertebrates,Caber_bory
+Cadlina laevis,Other Invertebrates,CAD
+Cadlina luteomarginata,Other Invertebrates,Clu
+Cadlina modesta,Other Invertebrates,Cmo
+Calcareous sponge,Other Invertebrates,cal
+Calcaronea,Other Invertebrates,CalcSponge
+Calcified Worm,Other Invertebrates,CalcWorm
+Calcinus tubularis,Other Invertebrates,CALCI_TUB
+Calliostoma annulatum,Other Invertebrates,Can
+Calliostoma ligatum,Other Invertebrates,Cli
+Calliostoma/Margarites Unidentified,Other Invertebrates,Cal/Mar
+Calloporidae,Other Invertebrates,Callop
+Callyspongia spp.,Other Invertebrates,Cal_spp
+Callyspongia vaginalis,Other Invertebrates,CVa
+Callyspongidae,Other Invertebrates,Callys
+Calypthotheca lacrimosa,Other Invertebrates,CalypLacri
+Calyptotheca triangulata,Other Invertebrates,CalypTrian
+calyx nicaeensis,Other Invertebrates,CLn
+Cancer irroratus,Other Invertebrates,canceri
+Cancer oregonensis,Other Invertebrates,Cor
+Cancer productus,Other Invertebrates,Cpr
+Cancer spp.,Other Invertebrates,CANC
+Capnella_bushy,Other Invertebrates,capbus
+Caprella/Paracaprella spp.,Other Invertebrates,CAP
+Carcinus maenas,Other Invertebrates,CAM
+Carditamera affinis,Other Invertebrates,C.affinis
+Carijoa,Other Invertebrates,Carijoa
+Carijoa_bushy,Other Invertebrates,carbus
+Carijoa riisei,Other Invertebrates,CARI
+Cassiopea,Other Invertebrates,CASS
+Catenicella sp.,Other Invertebrates,CateSP
+Cdelitrix,Other Invertebrates,CDEL
+Cellana sandwicensis,Other Invertebrates,CSAND
+Cellana talcosa,Other Invertebrates,CTAL
+Cellaria diffusa,Other Invertebrates,CEDI
+Cellarinella sp,Other Invertebrates,CELLA
+Cellepora,Other Invertebrates,Cellepora
+Celleporaria atlantica,Other Invertebrates,CellepAtla
+Celleporaria brunnea,Other Invertebrates,Cellbrun
+Celleporaria mondax,Other Invertebrates,CellepMond
+Celleporina joannae,Other Invertebrates,CelleJoan
+Centrostephanus,Other Invertebrates,CENT
+Cerastoma foliatum,Other Invertebrates,Cfo
+Ceratostoma foliatum,Other Invertebrates,CEFO
+Cerithium sp.,Other Invertebrates,Cerit
+Chama pacifica,Other Invertebrates,CHApa
+Charcotia granulosa,Other Invertebrates,CHAR
+Cheilostomata,Other Invertebrates,Cheilos
+Cheirimedon femoratus,Other Invertebrates,CHEI
+Chelonaplysilla erecta,Other Invertebrates,CheloErec
+Chelonaplysilla sp. 1,Other Invertebrates,Che_sp1
+Chelonibia testudinaria,Other Invertebrates,Chelo_test
+Chelyosoma,Other Invertebrates,CHEL
+Chirona hameri,Other Invertebrates,ChHam
+Chironephthya_bushy,Other Invertebrates,chibus
+Chiton,Other Invertebrates,Cht
+Chiton Pelliserpentis,Other Invertebrates,ChiPe
+"chiton, unidentified",Other Invertebrates,Chi
+Chlamys hastata,Other Invertebrates,Cha
+Chlamys hastata (immobile),Other Invertebrates,CHHT
+Chondrilla nucula,Other Invertebrates,ChondNuc
+Chondrilla spp.,Other Invertebrates,CHON
+Chondrocidaris gigantea,Other Invertebrates,CHGI
+Chondrosia collectrix,Other Invertebrates,ChonCo
+Chondrosia_Didemnum,Other Invertebrates,ChonDid
+Chondrosia reniphormis,Other Invertebrates,CHr
+Chondrosia sp.,Other Invertebrates,Chond
+Christmas Tree Worm,Other Invertebrates,XmasW
+Christmas tree worm (tube!),Other Invertebrates,Xmas_tube
+Christmas Tree Worm (tube),Other Invertebrates,Chr_tube
+Chthamalus fragilis,Other Invertebrates,Chtham fra
+Cinachyra barbat,Other Invertebrates,BARB
+Cinachyra barbata,Other Invertebrates,CINA
+Cinachyrella alloclada,Other Invertebrates,CinacAll
+Cinachyrella sp.,Other Invertebrates,cinac
+Ciona intestinalis,Other Invertebrates,CIO
+Ciona robusta,Other Invertebrates,C.robusta
+Ciona roulei,Other Invertebrates,Ciona_roul
+Ciona savignyi,Other Invertebrates,CISA
+Ciona sp.,Other Invertebrates,Cion
+Circeis armoricana,Other Invertebrates,CIAR
+Cirrhipathes spp.,Other Invertebrates,CirS
+Cirripedia - Barnacle,Other Invertebrates,Root Barn
+Cladiella,Other Invertebrates,Clad
+Cladiella_bushy,Other Invertebrates,cldbus
+Cladiella_digitate,Other Invertebrates,clddig
+Cladodactyla sicinski,Other Invertebrates,CLADO
+"Clam, unidentified",Other Invertebrates,Clm
+Clase Bivalvia,Other Invertebrates,BIVAL
+Clathria (Axosuberites) rosita,Other Invertebrates,Claro
+Clathria basilana,Other Invertebrates,Cla_bas
+Clathria (Clathria) priestleyae sp. nov.,Other Invertebrates,Clap
+Clathria eurypa,Other Invertebrates,Cla_eur
+Clathria prolifera,Other Invertebrates,Cpro
+Clathria reinwardti,Other Invertebrates,Clat_rei
+Clathria sp.,Other Invertebrates,SpongeClat
+Clathrina rubra,Other Invertebrates,Clat_Rub
+Clathrina spp.,Other Invertebrates,CLAT
+Clava spp.,Other Invertebrates,CLAS
+Clavelina_clustered,Other Invertebrates,clvclu
+Clavelina huntsmani,Other Invertebrates,CLVH
+Clavelina sp,Other Invertebrates,clave
+Clavularia_clustered,Other Invertebrates,claclu
+Clavularia sp,Other Invertebrates,CLA
+Clavularia spp.,Other Invertebrates,CLAV
+Clavulariidae,Other Invertebrates,Clavu
+Clinocardium spp.,Other Invertebrates,CLIN
+Cliona,Other Invertebrates,Clio
+Cliona californiana,Other Invertebrates,CLCA
+Cliona celata,Other Invertebrates,CLCE
+Cliona sp.,Other Invertebrates,SpongeCLIO
+Cliona spp.,Other Invertebrates,CLION
+Clionid spp.,Other Invertebrates,CLIONI
+Clytia gracilis,Other Invertebrates,CLYG
+Clytia sp.,Other Invertebrates,ClytiaSP
+Cnemidocarpa finmarkiensis,Other Invertebrates,CNFI
+Cnemidocarpa verrucosa,Other Invertebrates,CNEM
+Cnidaria,Other Invertebrates,CN
+Cnidaria: Colonial anemones,Other Invertebrates,CNCA.
+Cnidaria: Colonial anemones: Zoanthids,Other Invertebrates,CNCAZ
+Cnidaria: Corals: Black & Octocorals,Other Invertebrates,MGCB
+Cnidaria: True anemones,Other Invertebrates,CNTR
+Coelogorgia_arborescent,Other Invertebrates,coearb
+colonial anemones,Other Invertebrates,CA
+Colonial Bryozoan,Other Invertebrates,ColBryo
+Colonial encrusting Didemnum,Other Invertebrates,DidCol
+Common LRG Alcyoniide,Other Invertebrates,SINV_SFC_A
+Common Seastar,Other Invertebrates,STAR
+Condylactis_encrusting,Other Invertebrates,conenc
+Condylactis gigantea,Other Invertebrates,CONGI
+Conglomeratusclera_bushy,Other Invertebrates,conbus
+conomurex persicus,Other Invertebrates,strom
+Conopeum reticulum,Other Invertebrates,Conop_retc
+Coral Competing Sponge,Other Invertebrates,CCS
+Corallimorpharia,Other Invertebrates,Collimorph
+Corallimorpharia_encrusting,Other Invertebrates,coeenc
+Corallimorphus karinae,Other Invertebrates,KAR
+Corallium rubrum,Other Invertebrates,Coral_rubr
+Corals: Black & Octocorals: Encrusting,Other Invertebrates,OE
+Corals: Black & Octocorals: Fan(2D),Other Invertebrates,OF
+Corals: Black & Octocorals: Fan (2D): Rigid,Other Invertebrates,OFR
+Corals: Black & Octocorals: Whip,Other Invertebrates,OW
+coral:sponges,Other Invertebrates,**SP
+Corambe obscura,Other Invertebrates,CORA
+Corella,Other Invertebrates,CORE
+Corella antarctica,Other Invertebrates,COREL
+Corella eumyota,Other Invertebrates,CorellaEu
+Corella spp.,Other Invertebrates,COSP
+Corynactis,Other Invertebrates,Corynactis
+Corynactis californica,Other Invertebrates,CORY
+Corynactis carnea,Other Invertebrates,coralimorf
+Coscinoderma,Other Invertebrates,Cosc_sp
+Cosmasterias lurida,Other Invertebrates,C.lurida
+Cplicifera,Other Invertebrates,CPLI
+Crambe Crambe,Other Invertebrates,cram
+Crangon spp.,Other Invertebrates,Crg
+Craniella_globular,Other Invertebrates,carglo
+Craniella (unidentified species),Other Invertebrates,CRAN
+Cranopsis cucullata,Other Invertebrates,Ccu
+Cranopsis multistriata,Other Invertebrates,Cmu
+Crassadoma gigantea,Other Invertebrates,CRDO
+"Crassadoma gigantea, dead",Other Invertebrates,CRDD
+Crassostrea gigas,Other Invertebrates,CRGI
+Crassostrea virginica,Other Invertebrates,Crasso vir
+CRED-Unclassified sessile invertebrate,Other Invertebrates,*UI
+CRED-Unclassified soft coral,Other Invertebrates,*USC
+CRED-Wire and black coral,Other Invertebrates,*ANTI
+Crella (Crella) hennequinae sp.,Other Invertebrates,CrHen
+Crepidacantha sp.,Other Invertebrates,CrepidaSP
+Crepidula adunca,Other Invertebrates,CRAD
+Crepidula fornicata,Other Invertebrates,CREP
+Crepidula plana,Other Invertebrates,CRL
+Crepidula sp.,Other Invertebrates,CrepiSP
+Crepidula spp.,Other Invertebrates,Cre
+CREP-T1 Invertebrates,Other Invertebrates,*INV
+Cribrinopsis albopunctata,Other Invertebrates,CRIBALBO
+Cribrinopsis fernaldi,Other Invertebrates,CRFE
+Cribrinopsis sp.,Other Invertebrates,CRSP
+Cribrochalina sp,Other Invertebrates,Crib
+Crinoidea,Other Invertebrates,CRI
+Crinoids,Other Invertebrates,ECN_Cri
+Crinoids.,Other Invertebrates,MINV_CRI
+Crisia Pseudosolena,Other Invertebrates,CrisPesudo
+Crisia spp.,Other Invertebrates,CRIS
+Crisulipora occidentalis,Other Invertebrates,CrisuOcc
+Crossaster papposus,Other Invertebrates,Crp
+Crown of Thorns Sea Star,Other Invertebrates,COT
+Crucigera zygophora,Other Invertebrates,CRZY
+Crustacea,Other Invertebrates,CR
+Crustacea: Barnacles,Other Invertebrates,CRB
+Crustacea: Barnacles: Acorn,Other Invertebrates,CRBA
+Crustacea: Barnacles: Stalked,Other Invertebrates,CRBS
+Crustacea: Crabs: King Crabs,Other Invertebrates,Cr_KCrab
+Crustacea: Prawns/Shrimps/Mysids,Other Invertebrates,Cr_Prawn
+Cryptochiton stelleri,Other Invertebrates,Cst
+Cryptolithodes spp.,Other Invertebrates,Cry
+Ctenoides scaber,Other Invertebrates,FireSc
+Ctenophora,Other Invertebrates,CTE
+Cucumaria acuta,Other Invertebrates,CuAcu
+Cucumaria frondosa,Other Invertebrates,CUCU
+"Cucumber, unidentified",Other Invertebrates,Cuc
+Cuenotaster involutus,Other Invertebrates,CUE
+Culcita novaeguineae,Other Invertebrates,Cnova
+Cuthona gymnota,Other Invertebrates,CUT
+Cvaginalis,Other Invertebrates,CVAG
+Cvirdis_complex,Other Invertebrates,CVIR
+Cycethra verrucosa,Other Invertebrates,C.verrucos
+Cyclostomata,Other Invertebrates,Cyclos
+Cyclostomatida sp,Other Invertebrates,CYSp
+cystodytes dellechiajei,Other Invertebrates,cys
+Cystodytes lobatus,Other Invertebrates,CYDL
+Darwinella cf. rosacea,Other Invertebrates,SpongeROSE
+Darwinella rosacea,Other Invertebrates,DarwiRose
+Darwinella sp.,Other Invertebrates,DarwiSP
+Dasychalina_tabular,Other Invertebrates,dastub
+Dasychone bairdi,Other Invertebrates,DASYb
+Dead Barnacle,Other Invertebrates,DBa
+Dead Barnacles,Other Invertebrates,Dead_Bar
+Dead Mussel,Other Invertebrates,DMu
+Dead Oyster,Other Invertebrates,DOy
+Dead oysters,Other Invertebrates,DeOy
+Demospongiae,Other Invertebrates,Demo_spng
+Dendostrea sandvichensis,Other Invertebrates,Dendo_s
+Dendrilla antarctica,Other Invertebrates,DenAnt
+Dendrobeania lichenoides,Other Invertebrates,DELI
+Dendrobeania murrayana,Other Invertebrates,DEMR
+Dendrodoa carnea,Other Invertebrates,DCA
+Dendronephthya,Other Invertebrates,Dend
+Dendronephthya_bushy,Other Invertebrates,denbus
+Dendronotus albus,Other Invertebrates,Dab
+Dendronotus dalli,Other Invertebrates,Ddi
+Dendronotus diversicolor,Other Invertebrates,Ded
+Dendronotus frondosus,Other Invertebrates,DEN
+Dendronotus iris,Other Invertebrates,Dir
+Dendronotus rufus,Other Invertebrates,Dru
+Dendropoa grossularia,Other Invertebrates,dengro
+Dendropoma gregarium,Other Invertebrates,DenGRE
+Dendropoma petraeum,Other Invertebrates,DENDRO
+Dentiporella sardonica,Other Invertebrates,Denti_sard
+Dermasterias imbricata,Other Invertebrates,Dim
+Desmanthus,Other Invertebrates,Desmanthus
+Desmapsama sp.,Other Invertebrates,12345
+Desmapsamma anchorata,Other Invertebrates,DesAn
+Diaddema,Other Invertebrates,MINV_Dia
+Diadema antillarum,Other Invertebrates,Diad
+Diadema (LOF),Other Invertebrates,DIAD1
+Diadema paucispinum,Other Invertebrates,Dpau
+Diadema setosum,Other Invertebrates,Dset
+Diadema sp,Other Invertebrates,DIAS
+Diadumene lineata,Other Invertebrates,DIA
+Diaperoecia californica,Other Invertebrates,DICL
+Diaperoecia sp,Other Invertebrates,DISp
+Diaulula punctuolata,Other Invertebrates,Diaulula
+Diaulula sandiegensis,Other Invertebrates,Dsa
+dictyonella,Other Invertebrates,DIC
+Dictyonella incisa,Other Invertebrates,D.I
+Didemnidae,Other Invertebrates,Didemnid
+Didemnum carnulentum,Other Invertebrates,DICA
+Didemnum duplicatum,Other Invertebrates,DIDU
+Didemnum_encrusting,Other Invertebrates,didenc
+Didemnum molle,Other Invertebrates,DidM
+Didemnum perlucidum,Other Invertebrates,Didem perl
+Didemnum psammathodes,Other Invertebrates,DIPS
+Didemnum rodriguesi,Other Invertebrates,DideRodri
+Didemnum sp,Other Invertebrates,DIDE
+Didemnum spp. (native),Other Invertebrates,DSN
+Didemnum tridemnum,Other Invertebrates,DITR
+Didemnum vexillum,Other Invertebrates,DVE
+Digitate Soft Coral,Other Invertebrates,DSC
+Diodogorgia spp.,Other Invertebrates,DIOSPP
+Diodora aspera,Other Invertebrates,Das
+Diplastrella bistellata,Other Invertebrates,Diplas_bis
+Diplosolen obelia/Plagioecia sp.,Other Invertebrates,Diploso_Pl
+Diplosoma listerianum,Other Invertebrates,DIP
+Diplosoma Sp.,Other Invertebrates,DIPSp
+Diplosoma spongiforme,Other Invertebrates,Diplosoma
+Dirona albolineata,Other Invertebrates,Dal
+Dirona pellucida,Other Invertebrates,Dpe
+Discosoma,Other Invertebrates,DiscoS
+Discosoma carlgreni,Other Invertebrates,DISCA
+Discosoma_encrusting,Other Invertebrates,disenc
+Displastrella megastellata,Other Invertebrates,DispMega
+Disporella separata,Other Invertebrates,DISE
+Disporella sp.,Other Invertebrates,Disporel
+Distaplia occidentalis,Other Invertebrates,DIOC
+Distaplia sp,Other Invertebrates,DISTAP
+Distaplia Sp.,Other Invertebrates,DISSp
+Ditaplia bermudensis,Other Invertebrates,DitBer
+Djerboa forcipes,Other Invertebrates,Djer
+Dodecaceria concharum,Other Invertebrates,DOCO
+Dodecaceria fewkesi,Other Invertebrates,DOFE
+Dorid nudibranch (unidentified),Other Invertebrates,Drd
+Doris fontainii,Other Invertebrates,D.fontaini
+Doris kerguelensis,Other Invertebrates,DORI
+Doris montereyensis,Other Invertebrates,Dmo
+Doris odhneri,Other Invertebrates,Dod
+Doris spp.,Other Invertebrates,Dor
+dragon yeloow,Other Invertebrates,DR
+Drupa morum,Other Invertebrates,DMOR
+Drupa ricinus,Other Invertebrates,DRIC
+Dynamena districha,Other Invertebrates,DynaDistr
+Dynoides barnardii,Other Invertebrates,Dbar
+Dysidea avara,Other Invertebrates,Dys_ava
+Dysidea fragilis,Other Invertebrates,DysFra
+Dysidea sp,Other Invertebrates,Dys
+Echinarachnius parma (Sand dollars),Other Invertebrates,ECPA
+Echinoderms,Other Invertebrates,ECHINODERM
+Echinoderms: Feather stars,Other Invertebrates,EFS
+Echinoderms: Feather stars: stalked crinoids,Other Invertebrates,EFSS
+Echinoderms: Feather stars:Unstalked crinoids,Other Invertebrates,EFSU
+Echinoderms: Ophiuroids,Other Invertebrates,EO
+Echinoderms: Ophiuroids: Basket stars,Other Invertebrates,EOBS
+Echinoderms: Ophiuroids: Brittle/Snake: Oth,Other Invertebrates,E_O_BritO
+Echinoderms: Ophiuroids: Brittle/Snake: SF,Other Invertebrates,EO_BritSF
+Echinoderms: Ophiuroids:Brittle / snake stars,Other Invertebrates,EOBRI
+Echinoderms: Sea Cucumbers: Infaunal,Other Invertebrates,E_H_Inf
+Echinoderms: Sea Cucumbers: Sessile,Other Invertebrates,E_H_SF
+Echinoderms: Sea stars,Other Invertebrates,ESS
+Echinoderms: Sea Stars: Regular Pentagon,Other Invertebrates,E_A_Penta
+Echinoderms: Sea Stars: Sunflower,Other Invertebrates,E_A_Sunfl
+Echinoderms: Sea Stars: Suspension Feeder,Other Invertebrates,E_A_SF
+Echinoderms: sea urchin,Other Invertebrates,Urchins
+Echinoderms: sea urchin: regular urchins,Other Invertebrates,EURR
+Echinoderms: Sea urchins: Irregular urchins,Other Invertebrates,EURI
+Echinoderms: Sea Urchins: Pencil Urchins,Other Invertebrates,E_E_RegPen
+Echinoidea,Other Invertebrates,ECHI
+Echinolittorina punctata,Other Invertebrates,Echinpo
+Echinometra lucunter,Other Invertebrates,EchL
+Echinometra mathaei,Other Invertebrates,EMath
+Echinometra oblonga,Other Invertebrates,EOBL
+Echinometra spp,Other Invertebrates,MINV_Ech
+Echinometra viridis,Other Invertebrates,Ech_vir
+Echinomuricea indomalaccensis,Other Invertebrates,Ei
+Echinostrephus aciculatus,Other Invertebrates,ECAC
+Echinothrix calamaris,Other Invertebrates,Ecalam
+Echinothrix diadema,Other Invertebrates,EDIA
+Ecteinascidia turbinata,Other Invertebrates,ECTU
+Ectopleura spp.,Other Invertebrates,ECTO
+Ectopleura/Tubularia spp. (canopy),Other Invertebrates,ESC
+Ectopleura/Tubularia spp. (substratum),Other Invertebrates,ESSU
+Ectoprocta,Other Invertebrates,Bryoz
+Ectyoplasia,Other Invertebrates,Ect
+Edwardsiella lineata (canopy),Other Invertebrates,ELC
+Edwardsiella lineata (substratum),Other Invertebrates,ELS
+Edwarsia inachi,Other Invertebrates,EDW
+Efflatounaria_clustered,Other Invertebrates,effclu
+Efflatounaria sp.,Other Invertebrates,Effla
+Electra pilosa,Other Invertebrates,ELEC
+Ellisella_arborescent,Other Invertebrates,ellarb
+Ellisella spp.,Other Invertebrates,ELLSPP
+Encrusting alga maroon,Other Invertebrates,EALM
+Encrusting Bryozoan,Other Invertebrates,EncBry
+Encrusting gorgonian,Other Invertebrates,ENGR1
+Encrusting Soft Coral,Other Invertebrates,EnSC
+Encrusting sponge,Other Invertebrates,ENSP
+Encrusting Sponge (LOF),Other Invertebrates,ESP
+Encrusting sponge/ tunicate,Other Invertebrates,Encrust
+Ensis directus,Other Invertebrates,Ensis dir
+Entacmaea quadricolor,Other Invertebrates,Ent_qua
+Enteroctopus dofleini,Other Invertebrates,Edo
+Entobia,Other Invertebrates,Ent
+Entodesma navicula,Other Invertebrates,ENNA
+Entoprocta,Other Invertebrates,Entoproc
+Epiactis lisbethae,Other Invertebrates,EPLI
+Epizoanthus_arborescent,Other Invertebrates,epiarb
+Epizoanthus scotinus,Other Invertebrates,EPSC
+Erect coralline red algae,Other Invertebrates,ERCR
+Erect gorgonians,Other Invertebrates,ERGR
+Erect sponge,Other Invertebrates,ERSP
+Eriphia verrucosa,Other Invertebrates,Eripver
+Erythropodium caribaeorum,Other Invertebrates,ERYCAR
+Erythropodium (encrusting),Other Invertebrates,GORG-ERY
+Esponja-calcarea2,Other Invertebrates,SPON-CAL2
+Esponja-calcarea3,Other Invertebrates,SPON-CAL3
+Esponja-Monan-sp1,Other Invertebrates,SPON-MONS1
+Esponja-sp-1,Other Invertebrates,SPON-SP1
+Esponja-sp-10,Other Invertebrates,SPON-SP10
+Esponja-sp13,Other Invertebrates,SPON-SP13
+Esponja-sp-15,Other Invertebrates,SPON-SP15
+Esponja-sp-16,Other Invertebrates,SPON-SP16
+Esponja-sp-17,Other Invertebrates,SPON-SP17
+Esponja-sp-2,Other Invertebrates,SPON-SP2
+Esponja-sp-3,Other Invertebrates,SPON-SP3
+Esponja-sp-4,Other Invertebrates,SPON-SP4
+Esponja-sp-5,Other Invertebrates,SPON-SP5
+Esponja-sp-6,Other Invertebrates,SPON-SP6
+Esponja-sp-7,Other Invertebrates,SPON-SP7
+Esponja-sp-8,Other Invertebrates,SPON-SP8
+Esponja-sp-9,Other Invertebrates,SPON-SP9
+"Eualus spp., Heptacarpus spp. & Lebbeus spp.",Other Invertebrates,Ehl
+Eubranchus exiguus,Other Invertebrates,EUB
+Eudendrium californicum,Other Invertebrates,EUCA
+Eudendrium carneum,Other Invertebrates,EUcar
+Eudistoma capsulatum,Other Invertebrates,EUCAP
+Eudistoma obscuratum,Other Invertebrates,Eudi obscu
+Eudistoma purpuropunctatum,Other Invertebrates,EUPU
+Eudistoma sp.,Other Invertebrates,Eudi sp
+Euherdmania gigantea,Other Invertebrates,Egig
+Eunicea spp.,Other Invertebrates,EUNSPP
+Eunicella cavolinii,Other Invertebrates,Eu_cav
+Eunicella singularis,Other Invertebrates,Eu_sin
+Eupentacta quinquesemita,Other Invertebrates,Equ
+Eupolymnia/Amphitrides,Other Invertebrates,Eupo_Amphi
+Eupolymnia nebulosa,Other Invertebrates,Eupoly_neb
+Eurystomella bilabiata,Other Invertebrates,EUBI
+Eurythoe complanata,Other Invertebrates,EuryComp
+Euspira heros,Other Invertebrates,EUS
+Euspira lewisii,Other Invertebrates,Ele
+Eusynstyela sp.,Other Invertebrates,EusynSP
+Eusynstyela tincta,Other Invertebrates,EusynTic
+Evasterias troschelii,Other Invertebrates,Etr
+Exochella frigidula,Other Invertebrates,ExoFrigi
+Facelina bostoniensis,Other Invertebrates,FAC
+Fan-shaped Soft Coral,Other Invertebrates,FSC
+Fan Worm,Other Invertebrates,WORM fan
+Feather Duster Worms,Other Invertebrates,Feat_dust
+Finger leather,Other Invertebrates,fi_le
+Fish.,Other Invertebrates,FISH.
+Fissurella radiosa tixierae,Other Invertebrates,Sombrerito
+Fissurellidea patagonica,Other Invertebrates,F.patagoni
+Flabelligera mundata,Other Invertebrates,FLABE
+Flabellina sp.,Other Invertebrates,Fla
+Flabellina spp.,Other Invertebrates,FLAB
+Flabellina trilineata,Other Invertebrates,Ftl
+Flabellina trophina,Other Invertebrates,Ftr
+Flabellina verrucosa,Other Invertebrates,Fve
+Flamingo tongue,Other Invertebrates,Flam_ton
+Florometra serratissima,Other Invertebrates,Fse
+Fodinella atlantica,Other Invertebrates,FodiAtlan
+Foliose CCA,Other Invertebrates,CCAF
+Fusitriton oregonensis,Other Invertebrates,For
+Galeolaria,Other Invertebrates,Galeo
+Gall crab (hole),Other Invertebrates,Gall_hole
+Gall grab,Other Invertebrates,Gall_crab
+Garveia spp.,Other Invertebrates,GARV
+Geitodoris heathi,Other Invertebrates,Ghe
+Gelliodes fibrosa,Other Invertebrates,Gfib
+Gellius arcoferus,Other Invertebrates,GEL
+Geodia ap,Other Invertebrates,GEO
+Geodia sp.,Other Invertebrates,Geod
+Gersemia rubiformis,Other Invertebrates,GERU
+Gersemia rubiformis (canopy),Other Invertebrates,GRC
+Gersemia rubiformis (substratum),Other Invertebrates,GRS
+Glebocarcinus oregonensis,Other Invertebrates,Glo
+Glyphoperidium bursa,Other Invertebrates,GBur
+Glyptonotus antarcticus,Other Invertebrates,GLYP
+Gneptuni,Other Invertebrates,Gnep
+Gorgonacea,Other Invertebrates,GORGON
+Gorgonia spp.,Other Invertebrates,GORSPP
+Gorgonia ventalina,Other Invertebrates,Gven
+Gorgoniidae,Other Invertebrates,GORGONII
+Gorgonocephalus eucnemis,Other Invertebrates,Gen
+Granaster nutrix,Other Invertebrates,GRAN
+Granulina margaritula,Other Invertebrates,Gma
+Gray Sponge,Other Invertebrates,GSP
+Green sponge,Other Invertebrates,SpoGreen
+Gregarian Ascidian,Other Invertebrates,GA
+Gryphaeidae,Other Invertebrates,Gryph
+Haddons Anemone,Other Invertebrates,Hads Anem
+Halcurias sp.,Other Invertebrates,Halcurias
+Halichondria bowerbanki,Other Invertebrates,Halicho bo
+Halichondria panicea,Other Invertebrates,HAPA
+Halichondria sp,Other Invertebrates,Halicho sp
+Halichondria sp. (Blue),Other Invertebrates,BHA
+Haliclona cf. coerulescens,Other Invertebrates,Hal_coe
+Haliclona mucosa,Other Invertebrates,Halic_muco
+Haliclona oculata (canopy),Other Invertebrates,HOC
+Haliclona oculata (substratum),Other Invertebrates,HOS
+Haliclona proletaria,Other Invertebrates,HLpr
+Haliclona (Reniera) cinerea,Other Invertebrates,Halic cine
+haliclona sp,Other Invertebrates,HL
+Haliclona sp.,Other Invertebrates,HALIC
+Haliclona spp.,Other Invertebrates,HALS
+Haliotis kamtschatkana,Other Invertebrates,Hka
+Halisarca dujardinii,Other Invertebrates,Halis_duja
+Halisarca spp.,Other Invertebrates,HAS
+Halocynthia aurantium,Other Invertebrates,HAAU
+Halocynthia igaboja,Other Invertebrates,HAIG
+Halocynthia pyriformis,Other Invertebrates,HPY
+Haplonemertea,Other Invertebrates,HAP
+Harpagifer antarcticus,Other Invertebrates,HARPA
+Heliopora,Other Invertebrates,Heliop
+Hemigellius pilosus,Other Invertebrates,Hmp
+Hemigrapsus sanguineus,Other Invertebrates,HEM
+Hemimycale columella,Other Invertebrates,Hemi_colum
+Hemimycale topsenti,Other Invertebrates,Hmyt
+Hemismittoidea corallinea,Other Invertebrates,HemisCora
+Hemithyris psittacea,Other Invertebrates,HEPS
+Henricia sanguinolenta,Other Invertebrates,HENR
+Henricia spp.,Other Invertebrates,Hen
+Herdmania,Other Invertebrates,Herdm
+Herdmania momus,Other Invertebrates,momus
+Hermissenda crassicornis,Other Invertebrates,Hcr
+Hermit crab,Other Invertebrates,Her
+Hermodice carunculata,Other Invertebrates,HermoCar
+Heteractis magnifica,Other Invertebrates,Sea anemon
+Heterocentrotus mamillatus,Other Invertebrates,Hmam
+Heterogorgia uatumani,Other Invertebrates,HUAT
+Heteropora pacifica,Other Invertebrates,HEPA
+Heteroxenia_clustered,Other Invertebrates,hetclu
+Hexactinellida,Other Invertebrates,Hexa
+Hiatella arctica,Other Invertebrates,HIA
+Hippasteria phygiana,Other Invertebrates,HPP
+Hippodiplosia insculpta,Other Invertebrates,HIIN
+Hippoporella sabulonis,Other Invertebrates,HippoSabu
+Hippoporella sabulonis.,Other Invertebrates,HippoSabul
+Hippothoa hyalina,Other Invertebrates,HIP
+Hirudinea,Other Invertebrates,HIR
+Holothurea atra,Other Invertebrates,H atra
+Holothuria,Other Invertebrates,Holo
+Holothuroidea,Other Invertebrates,HOL
+Homarus americanus,Other Invertebrates,Lobs
+Homaxinella balfourensis,Other Invertebrates,HOMA
+Homerus americanus,Other Invertebrates,HOM
+Homotrema rubrum,Other Invertebrates,HomoRubr
+Hormathia lacunifera,Other Invertebrates,LACU
+Hormosoma scotty,Other Invertebrates,HORM
+Hornera lichenoides,Other Invertebrates,Horner_lic
+Hyas spp.,Other Invertebrates,HYA
+Hydrallmania distans,Other Invertebrates,HYDI
+Hydroactinia angusta,Other Invertebrates,HYDang
+Hydro-bryo complex,Other Invertebrates,HBCO
+Hydrocoral,Other Invertebrates,hydrocoral
+Hydrocorals: Branching,Other Invertebrates,HydrC_Br
+Hydrocorals: Submass/Encr,Other Invertebrates,HydrC_Encr
+Hydroid,Other Invertebrates,Hydra
+Hydroid/Bryozoan,Other Invertebrates,HydBry
+Hydroides sp,Other Invertebrates,HYDR
+Hydroid matrix,Other Invertebrates,Hyd_Mat
+Hydroidolina Sp.,Other Invertebrates,LINASp
+Hydroid Polyp,Other Invertebrates,HP
+Hydroids,Other Invertebrates,HYDD
+Hydroids: Colonial (feather/fluff),Other Invertebrates,Hydroid_C
+Hydroids: Feathery Types,Other Invertebrates,SINV_HYD
+Hydroid species,Other Invertebrates,HYSP
+Hydroids: Solitary,Other Invertebrates,Hydroid_S
+Hydrozoa,Other Invertebrates,HZ
+Hydrozoa_arborescent,Other Invertebrates,hyrarb
+Hydrozoa_bushy,Other Invertebrates,hyrbus
+Hydrozoan (arborescent),Other Invertebrates,HZ_arbor
+Hydrozoa_plumose,Other Invertebrates,hyrplu
+Hydrozoo-2,Other Invertebrates,CNID-HYD2
+Hymedesmia gaussiana,Other Invertebrates,Hgau
+Hymedesmia (Hymedesmia) gaussiana,Other Invertebrates,Hygau
+Hymedesmia (Hymedesmia) noramaloneae sp,Other Invertebrates,Hymnor
+Hymedesmia spp.,Other Invertebrates,HYM
+Hymeniacidon perlevis,Other Invertebrates,H.perlevis
+Hymeniacidon sp.,Other Invertebrates,Hymsp
+Hyrtios altum,Other Invertebrates,Hyr_alt
+Hyrtios sp.,Other Invertebrates,Hyrt
+Ianthella basta,Other Invertebrates,Ian_bas
+Iciligorgia spp.,Other Invertebrates,ICISPP
+Idanthyrsus saxicavus,Other Invertebrates,IDSA
+Idmidronea sp.,Other Invertebrates,Idmedro
+Idotea spp.,Other Invertebrates,IDO
+Individual Tunicates,Other Invertebrates,SINV_TUN
+invertebrate,Other Invertebrates,Inver
+Iophon hesperidesi,Other Invertebrates,Ioph
+Iophon spp.,Other Invertebrates,IOP
+Iotrochota,Other Invertebrates,IOT
+Iotrochota baculifera,Other Invertebrates,Iot_bac
+Ircinia campana,Other Invertebrates,Icampa
+Ircinia dendroides,Other Invertebrates,IRCden
+Ircinia felix,Other Invertebrates,Ifelix
+Ircinia_massive,Other Invertebrates,IRCI
+ircinia oros,Other Invertebrates,IRo
+Ircinia sp.,Other Invertebrates,IRCINIA
+Ircinia strobilina,Other Invertebrates,SPON-IRCI2
+Ircinia variabilis,Other Invertebrates,IRv
+Isodictya erinacea,Other Invertebrates,ISOD
+Isodictya spp. (canopy),Other Invertebrates,ISC
+Isodictya spp. (substratum),Other Invertebrates,ISS
+Isognomon janus,Other Invertebrates,I.janus
+Isognomon nucleus,Other Invertebrates,Isog_nucl
+Isopoda,Other Invertebrates,ISOPO
+"Isopod, unidentified",Other Invertebrates,Iso
+Isosicyonis alba,Other Invertebrates,ISOS
+Isostichopus badionotus,Other Invertebrates,IsoBad
+Janolus fuscus,Other Invertebrates,Jfu
+Jassa marmorata,Other Invertebrates,JAS
+Jellies,Other Invertebrates,Jellies
+Jugaria quadrangularis,Other Invertebrates,JUQU
+Junceella,Other Invertebrates,Junceella
+Junceella_whip,Other Invertebrates,junwhi
+Katharina tunicata,Other Invertebrates,Ktu
+Kelp (unidentifed Laminariales),Other Invertebrates,KELP
+Keyhole limpet,Other Invertebrates,Fissurella
+Khang,Other Invertebrates,Khang
+Kidderia bicolor,Other Invertebrates,KID
+Kirkpatrickia variolosa,Other Invertebrates,Krva
+Klyxum_bushy,Other Invertebrates,klybus
+Knobbly Wink - Nodilittorina Pyramidalis,Other Invertebrates,NOD PYRA
+Labidiaster annulatus,Other Invertebrates,LABI
+Labioporella tuberculata,Other Invertebrates,LabiTuber
+Lacuna vincta,Other Invertebrates,LAC
+Laevilacunaria antarctica,Other Invertebrates,LAEV
+Lafoea dumosa,Other Invertebrates,LADU
+Lamellate Sponge,Other Invertebrates,LS
+Large Massive Sponge,Other Invertebrates,SpMassLg
+Laternula elliptica,Other Invertebrates,LATe
+Latrunculia apicalis,Other Invertebrates,LAT
+Leather Coral,Other Invertebrates,LC
+Lebrunia spp.,Other Invertebrates,Lespp
+Lemnalia,Other Invertebrates,LEM
+Lepidonotothen nudifrons,Other Invertebrates,LEPI
+Leptasterias spp.,Other Invertebrates,Lep
+Leptochiton kerguelensis,Other Invertebrates,Lkerg
+Leptocollonia innocens,Other Invertebrates,LepInn
+Leptogorgia hebes,Other Invertebrates,LepHeb
+Leptogorgia punicea,Other Invertebrates,LepPu
+Leptogorgia virgulata,Other Invertebrates,LepVi
+Leptosia sp.,Other Invertebrates,TOS
+Leucandra spp.,Other Invertebrates,LEUD
+Leucetta,Other Invertebrates,Leuc_sp
+Leucetta antarctica,Other Invertebrates,Leu
+Leucilla nuttingi,Other Invertebrates,LENU
+Leucippa pentagona,Other Invertebrates,L.pentagon
+Leucosolenia spp.,Other Invertebrates,LEUC
+Libinia spp.,Other Invertebrates,LIB
+Lichenoporidae sp.,Other Invertebrates,LISp
+Licornia sp.,Other Invertebrates,LicorniaSP
+Limacia cockerelli,Other Invertebrates,Lco
+Limaria Link,Other Invertebrates,Lim-lnk
+Limpets,Other Invertebrates,Limp
+Limpetss,Other Invertebrates,Limpp
+"Limpet, unidentified",Other Invertebrates,Lim
+Linckia sp.,Other Invertebrates,LinSp
+Liosina blastifera,Other Invertebrates,Lios
+Liosina cf. granularis,Other Invertebrates,Lio_gra
+Liothyrella uva,Other Invertebrates,LIOT
+Lissoclinum_encrusting,Other Invertebrates,lisenc
+Lissoclinum fragile,Other Invertebrates,L.fragile
+lithophaga,Other Invertebrates,LITHOPHAGA
+Lithophyton,Other Invertebrates,LITOP
+Lithophytum_bushy,Other Invertebrates,litbus
+Litophyton,Other Invertebrates,Lito
+Little Blue Periwinkle - Nodilittorina Unifas,Other Invertebrates,NOD UN
+Littorina littorea,Other Invertebrates,LIL
+Live Barnacle,Other Invertebrates,LBa
+Live Mussel,Other Invertebrates,LMu
+Live Oyster,Other Invertebrates,LOy
+Lobate Soft Coral,Other Invertebrates,LSC
+Lobophyton/Sinularia,Other Invertebrates,LoSi
+Lobophytum,Other Invertebrates,Lobphy
+Lobophytum_digitate,Other Invertebrates,loodig
+Lobophytum_lobate,Other Invertebrates,loolob
+Lobophytum_massive,Other Invertebrates,loomas
+Loimia medusa,Other Invertebrates,LMED
+Lopholithodes mandtii,Other Invertebrates,Lma
+Loxorhynchus crispatus,Other Invertebrates,Loc
+Lyrocteis flavopallidus,Other Invertebrates,LYR
+Lytechinus variegatus,Other Invertebrates,LytechVar
+Macrorhynchia philippina,Other Invertebrates,MACRPH
+Magarites pupillus,Other Invertebrates,Mpu
+Magellania venosa,Other Invertebrates,Braquiopod
+Malacobelemnon daytoni,Other Invertebrates,Malaco
+Malleus regula,Other Invertebrates,MALr
+Mangrove Oyster,Other Invertebrates,RM Oyster
+Margarella antarctica,Other Invertebrates,MARG
+Massive or encrusting sponges,Other Invertebrates,SINV_SPO_M
+Mat tunicate,Other Invertebrates,MTUN
+Mediaster aequalis,Other Invertebrates,Mae
+Megabalanus cocopoma,Other Invertebrates,Mco
+Megaciella Cardenas sp.,Other Invertebrates,MCa
+Melarhaphe neritoides,Other Invertebrates,Melarh
+Melibe leonina,Other Invertebrates,Mle
+Melithaea,Other Invertebrates,Melith
+Melithaeidae_fan,Other Invertebrates,melfan
+Melophlus sarasinorum,Other Invertebrates,Mel_sar
+Membranipora membranacea,Other Invertebrates,MEMB
+Membranipora serrilamella,Other Invertebrates,MESE
+Mesocentrotus franciscanus,Other Invertebrates,Mfr
+Metacarcinus magister,Other Invertebrates,Mem
+Metandrocarpa sp.,Other Invertebrates,MetanSP
+Metandrocarpa taylori,Other Invertebrates,META
+Metridium farcimen,Other Invertebrates,MEFA
+Metridium senile,Other Invertebrates,MESN
+Metridium senile (canopy),Other Invertebrates,MSC
+Metridium senile (substratum),Other Invertebrates,MSS
+Microciona prolifera,Other Invertebrates,MPR
+microcosmus,Other Invertebrates,MICRO
+Microporella curta,Other Invertebrates,MicroCurta
+Microporella sp.,Other Invertebrates,MicropoSP
+Millepora,Other Invertebrates,Millepora
+Millepora bleached,Other Invertebrates,Mille-BL
+Millepora squarrosa,Other Invertebrates,MIS
+Mimulus foliatus,Other Invertebrates,Mif
+Miniacina miniacea,Other Invertebrates,Mini_mini
+Mithraculus forceps,Other Invertebrates,Mithfor
+"Mobile, crab",Other Invertebrates,Crab
+Mobile invertebrates,Other Invertebrates,mob
+Mobile invertebrates 1,Other Invertebrates,MOB-INV
+"Mobile, limpet",Other Invertebrates,MLimp
+"Mobile, snail",Other Invertebrates,Snl
+"Mobile, worm",Other Invertebrates,Wrm
+Modiolus barbatus,Other Invertebrates,Mod_barb
+Modiolus modiolus,Other Invertebrates,MOMD
+Molgula manhattensis,Other Invertebrates,MMA
+Molgula pacifica,Other Invertebrates,MOPA
+Molgula pedunculata,Other Invertebrates,MOLG
+Molgula spp.,Other Invertebrates,MOL
+Molluscs,Other Invertebrates,MO
+Molluscs: Cephalopods,Other Invertebrates,M_Ceph
+Molluscs: Chitons,Other Invertebrates,MOCH
+Molluscs: Gastropods,Other Invertebrates,gastropod
+Molluscs: Gastropods: Shelled,Other Invertebrates,M_Gpod_Shl
+Molluscs: Gastropods: Unshelled,Other Invertebrates,M_Gpod_Nud
+Molluscs: Limpets,Other Invertebrates,MOLI
+Molluscs: Snails,Other Invertebrates,MOSN
+Monanchora arbuscula,Other Invertebrates,MONA
+Monanchora-sp-3,Other Invertebrates,SPON-MONA3
+Mopalia kennerleyi,Other Invertebrates,Mck
+Mopalia spectabilis,Other Invertebrates,Msp
+Mopalia (spp.),Other Invertebrates,Mke
+Morula granulata,Other Invertebrates,MGRAN
+Morula marginalba,Other Invertebrates,MorMar
+Motile Invertebrate,Other Invertebrates,InvMotl
+M.regula\ anemone,Other Invertebrates,Reg_ane
+Mulberry Shell - Morula marginabla,Other Invertebrates,Morula
+Munida quadrispina,Other Invertebrates,Muq
+Murica pendula,Other Invertebrates,MurPen
+Muricea flamma,Other Invertebrates,MUF
+Muricea spp.,Other Invertebrates,MURSPP
+Muricea sulphurea,Other Invertebrates,MUSU
+Muriceopsis spp.,Other Invertebrates,MURISPP
+Mussel,Other Invertebrates,Mussel
+"Mussel, unidentified",Other Invertebrates,MUSL
+Mycale grandis,Other Invertebrates,MGrand
+Mycale laevis,Other Invertebrates,MLAE
+Mycale sp,Other Invertebrates,MYle
+Mycale spp.,Other Invertebrates,MYCA
+Myriapora truncata,Other Invertebrates,Myria_trun
+Mytilus edulis,Other Invertebrates,MED
+Mytilus spp.,Other Invertebrates,MYTI
+Mytilus spp. (Small),Other Invertebrates,Smm
+Myxicola,Other Invertebrates,Myxicola
+Myxicola infundibulum,Other Invertebrates,MYIN
+Myxilla (Burtonanchora) asigmata,Other Invertebrates,Myasi
+Myxilla fimbriata,Other Invertebrates,MYF
+Myxilla lacunosa,Other Invertebrates,MYLA
+Nacella concinna,Other Invertebrates,NACE
+Nematoflustra flagellata,Other Invertebrates,Nefla
+Nemertea,Other Invertebrates,NEM
+Neobuccinum eatoni,Other Invertebrates,NEOB
+Neoesperiopsis spp.,Other Invertebrates,NEOE
+Neopetrosia,Other Invertebrates,Npt
+Neopetrosia sp2,Other Invertebrates,Npt2
+Neosmilaster georgianus,Other Invertebrates,Neos
+Neospongodes atlantica,Other Invertebrates,NEOATLA
+Nephthya,Other Invertebrates,NEPT
+Nereididae,Other Invertebrates,NERE
+Nicella spp.,Other Invertebrates,NICSPP
+Niphates digitalis,Other Invertebrates,Ndig
+Niphates sp,Other Invertebrates,Niph
+Niphates toxifera,Other Invertebrates,Nptx
+Non hard coral invertebrates,Other Invertebrates,Inv
+Noodles,Other Invertebrates,NOOD
+Notaeolidia gigas,Other Invertebrates,NOTA
+Notoacmea testudinalis,Other Invertebrates,NOT
+Notocidaris sp.,Other Invertebrates,NOTO
+Notothenia coriiceps,Other Invertebrates,NOTCO
+Nucella lapillus,Other Invertebrates,NUCE
+Nucella spp.,Other Invertebrates,Nuc
+Nudibranch species,Other Invertebrates,NudiPood
+Nudibranch sp. - Egg Case Ribbon,Other Invertebrates,NsEgg
+"Nudibranch, unidentified",Other Invertebrates,Nud
+Nuttallochiton mirandus,Other Invertebrates,NUTT
+Obelia longissima,Other Invertebrates,OBE
+Obelia spp.,Other Invertebrates,OBEL
+Obelia spp. (canopy),Other Invertebrates,OBCA
+Obelia spp. (substratum),Other Invertebrates,OBC
+Ocinebrina lurida,Other Invertebrates,Olu
+Octocoral 1,Other Invertebrates,1-Oct
+octopus,Other Invertebrates,Oct
+Odontaster meriodonalis,Other Invertebrates,OdMer
+Odontaster penicillatus,Other Invertebrates,O.penicill
+Odontaster validus,Other Invertebrates,OdVal
+OI_SP,Other Invertebrates,OI_SP
+Onchidoris bilamellata,Other Invertebrates,ONB
+Onchidoris muricata,Other Invertebrates,ONM
+Onogorgia nodosa,Other Invertebrates,ONO
+Opheodesoma spectabilis,Other Invertebrates,Ospec
+Ophionotus victoriae,Other Invertebrates,OpVic
+Ophiopholis aculeata,Other Invertebrates,OPHA
+Ophioplocus januarii,Other Invertebrates,Ofiure
+Ophiuroidea,Other Invertebrates,OPHI
+Ophiuroids,Other Invertebrates,Oph
+Ophlitaspongia pennata,Other Invertebrates,OPPE
+Opisthobranchia,Other Invertebrates,OPIS
+orange amorphous,Other Invertebrates,ORa
+Orange encrusting bryozoan 1,Other Invertebrates,BROR1
+Orange encrusting bryozoan 2,Other Invertebrates,BROR2
+Orange encrusting bryozoan 4,Other Invertebrates,BROR4
+Orange gelatinous bryozoan,Other Invertebrates,BROG
+Orange Kiss,Other Invertebrates,ORK
+orange sponge round,Other Invertebrates,Ornd
+Oregonia gracilis,Other Invertebrates,Ogr
+orenge tube,Other Invertebrates,tubeO
+oreng sponge encrasting,Other Invertebrates,ORSE
+Orthasterias koehleri,Other Invertebrates,Oko
+Oscarella lobularis,Other Invertebrates,OSCALO
+Oscarella sp.,Other Invertebrates,Osca_sp
+Ostrea edulis,Other Invertebrates,OST
+Ostrea Lurida,Other Invertebrates,OsLu
+Ostrea sp.1,Other Invertebrates,Ostr_sp1
+Ostrea sp.2,Other Invertebrates,Ostr_sp2
+Ostrea sp.3,Other Invertebrates,Ostr_sp3
+Ostreidae,Other Invertebrates,MOLL-OSTR
+Oswaldella spp,Other Invertebrates,OSW
+Other Branching Bryozoan,Other Invertebrates,OBB
+Other Calcified Invert,Other Invertebrates,CalcInvert
+Other Encrusting,Other Invertebrates,OEn
+Other Fleshy Invert,Other Invertebrates,FleshInver
+Other invertebrate,Other Invertebrates,Other Inv
+Other Invertebrates,Other Invertebrates,OR_Invert
+"Other sesile invertebrates Bryozoa, clams",Other Invertebrates,SINV_OTH
+Other sesile invertebrates soft hexacorrallia,Other Invertebrates,SINV_HEX_O
+Other sessile invertebrates,Other Invertebrates,OTH-SINV
+Other soft coral,Other Invertebrates,OTH-SF
+Other Soft Coral Bleached,Other Invertebrates,OTH-SF-B*
+Other Soft Corals,Other Invertebrates,SINV_SFC_O
+Others OT,Other Invertebrates,OT
+Out of focus,Other Invertebrates,UNFO
+Outros,Other Invertebrates,OU
+Oyster,Other Invertebrates,OYst
+Oyster / Anemone,Other Invertebrates,OYs_AN
+Oysters,Other Invertebrates,Oys
+Oysterss,Other Invertebrates,Oyss
+Pachycheles chubutensis,Other Invertebrates,P.chubuten
+Pachyclavularia,Other Invertebrates,Pachcla
+Pachygrapsus transversus,Other Invertebrates,Pachytrans
+Pagarus spp.,Other Invertebrates,PAG
+Palaemon elegans,Other Invertebrates,Palaele
+Palaemon serratus,Other Invertebrates,PALA
+Palio dubia,Other Invertebrates,DUB
+Palythoa,Other Invertebrates,PALYTHO
+Palythoa_encrusting,Other Invertebrates,palenc
+Palythoa_massive,Other Invertebrates,palmas
+Pandalus danae,Other Invertebrates,Pdn
+Pandalus platyceros,Other Invertebrates,Ppl
+Parabunodactis imperfecta,Other Invertebrates,P.imperfec
+Paraceradocus miersi,Other Invertebrates,PARAC
+Paradexiospira vitrea,Other Invertebrates,PAVI
+Paraleucilla magna,Other Invertebrates,ParaMag
+Paraminabea_bushy,Other Invertebrates,parbus
+Paraminabea_massive,Other Invertebrates,parmas
+Paramolgula gregaria,Other Invertebrates,P.gregaria
+Parastichopus californicus,Other Invertebrates,Pca
+Parazoanthus_arborescent,Other Invertebrates,pararb
+parazoantos axinella,Other Invertebrates,PAAX
+parazoantus axinella,Other Invertebrates,PARAZ
+Parborlasia corrugatus,Other Invertebrates,CORRU
+Pariphimedia integricauda,Other Invertebrates,CHE
+Pariphimedia integricauda.,Other Invertebrates,PARI
+Parvulastra exigua,Other Invertebrates,Pex
+Patella sp.,Other Invertebrates,PATEL
+Patelloidea sp,Other Invertebrates,PATE
+Pateria miniata,Other Invertebrates,PMini
+Patinella radiata,Other Invertebrates,Pati_ra
+Patinella tonica,Other Invertebrates,PatiToni
+Pellilitorina pellita,Other Invertebrates,PELL
+Peltodoris spp.,Other Invertebrates,Pei
+Penares nux,Other Invertebrates,Pen_nux
+Pennaria disticha,Other Invertebrates,PENADI
+Pennatulacea,Other Invertebrates,PEN
+Pentapora fascialis,Other Invertebrates,Penta_fasc
+Pentapora ottomulleriana,Other Invertebrates,Penta_otto
+Perkinsiana sp,Other Invertebrates,PKIN
+Perknaster sp,Other Invertebrates,PERK
+Perna perna,Other Invertebrates,Prnprn
+Perophora annectens,Other Invertebrates,PEAN
+Petricola pholadiformis,Other Invertebrates,Petric ph
+Petrosia ficiformis,Other Invertebrates,PETRFI
+petrozia,Other Invertebrates,PET
+Phakellia spp.,Other Invertebrates,PHAK
+Phallusia nigra,Other Invertebrates,PHALUS
+Phidolopora pacifica,Other Invertebrates,PHPA
+Phorbas cf. domini,Other Invertebrates,PHOR
+Phorbas glaberrimus,Other Invertebrates,Phgl
+Phorbas sp.,Other Invertebrates,phorb
+Phorbas tenacior,Other Invertebrates,phor_ten
+Phorbas topsenti,Other Invertebrates,PHORBTO
+Phorcus turbinatus,Other Invertebrates,Phortur
+phragmatompoma tube,Other Invertebrates,phr_sa_tub
+Phrikoceros mopsus,Other Invertebrates,P.mopsus
+Phylangia americana,Other Invertebrates,ANT-PHYL
+Phyllangia mouchetzi,Other Invertebrates,Phyllangi_
+Phyllochaetopterus claparedii,Other Invertebrates,PHCL
+Phyllochaetopterus prolifica,Other Invertebrates,PHPR
+Phyllogorgia dilatata,Other Invertebrates,PHDI
+Phyllolithodes papillosus,Other Invertebrates,Ppa
+Phymanthus_encrusting,Other Invertebrates,phyenc
+Pileolaria spp.,Other Invertebrates,PISP
+Pilumnoides hassleri,Other Invertebrates,P. hassler
+Pinctada /Anemone,Other Invertebrates,Pin_Ane
+Pinctada imbricata,Other Invertebrates,Pincta
+Pinctada imbricata radiata,Other Invertebrates,Pincimb
+Pinctada margaritifera,Other Invertebrates,BLPO
+Pinctada radiata,Other Invertebrates,PINr
+pink amorphous,Other Invertebrates,PNa
+pink blob,Other Invertebrates,Pblob
+pink bryozoa/sponge,Other Invertebrates,PNbs
+pink sponge encrasting,Other Invertebrates,PNSE
+Pinna bicolor,Other Invertebrates,Pinn_bic
+Pinnigorgia,Other Invertebrates,Pin
+Pinnigorgia_arborescent,Other Invertebrates,pinarb
+Pipe-like Sponge,Other Invertebrates,PS
+Pisaster brevispinus,Other Invertebrates,Pbr
+Pisaster ochraceous,Other Invertebrates,Poc
+Pista elongata,Other Invertebrates,PIEL
+Placetron wosnessenskii,Other Invertebrates,Pwo
+Plakortis,Other Invertebrates,PLAK
+Plakortis lita,Other Invertebrates,Pla_lit
+Platonea stoechas,Other Invertebrates,Plato sto
+Plesiocleiodochasma sp.,Other Invertebrates,PlesioSP
+Pleurobranchaea maculata,Other Invertebrates,babosaToxi
+Plexaura spp.,Other Invertebrates,PLESPP
+Plexaurella grandiflora,Other Invertebrates,PLEXG
+Plexaurella regia,Other Invertebrates,PLEXR
+Plexaurella spp.,Other Invertebrates,PLEXSPP
+Plexauridae,Other Invertebrates,Ple
+PNG-Tunicate-Solitary,Other Invertebrates,PNGTS
+Pododesmus macrochisma,Other Invertebrates,PDMC
+Pododesmus sp.,Other Invertebrates,Podod
+Polycera marplatensis,Other Invertebrates,Nudi.COLOR
+Polychaeta,Other Invertebrates,POLYCH
+polychaete,Other Invertebrates,Plt
+Polychaete_branching,Other Invertebrates,Pct_br
+Polychaete_solo,Other Invertebrates,Pct_sl
+Polychaete - tube worm,Other Invertebrates,Tube Worm
+Polymastia invaginata,Other Invertebrates,INVA
+Polymastia spp.,Other Invertebrates,POLY
+Polynoidae,Other Invertebrates,POLYn
+Polyplacophora,Other Invertebrates,POL
+Polysyncraton sp.,Other Invertebrates,PolySP
+Polysyncraton_spp,Other Invertebrates,Polysyncra
+Pomatoceros_spp,Other Invertebrates,Pomato
+Porania pulvillus,Other Invertebrates,POR
+Porifera - blue,Other Invertebrates,Sponge blu
+Porifera_encrusting,Other Invertebrates,Prf_enc
+Porifera_encrusting_red,Other Invertebrates,Prf_enc_r
+Porifera indet. or Ascidiacea indet.,Other Invertebrates,Prfa-Ascid
+Porifera - orange,Other Invertebrates,PorOrg
+Porifera - purple,Other Invertebrates,Sponge pur
+Porifera - red,Other Invertebrates,Por Red
+Porifera_red,Other Invertebrates,Prf_red
+Porifera_white,Other Invertebrates,Prf_white
+Porifera_yellow,Other Invertebrates,Prf
+Porifera_yellow2,Other Invertebrates,Prf2
+Porifera_yellow3,Other Invertebrates,Prf3
+Porifera_yellow4,Other Invertebrates,Prf4
+Prasmittina alba,Other Invertebrates,PrasAlba
+Prasmittina glomerata,Other Invertebrates,PrasGlom
+Priapulada,Other Invertebrates,PRIA
+Priapulus tuberculatospinosus,Other Invertebrates,PriTub
+Promachocrinus kerguelensis,Other Invertebrates,PROM
+Prostebbingia sp,Other Invertebrates,PROS
+Protolaeospira eximia,Other Invertebrates,PREX
+Protoleodora aperata,Other Invertebrates,PRAP
+Protula pacifica,Other Invertebrates,Prp
+Protula tubularia,Other Invertebrates,Protul-tub
+Pseudechinus magellanicus,Other Invertebrates,ErizoRojo
+Pseudoceratina_sp,Other Invertebrates,PsCer
+Pseudochasma sp,Other Invertebrates,PseudoSP
+Pseudochitinopoma occidentalis,Other Invertebrates,PSCO
+Pseudocnus lubricus,Other Invertebrates,Plu
+Pseudoplexaura spp.,Other Invertebrates,PSESPP
+Pseudopterogorgia,Other Invertebrates,Pseudopter
+Pseudotritonia gracilidens,Other Invertebrates,PseuGraci
+Psilaster charcoti,Other Invertebrates,PSI
+Psolidium bidiscum,Other Invertebrates,PSBI
+Psolus chitonodes,Other Invertebrates,PSCH
+Psolus sp.,Other Invertebrates,PSO
+Pteraster militaris,Other Invertebrates,Pmi
+Pteraster tesselatus,Other Invertebrates,Pte
+Pteria aegyptiaca,Other Invertebrates,Pter_aeg
+pteria /Anemone,Other Invertebrates,Ptei_Ane
+Pteria penguin,Other Invertebrates,Pter_ping
+Pterogorgia,Other Invertebrates,Pterogorg
+Ptilosarcus gurneyi,Other Invertebrates,PTGU
+Puellina sp.,Other Invertebrates,PuellinaSP
+Pugettia gracilis,Other Invertebrates,Pgr
+Pugettia producta,Other Invertebrates,Ppr
+Pugettia richii,Other Invertebrates,Pur
+Purple Ascidian,Other Invertebrates,PurpAscid
+Purple Bryozoan,Other Invertebrates,B_Purple
+Pycnoclavella sp.,Other Invertebrates,Pycno
+Pycnoclavella spp.,Other Invertebrates,Pycnocla
+Pycnoclavella stanleyi,Other Invertebrates,PYST
+Pycnogonida,Other Invertebrates,PYC
+Pycnopodia helianthoides,Other Invertebrates,Phe
+Pyura bouvetensis,Other Invertebrates,PYUb
+Pyura haustor,Other Invertebrates,PYRH
+Pyura setosa,Other Invertebrates,PYUset
+Pyuridae,Other Invertebrates,Pyura
+raspailia,Other Invertebrates,RAS
+Red sponge,Other Invertebrates,RedS
+Red sponge encrasting,Other Invertebrates,RedSE
+Reniera spp.,Other Invertebrates,RENI
+Reteporella spp.,Other Invertebrates,Retepo
+Reteporellina denticulata,Other Invertebrates,RDEN
+Rhabdastrella globostellata,Other Invertebrates,Rha_glo
+Rhinchozoon brasiliensis,Other Invertebrates,RhinchBra
+Rhinchozoon phrynoglossum,Other Invertebrates,RhichPhry
+Rhinolithodes wosnessenskii,Other Invertebrates,Rwo
+Rhodactis,Other Invertebrates,Rho
+Rhynchozoon neapolitanum,Other Invertebrates,Rhynch_nea
+Rhytisma_encrusting,Other Invertebrates,rhyenc
+Ribbed Limpet,Other Invertebrates,Ribbed lmp
+Ribbon,Other Invertebrates,Ribbon
+Ricordea,Other Invertebrates,Rico
+Rope sponge,Other Invertebrates,ROSP
+Rossella racovitzae,Other Invertebrates,ROS
+Rumphella_arborescent,Other Invertebrates,rumarb
+Rumphella_bushy,Other Invertebrates,rumbus
+Rumphella sp.,Other Invertebrates,Rum
+Sabellaria sp.,Other Invertebrates,SabeSP
+Sabellariidae,Other Invertebrates,Sabella
+sabellastarte spectabilis,Other Invertebrates,SSPE
+Sabellidae,Other Invertebrates,Sab
+Sagartia elegans,Other Invertebrates,SAG
+Salmacina clysteri,Other Invertebrates,Sclysteri
+Salmacina_spp/Filograna implexa,Other Invertebrates,Salmacin-F
+Sand dollars,Other Invertebrates,SandD
+S. Anemone,Other Invertebrates,Ane
+Sarcophyton,Other Invertebrates,Sarco
+Sarcophyton 1,Other Invertebrates,Sarco1
+Sarcophyton_lobate,Other Invertebrates,sarlob
+Sarcophyton_massive,Other Invertebrates,sarmas
+Sarcophyton spp.,Other Invertebrates,Sar_spp
+sarcotragus,Other Invertebrates,Sar
+Sarcotragus spinosulus,Other Invertebrates,SARCOSP
+Savignyella lafonti,Other Invertebrates,SaviLafo
+"Scallop, unidentified",Other Invertebrates,Slp
+Schizobrachiella sanguinea,Other Invertebrates,Schizob_sa
+Schizomavella auriculata,Other Invertebrates,SCAU
+Schizomavella spp.,Other Invertebrates,Schizom
+Schizoporella cornuta,Other Invertebrates,Scorn
+Schizoporella errata,Other Invertebrates,SchizoErra
+Schizoporella floridana,Other Invertebrates,Sflorid
+Schizoporella sp.,Other Invertebrates,SCSP
+Schizoporella unicornis,Other Invertebrates,SCH
+Schizoporella violacea,Other Invertebrates,Schizo vio
+Schizotheca serratimargo,Other Invertebrates,Schizo_ser
+Schraderia gracilis,Other Invertebrates,SCHR
+Scleronephthya_bushy,Other Invertebrates,sclbus
+Scorpiodinipora costulata,Other Invertebrates,ScopiCost
+Scrupocellaria sp.,Other Invertebrates,SCRSp
+Scutellastra peronii,Other Invertebrates,Spe
+Scypha sp.,Other Invertebrates,SCY
+Scyphozoa,Other Invertebrates,Scypho
+Scyra acutifrons,Other Invertebrates,Sac
+S. droebachiensis,Other Invertebrates,Sdr
+Sea cucumber,Other Invertebrates,cucumber
+Sea cucumbers:Benthic,Other Invertebrates,ESCB
+Sea cucumbers: Pelagic / swimming,Other Invertebrates,ESCP
+"Sea cucumbers, sea urchins, sea stars, lobste",Other Invertebrates,MINV_OTH
+Sea Fan,Other Invertebrates,Seafan
+Sea fans/plumes,Other Invertebrates,GORG
+Sea fans/plumes Bleached,Other Invertebrates,GORG-B*
+Sea fans/plumes/branching/whipes,Other Invertebrates,SINV_SFC_E
+Sea Spider,Other Invertebrates,SPID
+Sea Star,Other Invertebrates,SStar
+"sea star, unidentified",Other Invertebrates,Sea
+Sedentary Annelida Polychaeta,Other Invertebrates,Anne_poly
+S. edmondsoni,Other Invertebrates,SaEdm
+S. edmonsonii,Other Invertebrates,SaEdmon
+Semibalanus balanoides,Other Invertebrates,SEMI
+Semibalanus cariosus,Other Invertebrates,SECA
+Serolidae,Other Invertebrates,SERO
+Serpula columbiana,Other Invertebrates,Sco
+Serpulidae worm,Other Invertebrates,Serpulworm
+Serpulid worms,Other Invertebrates,SERP
+serpulid worm sediment matrix,Other Invertebrates,swsm
+"Serpulid worms, unidentified",Other Invertebrates,SEUN
+Sertularia sp.,Other Invertebrates,Sert
+Sessile Hermitcrab,Other Invertebrates,HERMIT
+S. franciscanus,Other Invertebrates,Sfr
+"Shrimp, unidentified",Other Invertebrates,Shi
+Silicularia pedunculata,Other Invertebrates,SIL
+Sinularia,Other Invertebrates,Sinla
+Sinularia_bushy,Other Invertebrates,sinbus
+Sinularia_digitate,Other Invertebrates,sindig
+Sinularia_lobate,Other Invertebrates,sinlob
+Sinularia sp.,Other Invertebrates,Sinu
+SINV_SPO_FAN,Other Invertebrates,SINV_SPO_F
+Siphonaria gigas,Other Invertebrates,Sgi
+Siphonaria sp,Other Invertebrates,Siph
+Siphonogorgia_fan,Other Invertebrates,sipfan
+small Ciona intestinal,Other Invertebrates,SmC
+Small Crab,Other Invertebrates,SmCrb
+Smenospongia cerebriformis,Other Invertebrates,SmenCere
+Smittina cervicornis,Other Invertebrates,Smitt_cerv
+Smittina smittiella,Other Invertebrates,SmitSmitt
+Smittipora tuberculata,Other Invertebrates,SmittTuber
+"Snail, unidentified",Other Invertebrates,Sna
+Soft Bleached,Other Invertebrates,SINV_BLC
+Soft Coral,Other Invertebrates,SC
+Soft Coral Capnella,Other Invertebrates,CAPN
+Soft Coral Leathery,Other Invertebrates,SCL
+Soft Coral (massive),Other Invertebrates,SC_massive
+softcoral_ nephtheidae,Other Invertebrates,NEP
+Soft Coral plumes,Other Invertebrates,SCplu
+softcoral_xeniidae,Other Invertebrates,XENII
+Solanderia spp.,Other Invertebrates,Solspp
+Solaster dawsoni,Other Invertebrates,Sda
+Solaster endeca,Other Invertebrates,Sen
+Solaster stimpsoni,Other Invertebrates,Sst
+Solenocaulon_fan,Other Invertebrates,solfan
+Solidobalanus engbergi,Other Invertebrates,SOEN
+Sphaerotylus antarcticus,Other Invertebrates,SPHA
+Spheciospongia vagabunda,Other Invertebrates,SphV
+Spider Crab,Other Invertebrates,SpiCrb
+Spiochaetopterus costarum,Other Invertebrates,SPCO
+Spionidae,Other Invertebrates,SPIO
+Spiral Worm,Other Invertebrates,SW
+Spirastrella sp.,Other Invertebrates,Spir
+Spirobranchus sp.,Other Invertebrates,Spi_spe
+Spirorbidae,Other Invertebrates,Spiro
+Spirorbidae.,Other Invertebrates,SPI
+Spirorbid worms,Other Invertebrates,Spirorworm
+Spirorbinae,Other Invertebrates,SPISp
+"Spirorbinid worm, unidentified",Other Invertebrates,SPRO
+Spirorbis_spp,Other Invertebrates,Spirorb
+Spondylus sp,Other Invertebrates,Spond_sp
+Spondylus spiosus,Other Invertebrates,SPONDY
+Sponge,Other Invertebrates,SP
+Sponge (arborescent),Other Invertebrates,SP_arbor
+Sponge_arborescent,Other Invertebrates,spoarb
+Sponge - Branching Agelas,Other Invertebrates,BrAg
+Sponge: Cliona,Other Invertebrates,SINV_SPO_C
+Sponge_encrusting,Other Invertebrates,spoenc
+Sponge: Encrusting,Other Invertebrates,SpongeCRUS
+Sponge_flabellate,Other Invertebrates,spofla
+Sponge_globular,Other Invertebrates,spoglo
+Sponge (massive),Other Invertebrates,SP_mass
+Sponge_massive,Other Invertebrates,spomas
+Sponge: massive violet,Other Invertebrates,Violeta
+Sponge Other,Other Invertebrates,SpgOth
+Sponge: Papilae,Other Invertebrates,SpongePAPI
+Sponge_papillate,Other Invertebrates,spopap
+Sponge_pedunculate,Other Invertebrates,spoped
+Sponge: Repent,Other Invertebrates,SpongeREPE
+Sponge_repent_branching,Other Invertebrates,sporep
+Sponges: Bead,Other Invertebrates,S_bead
+"Sponges: Branching, Rope Forms",Other Invertebrates,SINV_SPO_E
+Sponges:crusts,Other Invertebrates,SCR
+Sponges:crusts: Creeping / ramose,Other Invertebrates,SCCR
+Sponges: Crusts: Encrusting Forms,Other Invertebrates,S_Encr
+Sponges: Cups: Cup/Goblet,Other Invertebrates,S_CupCmplt
+Sponges: Cups: Incompl/Curled,Other Invertebrates,S_CupIncmp
+Sponges: Cups: Tables/Discs,Other Invertebrates,S_Disc
+Sponges: Erect forms,Other Invertebrates,SE
+Sponges: Erect forms: Branching,Other Invertebrates,SEB
+Sponges: Erect forms: Laminar,Other Invertebrates,SEL
+Sponges: Erect forms: Palmate,Other Invertebrates,SEP
+Sponges: Erect forms: Simple,Other Invertebrates,SES
+Sponges: Hollow forms,Other Invertebrates,SH
+Sponges: Hollow forms : Cups and alikes,Other Invertebrates,SHCA
+Sponges: Hollow forms :Tubes and chimneys,Other Invertebrates,SHTC
+Sponges: Massive forms: Barrels,Other Invertebrates,SMB
+Sponges: Massive forms:Cryptic,Other Invertebrates,SMCR
+Sponges: Massive forms: Cushion,Other Invertebrates,SMCS
+Sponges: Massive forms: Egg,Other Invertebrates,SME
+Sponges: Massive forms: Fig,Other Invertebrates,SMFI
+Sponges: Massive forms: Irregular,Other Invertebrates,SMI
+Sponges: Massive forms: Larger holes,Other Invertebrates,SMLH
+Sponges: Massive forms: Latticework,Other Invertebrates,SML
+Sponges: Massive forms: Mound,Other Invertebrates,SMMO
+Sponges: Massive forms: Ridge,Other Invertebrates,SMRI
+Sponges: Massive forms: Round,Other Invertebrates,SMRO
+Sponges: Massive forms: Simple,Other Invertebrates,SMSI
+Sponges: Massive forms: stalked,Other Invertebrates,SMST
+Sponges: Massive forms: Volcano,Other Invertebrates,SMV
+Sponges spons,Other Invertebrates,Spons
+Sponges: Terpios,Other Invertebrates,SINV_SPO_T
+Sponges: Vase,Other Invertebrates,SINV_SPO_V
+Sponge_tubular,Other Invertebrates,spotub
+Sponge: Tubular,Other Invertebrates,SpongeTUBO
+Sponge Turf Matrix,Other Invertebrates,SpoTurfMtx
+"Sponge, unidentified",Other Invertebrates,SPUN
+SPONGE UNKNOWN SP12,Other Invertebrates,USP12
+Sponge verrucose,Other Invertebrates,spoverr
+spongia nitens,Other Invertebrates,SPOn
+S. purpuratus,Other Invertebrates,Spu
+Stalk,Other Invertebrates,Stalk
+Stalked hydroid,Other Invertebrates,StHyd
+Staurocladia charcoti,Other Invertebrates,STAU
+Stegopanoploea joubini,Other Invertebrates,STEG
+Stelletta cf. clavosa,Other Invertebrates,SteCla
+Stenorhynchus seticornis,Other Invertebrates,Stse
+Stephanollona sp.,Other Invertebrates,StephaSP
+Sterechinus neumayeri,Other Invertebrates,STER
+Stereonephthya_bushy,Other Invertebrates,stebus
+Stichodactylidae_encrusting,Other Invertebrates,stienc
+Stick,Other Invertebrates,Stick
+Stolidobranchia,Other Invertebrates,Stolido
+Stomozoa roseola,Other Invertebrates,StomRo
+Stomphia coccinea,Other Invertebrates,STCO
+Stomphia didemon,Other Invertebrates,STDI
+Stomphia selaginella,Other Invertebrates,STOM
+striphnus,Other Invertebrates,STR
+Strongylocentrotus droebachiensis,Other Invertebrates,DROE
+Strongylocentrotus purpuratus,Other Invertebrates,SPurp
+Stryphnus,Other Invertebrates,STS
+Stryphnus mucronatus,Other Invertebrates,S.M
+Styela canopus,Other Invertebrates,STA
+Styela clava,Other Invertebrates,STCL
+Styela gibbsii,Other Invertebrates,STGI
+Styela plicata,Other Invertebrates,StyelaPlic
+Styela spp.,Other Invertebrates,STYE
+Styela wandeli,Other Invertebrates,PYUse
+Styelidae,Other Invertebrates,Styel
+Stylantheca sp,Other Invertebrates,STYL
+Stylantheca spp.,Other Invertebrates,STLN
+Stylaster Sp.,Other Invertebrates,Stylas
+Stylea plicata_Molgula occidentalis,Other Invertebrates,StyMol
+Stylissa massa,Other Invertebrates,Sty_mas
+Stylissa stipitata,Other Invertebrates,STST
+Stylopoma hastata,Other Invertebrates,StyloHast
+Stylopoma sp.,Other Invertebrates,StyloSp
+Sub-Antarctic Hermit Crab,Other Invertebrates,HtCrb
+Suberites montiniger,Other Invertebrates,SUMO
+Substrate unattached,Other Invertebrates,SUBU
+Substrate: Unconsolidated (soft): sand/mud,Other Invertebrates,SUSA
+Swiftia spp.,Other Invertebrates,SWISPP
+Sycon spp.,Other Invertebrates,SYSP
+Sycozoa,Other Invertebrates,Sycozoa
+Sycozoa gaimardi,Other Invertebrates,Syg
+Syllidae,Other Invertebrates,SYLL
+Symplectocyphus spp,Other Invertebrates,SYM
+symplegma brakenhielmi,Other Invertebrates,SYMP_BRA
+Symplegma sp.,Other Invertebrates,Sympl
+synaptula,Other Invertebrates,synap
+Synnetum aegyptiacum,Other Invertebrates,SynnAegy
+Synoicum parfustis,Other Invertebrates,SYPA
+Synoicum sp,Other Invertebrates,SYN
+Syringella amphispicula,Other Invertebrates,SYAM
+Talochlamys multistriata,Other Invertebrates,Talochlam_
+Tedania meandrica,Other Invertebrates,Ted_mea
+Tedania (Tedaniopsis) charcoti,Other Invertebrates,Techa
+Tegula funebralis,Other Invertebrates,Tfu
+Tegula patagonica,Other Invertebrates,Tegula
+Telesto sp.,Other Invertebrates,Tele
+Telmessus Cheiragonus,Other Invertebrates,Tch
+Terebellidae,Other Invertebrates,Terebellid
+Terebellidae.,Other Invertebrates,TERE
+Terebratalia transversa,Other Invertebrates,TETR
+Terebratalia unguicula,Other Invertebrates,TEUG
+Terebratulina septentrionalis,Other Invertebrates,TESE
+Tesseropora rosea,Other Invertebrates,TRS
+Tetraclita squamosa milleporosa,Other Invertebrates,T.squamosa
+Tetraclitella purpurascens,Other Invertebrates,TPR
+Thalamoporella californica,Other Invertebrates,ThaCa
+Thelepus crispus,Other Invertebrates,THCR
+Thesea nivea,Other Invertebrates,ThesNi
+Thick Encrusting Yellow Sponge,Other Invertebrates,YEncSpTHK
+Thick Soft Octocoral,Other Invertebrates,OctoThkSft
+Thin Soft Octocoral,Other Invertebrates,OctoThnSft
+Thorectidae sp.,Other Invertebrates,Thor
+Thouarella (Epithouarella) crenelata,Other Invertebrates,THOU
+Thouarella pendulina,Other Invertebrates,THOUP
+Titanideum frauenfeldii,Other Invertebrates,Tifrau
+Titanideum spp.,Other Invertebrates,TITSPP
+Tochuina tetraquetra,Other Invertebrates,Tte
+Tonicella insignis,Other Invertebrates,Tin
+Tonicella lineata,Other Invertebrates,Tln
+Tonicella spp.,Other Invertebrates,Tli
+Tonicella undocaerulea,Other Invertebrates,Tun
+Tonicella venusta,Other Invertebrates,Tve
+Tonicia zchaui,Other Invertebrates,TONI
+Trachelobdellina glabra,Other Invertebrates,TRAC
+Trematomus newnesi,Other Invertebrates,TREMA
+Tricellaria inopinata (canopy),Other Invertebrates,SSC
+Tricellaria inopinata (substratum),Other Invertebrates,SSS
+Tricellaria sp.,Other Invertebrates,Tricell
+Trichotropis cancellata,Other Invertebrates,Tcn
+Tridacna crocea clam,Other Invertebrates,Tri_crocea
+Tridacna: Giant clam,Other Invertebrates,GiCl
+Tridacna maxima,Other Invertebrates,Tridacna m
+Trididemnum alexi,Other Invertebrates,TRAL
+Trididemnum spp.,Other Invertebrates,TRIDI
+Trididemum solidum.,Other Invertebrates,TRID
+Triopha catalinae,Other Invertebrates,Tca
+Triopha maculata,Other Invertebrates,Tma
+Tripalea clavaria,Other Invertebrates,T.clavaria
+Triphyllozoon,Other Invertebrates,Triphyll
+Tripneustes gratilla,Other Invertebrates,Tgrat
+Tripneustes spp,Other Invertebrates,MINV_Tri
+Tritonia diomedea,Other Invertebrates,Tdi
+Tritonia festiva,Other Invertebrates,Tfe
+Tritonia plebeia,Other Invertebrates,TRI
+Tritoniella belli,Other Invertebrates,TRIT
+Tritoniella belli.,Other Invertebrates,TRIT.
+Trophon geversianus,Other Invertebrates,T.geversia
+Trophon leptocharteres,Other Invertebrates,TRLep
+Trophon nucelliformis,Other Invertebrates,TRNuc
+Trypanites,Other Invertebrates,TRY
+"Tube, amphipod",Other Invertebrates,AMPH
+Tube anemones,Other Invertebrates,TUA
+Tube or Rod Sponge,Other Invertebrates,SPTU
+Tube Worm,Other Invertebrates,TW
+Tubipora,Other Invertebrates,Tubipora
+Tubipora musica,Other Invertebrates,TubiMus
+Tubularia sp.,Other Invertebrates,TubSp
+Tubulipora plumosa,Other Invertebrates,Tubul_plum
+Tunicate,Other Invertebrates,Tunicate
+Tunicate (colonial),Other Invertebrates,Tun_col
+"Tunicate, compound unidentified",Other Invertebrates,TUCM
+Tunicate_red,Other Invertebrates,Tnc
+Tunicates,Other Invertebrates,Tunic
+"Tunicate, social unidentified",Other Invertebrates,TSOU
+Tunicate solitary unidentified,Other Invertebrates,TSUN
+Tylobranchion speciosum,Other Invertebrates,TYLO
+UBS bryozoan associated,Other Invertebrates,UBS_B
+UBS sponge associated,Other Invertebrates,UBS_Sp
+UBS substrate associated,Other Invertebrates,UBS_Sub
+Ulosa spongia,Other Invertebrates,Ulo_spo
+Uncertain Compound Tunicate/Sponge,Other Invertebrates,UCTS
+undefined sp2,Other Invertebrates,und2
+undefined sp3,Other Invertebrates,und3
+undefinid sp1,Other Invertebrates,unsp1
+Unidentified arborescent bryozoan (canopy),Other Invertebrates,UAS
+Unidentified arborescent bryozoan(substratum),Other Invertebrates,UAB
+Unidentified biological substance,Other Invertebrates,UBSubst
+Unidentified crab,Other Invertebrates,Cru
+Unidentified Crangon spp.,Other Invertebrates,Crn
+Unidentified Early Fouling,Other Invertebrates,EF
+Unidentified encrusting bryozoan,Other Invertebrates,UEB
+Unidentified hydroid (canopy),Other Invertebrates,UHC
+Unidentified hydroid (substratum),Other Invertebrates,UHS
+unidentified invertebrate hole,Other Invertebrates,U_INVhole
+Unidentified Octocoral,Other Invertebrates,Octocora
+Unidentified orange sponge,Other Invertebrates,UOS
+Unidentified shrimp,Other Invertebrates,Pda
+Unidentified tube builders,Other Invertebrates,TUBE
+Unknown-10,Other Invertebrates,UNK-10
+unknown 15,Other Invertebrates,un15
+Unknown-2,Other Invertebrates,UNK-2
+Unknown-20,Other Invertebrates,UNK-20
+Unknown-3,Other Invertebrates,UNK-3
+Unknown-4,Other Invertebrates,UNK-4
+Unknown-5,Other Invertebrates,UNK-5
+Unknown-8,Other Invertebrates,UNK-8
+Unknown-9,Other Invertebrates,UNK-9
+Unknown Bryozoan,Other Invertebrates,UnkBry
+Unknown Hydroid,Other Invertebrates,UnkHyd
+Unknown Invertebrate,Other Invertebrates,Unkinvert
+unknown invertebrate eggs,Other Invertebrates,unIEgg
+Unknown larger chiton,Other Invertebrates,Lld
+unknown sp12,Other Invertebrates,unk12
+UNKNOWN SP15,Other Invertebrates,unk15
+unknown sp4,Other Invertebrates,un4
+Unknown Sponge - Brown,Other Invertebrates,UnSB
+Unknown Sponge - Red,Other Invertebrates,UnSR
+Unknown Sponge/Tunicate,Other Invertebrates,SpTun
+Unknown Sponge - White,Other Invertebrates,UnSW
+Unknown Tunicate,Other Invertebrates,UnkTUN
+unknown whait,Other Invertebrates,UNw
+Upright Heavily Branched Structures,Other Invertebrates,UHBS
+Upright sponge,Other Invertebrates,UpSponge
+Urosalpinx cinerea,Other Invertebrates,Urosal cin
+Urticina clandestina,Other Invertebrates,URTCLAN
+Urticina columbiana,Other Invertebrates,URCO
+Urticina crassicornis,Other Invertebrates,URCR
+Urticina grebelnyi,Other Invertebrates,URTGREB
+Urticina lofotensis,Other Invertebrates,URLO
+Urticina piscivora,Other Invertebrates,URPI
+Vase sponge,Other Invertebrates,SPvase
+Vermetidae,Other Invertebrates,Verme
+Verongula sp.,Other Invertebrates,Ver
+Viminella_whip,Other Invertebrates,vimwhi
+wait sponge round,Other Invertebrates,WSR
+wait sponge small,Other Invertebrates,WSS
+Watersipora cucullata,Other Invertebrates,WACU
+Watersipora subtorquata,Other Invertebrates,Wsu
+WatSubLedge,Other Invertebrates,WatSubL
+Weberella spp.,Other Invertebrates,WEBE
+whait sponge encrasting,Other Invertebrates,WTSE
+Whip-like Soft Coral,Other Invertebrates,WSC
+White Encrusting Bryozoan 1,Other Invertebrates,BROW1
+White Tube Sponge,Other Invertebrates,WTbSp
+Worms,Other Invertebrates,W
+worms: Acorn worms,Other Invertebrates,WAW
+Worms: Echiura,Other Invertebrates,WESE
+Worms Filograna implexa,Other Invertebrates,Filogran
+worms: Flatworms,Other Invertebrates,WF
+Worms: Penisworms,Other Invertebrates,WPE
+Worms: Polychaetes,Other Invertebrates,WP
+Worms: Polychaetes: other polychaetes,Other Invertebrates,WPOP
+Worms: Polychaetes: Scaleworms,Other Invertebrates,WP_Scale
+Worms: Polychaetes: Tube DF,Other Invertebrates,WP_TubeDF
+Worms: Polychaetes: Tube worms,Other Invertebrates,WPTW
+worms: Sipuncula,Other Invertebrates,WESS
+Worm tube,Other Invertebrates,W_Tube
+Xenia,Other Invertebrates,Xeni
+Xenia_clustered,Other Invertebrates,xnaclu
+Xenia elongata,Other Invertebrates,Xelon
+XENIIDAE,Other Invertebrates,XEN
+Xestospongia,Other Invertebrates,XES
+Xestospongia aff. carbonaria,Other Invertebrates,Xes_car
+Xestospongia edapha,Other Invertebrates,XEED
+Xestospongia exigua,Other Invertebrates,Xes_exi
+Xestospongia_massive,Other Invertebrates,xesmas
+Xmuta,Other Invertebrates,XMUT
+Yellow digits,Other Invertebrates,Digit
+Yellow Fan Sponge,Other Invertebrates,YlFnSp
+yellow net,Other Invertebrates,NETy
+yellow sponge,Other Invertebrates,YLS
+yellow sponge encrasting,Other Invertebrates,YLSE
+yewllo sponge tube,Other Invertebrates,YLST
+Zebra Topshell - Austrocochlea porcata,Other Invertebrates,Zebra Top
+Zirfaea pilsbryi,Other Invertebrates,ZIPI
+Zoanthid,Other Invertebrates,Zoanthid
+Zoanthid 1,Other Invertebrates,Zoan1
+Zoanthus,Other Invertebrates,ZOA
+Zoanthus_encrusting,Other Invertebrates,zoaenc
+Zoanthus_massive,Other Invertebrates,zoamas
+Zoanthus sansibaricus,Other Invertebrates,Z.sansibar
+Zooanthid,Other Invertebrates,Zoo
+Actinia tenebrosa,Soft Substrate,AcTen
+ARMS-Bali-SoftCoral,Soft Substrate,CN2
+bed sand,Soft Substrate,BSAND
+Biofilm,Soft Substrate,biofilm
+Bleached Sarcophyton,Soft Substrate,B_Sarco
+Branching Soft Coral,Soft Substrate,BSoC
+Calcareous fragments,Soft Substrate,CalFra
+Cement,Soft Substrate,Cemt
+Detritus,Soft Substrate,detritus
+Faunal sediment castings,Soft Substrate,Cast
+fresh marine snow,Soft Substrate,Fr_MarSn
+Gravel,Soft Substrate,GRAV
+Lobophyton,Soft Substrate,LBPN
+Micrite,Soft Substrate,Micrt
+Mud,Soft Substrate,Mud
+Pebble / gravel: Biologenic: Coral rubble,Soft Substrate,SUPBR
+Pebble / gravel: Biologenic: Screwshells,Soft Substrate,SUPBS
+Pebbles,Soft Substrate,Peb
+Rhytisma,Soft Substrate,Rhyt
+Sand,Soft Substrate,Sand
+Sand and sediment,Soft Substrate,Mix
+Sand / mud (<2mm): Coarse sand (w/shell frag),Soft Substrate,SUSC
+Sand/Silt,Soft Substrate,SSI
+Sand (soft),Soft Substrate,Sand_soft
+sandy mud,Soft Substrate,sand_mud
+Sandy_Substrate,Soft Substrate,SDSU
+Sediment,Soft Substrate,Sediment
+sediment (fine),Soft Substrate,sed_fine
+Sedimento branco carbonático,Soft Substrate,SEDbrcarb
+sediment (thick),Soft Substrate,sed_thick
+Shell Hash,Soft Substrate,Hash
+Shell hash/Gravel,Soft Substrate,ShellHash
+Silt/Clay,Soft Substrate,Silt
+Silt_Mud_Sand,Soft Substrate,SltMudSnd
+Soft sediment,Soft Substrate,SOFT_SEDI
+Substrate: Biologenic: Biol Rubble,Soft Substrate,Sub_BioRub
+Substrate: Biologenic: Matrix,Soft Substrate,Sub_Matrix
+Substrate: Biologenic: Other,Soft Substrate,Sub_BioOth
+Substrate: Fresh Marine Snow,Soft Substrate,Sub_FrMaSn
+Substrate: Unconsolidated: Overlay,Soft Substrate,Sub_Ovrlay
+Substrate: Unconsolidated : pebble/gravel,Soft Substrate,SUPG
+Substrate: unconsolidated: sand,Soft Substrate,SUS
+Substrate: Unconsolidated: Sand/Mud (<2mm),Soft Substrate,SUSM
+Substrate: Unconsolidated (soft),Soft Substrate,MGSU
+Synascidie gen sp,Soft Substrate,Syna
+Thick Sediment Over Rock,Soft Substrate,ThkSedRck
+Thin Sediment over Rock,Soft Substrate,ThnSedRck
+Unstable Substrate,Soft Substrate,US
+Volcanic sediment,Soft Substrate,LSUB_VOL
+Acropora cervicornis dead,Hard Substrate,ACRC_dead
+Acropora corymbose,Hard Substrate,AcroCor
+Aggregate Reef,Hard Substrate,AgRe
+aragonite crystal,Hard Substrate,AC
+Bare Panel,Hard Substrate,BareP
+Bare Pebbles,Hard Substrate,BarPeb
+Bare Rock,Hard Substrate,BARK
+Bare Rubble,Hard Substrate,BarRub
+Bare Substrate,Hard Substrate,Bare-Subst
+Bare/Turf,Hard Substrate,Bar/Trf
+Basalt,Hard Substrate,Basalt
+Bed pebbles,Hard Substrate,STO1
+Bed rock,Hard Substrate,BROCK
+Biofilmed Pebbles,Hard Substrate,BFlmPeb
+Biofilmed Rock,Hard Substrate,BFlmRck
+Biofilmed Rubble,Hard Substrate,BFlmRub
+Boken corals,Hard Substrate,BC
+Bolt,Hard Substrate,BLT
+Boulder,Hard Substrate,Bold
+Cellana rota,Hard Substrate,Cellro
+Celleporella hyalina,Hard Substrate,CellHya
+Chiton olivaceus,Hard Substrate,Chitoliva
+Chthamalus stellatus,Hard Substrate,Chthaste
+Chthamalus stellatus (dead),Hard Substrate,DChthaste
+Clastic,Hard Substrate,Class
+Cobbles,Hard Substrate,STO2
+Concrete,Hard Substrate,Cnrt
+Coral:Rock,Hard Substrate,Rc
+Coral skeleton,Hard Substrate,COSK
+corals:rock,Hard Substrate,Rc*
+Coral:Stonycoral:Millepora,Hard Substrate,Mille_Por
+COT Scars,Hard Substrate,COTSc
+CRED-CCA growing on hard substrate,Hard Substrate,*CCAH
+CRED-Rubble substrate,Hard Substrate,*RUB
+CRED-Turf growing on hard substrate,Hard Substrate,*TURFH
+"Crustose, turf, bare",Hard Substrate,CTB
+Cryptosula pallasiana,Hard Substrate,CryptoPall
+Dark Hard Substrate,Hard Substrate,HSUB_DRK
+Dead Agaricia,Hard Substrate,D_Agari
+Dead Colpophyllia,Hard Substrate,D_COLP
+Dead coral,Hard Substrate,D_coral
+Dead coral algae,Hard Substrate,DCA*
+Dead coral with turf algae,Hard Substrate,TURDHC
+Dead encrusting coral,Hard Substrate,D_Encrus
+Dead foliose coral,Hard Substrate,D_Folio
+Dead Madracis,Hard Substrate,D_MAD
+Dead massive-submassive coral,Hard Substrate,D_Massv
+Dead standing table coral,Hard Substrate,DSTC
+Dead Substrate,Hard Substrate,DSUB
+Dead table coral,Hard Substrate,D_Table
+Dendropoma cristatum,Hard Substrate,Dendr
+Dendropoma cristatum (dead),Hard Substrate,DDendropom
+dolomite rock,Hard Substrate,DolRck
+Euraphia depressa,Hard Substrate,Euradep
+Euraphia depressa (dead),Hard Substrate,Euradead
+Excavating Bite Scar,Hard Substrate,BiteScar
+Filter Feeder,Hard Substrate,FF
+Fissurella nubecula,Hard Substrate,Fissunube
+Fragments of dead coral,Hard Substrate,FDC
+Hard Bottom,Hard Substrate,Hrd
+Hardpan,Hard Substrate,H
+Hard Substrate,Hard Substrate,HS
+"Hard substrate dark, e.g. volcanic",Hard Substrate,HARD_DRK
+"Hard substrate white, i.e. limestones",Hard Substrate,HARD_WHT
+Healthy Tissue,Hard Substrate,HeTiss
+H_OTHER,Hard Substrate,H_OTHER
+H_RDC,Hard Substrate,H_RDC
+Idmidronea sp,Hard Substrate,Idmi
+Installation Surface,Hard Substrate,InstSur
+Kurkar,Hard Substrate,KURKAR
+Lesion,Hard Substrate,Lesion
+Lightly Biofilmed Rock,Hard Substrate,LBFlmRck
+Limestone free of overgrowth,Hard Substrate,LIME
+Limpets homing,Hard Substrate,Limhome
+"Mussel, dead",Hard Substrate,DM
+Oyster Bag,Hard Substrate,OyBag
+Oyster Shell,Hard Substrate,Oyster
+Patella aspera,Hard Substrate,Patasper
+Patella caerulea,Hard Substrate,Patcearu
+Pavement,Hard Substrate,Pavement
+Porites porites dead,Hard Substrate,POPdead
+Primary Substratum,Hard Substrate,Primary
+quartz grain,Hard Substrate,QTZ
+Recently Killed Coral Nutrient Indicator Alga,Hard Substrate,RKCNIA
+Recently killed coral turf algae,Hard Substrate,RKCTA
+Rhodoliths,Hard Substrate,Rh
+Rock,Hard Substrate,Rock
+Rock Crustose Coralline Algae,Hard Substrate,RCCA
+Rock_Pavement,Hard Substrate,RckPav
+Rock Turf Algae,Hard Substrate,RCTA
+Secondary Substratum,Hard Substrate,Secondary
+Shell,Hard Substrate,SHEL
+Shell/ Shell Hash,Hard Substrate,Shell
+silt_clay,Hard Substrate,SLl*
+Sludge,Hard Substrate,.MUD
+Smothered Rock,Hard Substrate,SmRock
+Smothered Rubble,Hard Substrate,SRubble
+Substrate: consolidated: boulder,Hard Substrate,SCB
+Substrate: consolidated: cobbles,Hard Substrate,SCC
+Substrate: Consolidated (hard),Hard Substrate,MGSC
+Substrate: Consolidated (hard) Boulders,Hard Substrate,SCBOU
+Substrate: Consolidated (hard) Cobbles,Hard Substrate,SCCOB
+Substrate: Consolidated (hard) Rock,Hard Substrate,SCRO
+Substrate: consolidated: rock,Hard Substrate,SCBr
+Thin Turf/Biofilm on Rock,Hard Substrate,TnTrfBFRck
+Unknown Hard Brown Substrate,Hard Substrate,UnHBS
+Vermetus triquetrus,Hard Substrate,Verm
+Vermetus triquetrus (dead),Hard Substrate,Dvermtriq
+Very Thin Sediment over Rock,Hard Substrate,VThnSedRck
+White Hard Substrate,Hard Substrate,HSUB_WHT
+Wood,Hard Substrate,Wood
+Wreck,Hard Substrate,Wreck
+Abiotic,Other,Abtc
+Acrylic Plate Background,Other,APB
+Adeonellopsis sp.,Other,Ade
+All other,Other,Other
+Alpheus deuteropus channel,Other,ALDECH
+Anarrhichthys ocellatus,Other,Aoc
+Antipathes sp.,Other,ANSP
+ARMS-Clear Biofilm,Other,Film
+ARMS-CREP-No Recruitment,Other,_NR
+ARMS-CREP-Unavailable,Other,_UNAV
+ARMS-CREP-Unclassified/Unknown,Other,_UNK
+Artedius harringtoni,Other,Aha
+Artificial material of experimental setup,Other,ART
+Ascidia challenge,Other,Asch
+Ascidians: Stalked: Colonial,Other,ASCs
+Ascidians: Stalked: Solitary: pyura spinifera,Other,ASSp
+Ascidian: Stalked: Solitary:,Other,SSA
+Ascidians: Unstalked: Colonial:Clavellina sp.,Other,AUCC
+Ask Alec,Other,AskAlec
+Ask Joe,Other,AskJoe
+background,Other,BG
+Bacteria - Beggiatoa,Other,Bacteria
+Bacterial mats,Other,BM
+Bad point,Other,BAD
+Bare mangrove root or substrate,Other,Root Bare
+Bare space,Other,Bare
+Beania bilaminata,Other,Bil
+Big Grain,Other,BGrain
+Biologically Cemented Sediment,Other,BioSed
+Biotic Matrix on Pebbles,Other,BMATPeb
+Biotic Matrix on Rubble,Other,BMATRub
+Black Fungus Disease (BFD),Other,BFD
+Black PVC,Other,PVC_black
+Bleached Xenia,Other,B_Xeni
+Bleaching Lobophytum sp.,Other,B_Loph
+Blue Ocean,Other,BOcean
+Blue Sponge,Other,Sp_blue
+Blurry,Other,BLR
+Blurry Not Sponge,Other,BlNotSpg
+Both,Other,BOTH
+boulder_stable_substrate,Other,boulss
+Branching biota unknow,Other,BBU
+Bright Orange Crust,Other,UnkOR
+Broken coral rubble,Other,C-Rubble
+Brown Ascidian,Other,BrAscid
+brown background,Other,BB
+Cable Tie,Other,CableTie
+Cage,Other,Cage
+Calciferous Sediment,Other,CSed
+Calcium Carbonate,Other,Calc
+Chirolophis decoratus,Other,Cde
+Chirolophis nugator,Other,Cnu
+Chondrichthyes egg case,Other,EGCS
+Cirripathes sp.,Other,CISP
+Cleaner Bottles & Containers,Other,CBCont
+Cliona delitrix,Other,CD
+Cnidaria: Colonial anemone: zoanthids,Other,CC
+Cnidaria: Hydroid,Other,CH
+Cnidaria: True anemone: Flyrap,Other,CTaFly
+Cnidaria: True anemone: Fourlobed,Other,CTaF
+Cnidaria: True anemone: Other: black,Other,CTaOb
+Cnidaria: True anemone: Other: orange,Other,CTaOo
+Cnidaria: True anemone: Other: white,Other,CTaOw
+Cnidaria: Tube anemone,Other,CT
+Coarse Sand,Other,C.Sand
+Come Back To,Other,CBT
+Compressa Orange,Other,COMOR
+Constructional Void,Other,CV
+Coral Culture Frame,Other,CorFrame
+Coral transplant structure,Other,RTSruct
+CRED-Unclassified/Unknown,Other,*UNK
+CRED-Wand,Other,*WAND
+CREP-T1 Tape/Wand,Other,*TW
+CREP-T1 Unclassified/Unknown benthos,Other,*UC
+Crinoidae_other_life,Other,crioth
+Crustacea: Barnacles: Acorn: Tetrachaelasma,Other,CBATT
+Crustacea: Barnacles: Stalked: Scalpellidae,Other,CBSS
+Cryptic Fish,Other,CRYPF
+Cyanobacteria,Other,CYANOB
+Cyanobacteria_filamentous,Other,cyafil
+Cyclopterus lumpus,Other,CYC
+(Dark) Cleaner Bottles & Containers,Other,CBCont_D
+(Dark) Drink Bottles – Green,Other,DBGreen_D
+(Dark) Drink Bottles – Large (>5L),Other,DBLarge_D
+(Dark) Drink Bottles – Transparent,Other,DBTransp_D
+(Dark) Floating Fishing Gear,Other,FFGear_D
+Dark Ocean,Other,DarkOcean
+(Dark) Other Floating Debris,Other,OFDebris_D
+(Dark) Plastic Bags,Other,PBags_D
+(Dark) Tetra Pak,Other,TPak_D
+Dead,Other,D
+Dead Articulated CCA,Other,D_BRCCA
+Dead Clam Shell,Other,DeadClam
+Dead coral with algae,Other,DeadAlg
+Debris,Other,Debris
+Deep Substrate,Other,DEEP
+Deep Turf,Other,DpTrf
+Destructional Void,Other,DV
+Detached Turbinaria,Other,DET_TURB
+Diadema_other_life,Other,diaoth
+Discard,Other,*DIS
+Diver,Other,DVR
+Don't Know,Other,DK
+Dots off,Other,DOF
+Drink Bottles – Green,Other,DBGreen
+Drink Bottles – Large (>5L),Other,DBLarge
+Drink Bottles – Transparent,Other,DBTransp
+Echinometra_other_life,Other,echoth
+Echinostrephus_other_life,Other,ecsoth
+Electrical tape,Other,E Tape
+Embiotoca lateralis,Other,Ela
+Empty Grain,Other,Egrain
+EMPTY SPACE,Other,EMS
+Empty wall space,Other,EWS
+Encrusting biota unknow,Other,ENBU
+Encrusting Organism on hard substrate,Other,EOHS
+Encrusting Tunicate,Other,EncrTuni
+Epiphyte on eelgrass,Other,EGEPI
+exclude,Other,EX
+Exposed Rock,Other,ERK
+Feature Of Interest,Other,FOI
+Fish,Other,FISH
+Fish eggs,Other,FishEggs
+Fishes: Bony Fishes,Other,BonyFish
+Fishes: Elasmobranchs,Other,RaySkate
+Fishing gear,Other,GEAR
+Fish: Pomacanthus paru,Other,POMPAR
+Fissure,Other,fiss
+Floating Fishing Gear,Other,FFGear
+Flounder,Other,Flou
+Foraminifera,Other,Fora
+Framer,Other,FRM
+Fused Rubble,Other,FR
+Fuzz,Other,Fuzz
+Glue,Other,Glu
+Grass,Other,W_GRS
+gravel/small rubble_unstable_substrate,Other,gravus
+Ground,Other,W_GRD
+Helcogrammoides cunninghami,Other,diablillo
+Hemigellius rudis,Other,Hemru
+Hemilepidotus hemilepidotus,Other,Hhe
+Hemilepidotus spinosus,Other,Hsp
+Herbivory,Other,BITE
+Hexagrammus decagrammos,Other,Hde
+hidrozoa 1,Other,Hid1
+Invert Housing,Other,InvertHaus
+Jordania zonope,Other,Jzo
+Joseph,Other,Joseph
+Karen,Other,Karen
+Lantana,Other,W_LAN
+limestone_stable_substrate,Other,limess
+Lobophytum sp.,Other,Loph
+Macomona liliana,Other,MACO
+Macroclymenella stewartensis,Other,M.Stew
+Marine Debris,Other,MarDeb
+Massive biota unknow,Other,MBU
+Measuring Stick,Other,Meas
+Microbial mats,Other,M.mats
+Millepora 2,Other,MIL2
+Mobile fauna,Other,Mobile
+Motor Boat,Other,MB
+Mud_silt,Other,Md_si
+Myoxocephalus spp.,Other,MYO
+NC_CA,Other,NCCA
+Neofibularia nolitangere,Other,NeoNolit
+NOAA/RSMAS,Other,UNI
+No Data,Other,NODATA
+No Detectable,Other,ND
+No ID definitive,Other,NO_ID
+Non-Bio,Other,Non-Bio
+None,Other,NODB
+Non-sample,Other,_NON
+Not colonizable,Other,X
+Not root,Other,NR
+Obscured,Other,obscured
+oceanic sand,Other,OS
+Octocoral,Other,OCTO_
+Off,Other,Off
+offcameraspace,Other,DNUSE
+off subject,Other,OFFsub
+OOLITO,Other,OOD
+Ophiodon elongatus,Other,Oei
+Ophiuroidea_other_life,Other,ophoth
+O_SPARE,Other,O_SPARE
+O_TAPE,Other,O_TAPE
+Other,Other,O
+Other benthic,Other,OTHB
+Other Containers,Other,OCont
+other crustacean,Other,Crustoth
+Other Floating Debris,Other,OFDebris
+other_life,Other,othoth
+"Other, mobile and manmade",Other,OTHN
+Others,Other,OTH
+Other soft Taiwan,Other,O_Soft_TWN
+Other Turf,Other,OtTrf
+Other Weed,Other,W_WED
+OUT,Other,OUT
+Out of quadrat,Other,OOQ
+Outside frame canopy organism,Other,OTSD
+Oxylebius pictus,Other,Opi
+oyster byssus,Other,OY_bys
+Palythoa caesia,Other,Pcae
+Palythoa caribaeorum,Other,PCAR
+Panulirus ornatus,Other,Panorn
+Pauly_Label,Other,Ala
+Perch,Other,Per
+Pholis gunnelus,Other,PHOL
+Pholis laeta,Other,Pla
+Pholis spp.,Other,Pho
+Phytichthys chirus,Other,Pch
+Plastic Bags,Other,PBags
+PLATE,Other,PLATE
+Power head pump,Other,Pwrhd
+PVC,Other,PVC
+PVC Plate Background,Other,PPB
+Recently Dead (LOF),Other,RDead
+Rhinogobiops nicholsii,Other,Rni
+rock_stable_substrate,Other,rockss
+Ronquilus jordani,Other,Rjo
+Rubble,Other,Rubble
+Rubble/debris/shell hash,Other,RUBB
+Rubbles,Other,Rubbles
+rubble_unstable_substrate,Other,rubbus
+Rubble with brown/red algae,Other,RBR
+SailBoat,Other,SB
+Sand / Rubble,Other,SaRub
+Sand_unstable_substrate,Other,sandus
+Sandy Turfy Biotic Matrix,Other,STBMat
+Scalebar,Other,SclBar
+Schizothrix,Other,Cyan red
+Scopalina ruetzleri,Other,SR
+Scorpaenichthys marmoratus,Other,Smr
+Sculpin unidentified,Other,Scu
+Scuzz,Other,Scz
+Seagrass wrack,Other,SWra
+Sebastes caurinus,Other,Sca
+Sebastes emphaeus,Other,Sem
+Sebastes flavidus,Other,Sfl
+Sebastes maliger,Other,Sma
+Sebastes melanops,Other,Smn
+Sebastes nebulosus,Other,Sne
+Sedges,Other,SEDG
+Sediment Covered Limestone,Other,SedLim
+SETUP,Other,SU
+Shadow,Other,SHAD
+Shadow_TWS,Other,shatws
+Shallow Orange,Other,SHOR
+silt_unstable_substrate,Other,siltus
+Sinularia densa,Other,Sden
+Skate,Other,skate
+Skeleton,Other,SKE
+Small Grain,Other,SGrain
+Sponge disease,Other,SD
+Sponge-like_with_Sediment,Other,UNK_WHITE
+Sponge: other,Other,SO
+Sponges: crusts: encrusting,Other,Sp_Cr_encr
+Stable Substrata,Other,SS
+Star picket,Other,PICKET
+Steel Plate Background,Other,SPB
+Stenopeltis sp.,Other,STENO
+Substrate,Other,SUB
+Substrate attached,Other,SUBA
+Surrounding Environment,Other,SEnv
+tag/frame/zspar etc,Other,TAG
+TAPE,Other,TAPE
+Tape_TWS,Other,taptws
+Tautogolabrus adspersus,Other,TAU
+terrigenous,Other,TSed
+Terrigenous Organic Matter,Other,TOM
+Tetra Pak,Other,TPak
+Thin Biotic Matrix,Other,ThBMAT
+Tile,Other,TILE
+Tile + Sediment,Other,PVCSed
+Time Stamp,Other,Ti-st
+Transect hardware,Other,Transect
+Trash,Other,Trash
+Trash: Human Origin,Other,TSH
+Tubuliporidae,Other,Tub
+Turf algal sediment matrix,Other,TAS
+Turf/Filamentous,Other,FUZ
+Turfy Biotic Matrix,Other,TBMat
+"Uknown, algae",Other,UnA
+"Uknown, invert sessile",Other,UIS
+Ulvaria subbifurcata,Other,ULV
+Unclear,Other,Unc
+Unconfirmed definate,Other,NoID
+Unconfirmed ID: Expert Op Req,Other,NoID_ExpOp
+Unconfirmed ID: TBD,Other,NoID_TBD
+undefined sp5,Other,und5
+Unidentified,Other,UNIden
+Unidentified Fouling,Other,UnFoul
+Unk Algae,Other,Unk_ Alg
+Unknow-14,Other,UNK-14
+Unknown,Other,Unk
+Unknown 1,Other,U1
+UNKNOWN-1,Other,UNK-1
+unknown10,Other,un10
+Unknown 10,Other,U10
+Unknown 11,Other,U11
+Unknown-11,Other,UNK-11
+Unknown 12,Other,U12
+Unknown-12,Other,UNK-12
+Unknown 13,Other,U13
+Unknown-13,Other,UNK-13
+Unknown 14,Other,U14
+Unknown-16,Other,UNK-16
+Unknown-17,Other,UNK-17
+Unknown-19,Other,UNK-19
+Unknown 2,Other,U2
+Unknown-21,Other,UNK-21
+Unknown-22,Other,UNK-22
+Unknown 3,Other,U3
+Unknown 4,Other,U4
+Unknown 5,Other,U5
+Unknown 6,Other,U6
+Unknown 7,Other,U7
+Unknown 8,Other,U8
+Unknown 9,Other,U9
+Unknown invasive octocoral,Other,BlueIvy
+Unknown Invert,Other,Unk_Inv
+"Unknown, invert mobile",Other,UInMo
+Unknown Moorea,Other,XX
+"Unknown, other",Other,UOth
+Unknown_RECHARGE,Other,??
+Unknown sp6,Other,Unsp6
+Unknown Sp. Orange Egg Mass,Other,UnOrEgg
+Unknown_TWS,Other,unktws
+Unknown_White_,Other,UNK_WHI
+Unscorable,Other,Unscorable
+Verrucaria,Other,Verrucaria
+Wall,Other,Wall
+Wand,Other,WAND
+Wand_TWS,Other,wantws
+Water,Other,WATER
+Weight,Other,Wht
+White Ascidian,Other,WhiAscid
+White Background,Other,WHB
+white band disease,Other,WBD
+white coral,Other,Wco
+White Coroplast Background,Other,WCB
+white net,Other,whitenet
+White Space,Other,IGNORE
+Wire,Other,Wire
+Worms: Filograna implexa,Other,Filoimp
+Wrack,Other,WRACK
+Yellow band disease,Other,YBD
+Zip Tie,Other,Zip
+51_articulated_calcareous_algae,Algae,AlAC
+51_corticated_foliose_algae,Algae,AlCF
+51_corticated_macrophytes_algae,Algae,AlCM
+51_leathery_macrophytes_algae,Algae,AlLM
+Acanthophora nayadiformis,Algae,Acantho
+Acanthophora pacifica,Algae,ACPA
+Acanthophora spicifera,Algae,ASPIC
+Acetabularia spp.,Algae,ACET
+Acrosiphonia spp.,Algae,ACRO
+Actinotrichia fragilis,Algae,Acfrag
+Actinotrichia sp.,Algae,Act_spe
+A_CYAN,Algae,A_CYAN
+Adenocystis utricularis,Algae,ADEN
+Agardhiella sp.,Algae,Agar sp.
+Agarum clathratum,Algae,Agarum
+Agarum clathratum (canopy),Algae,ACC
+Agarum clathratum (substratum),Algae,ACSUB
+Agarum fimbriatum,Algae,AGFI
+Ahnfeltiopsis concinna,Algae,ACONC
+Alaria esculenta,Algae,Alaria
+Alaria esculenta (canopy),Algae,AEC
+Alaria esculenta (substratum),Algae,AES
+Algae,Algae,Algae
+Algae 1,Algae,Alg1
+"Algae, branching calcareous",Algae,ABrCa
+algae community,Algae,AL-CO
+"Algae, corticated",Algae,ACor
+"Algae, crustose calcareous",Algae,ACrCa
+"Algae, crustose non-calcareous",Algae,ACN
+"Algae, encrusting unidentified",Algae,ALEN
+Algae (filamentous),Algae,AL_filam
+"Algae, filamentous",Algae,AFil
+Algae (fleshy),Algae,AL_fleshy
+Algae (foliose),Algae,AL_fol
+Algae: Large Visible Globules,Algae,MACR_GLOB
+Algae matrix,Algae,AMAT
+"Algae, microalge",Algae,AMicro
+Algae: Other,Algae,ALGAE_OTH
+algae others,Algae,AL
+Algae-sp1,Algae,ALG-SP1
+Algal Assemblage,Algae,AA
+Algal Film,Algae,AgFl
+A_MAL,Algae,A_MAL
+Amansia glomerata,Algae,AmGl
+Amansia rhodantha,Algae,Amrhod
+Amphiroa beauvoisii,Algae,AmpBea
+Amphiroa fragilissima,Algae,Amfrag
+Amphiroa sp.,Algae,Amphi
+Anadyomene stellata,Algae,Anastella
+Anotrichium furcellatum,Algae,Anotrichiu
+Antithamnion pectinatum,Algae,ANTP
+A_OTH,Algae,A_OTH
+Apophlaea,Algae,APO
+ARMS-CREP-Blue-green macroalga,Algae,_BGMA
+ARMS-CREP-Brown encrusting macroalgae,Algae,_BREN
+ARMS-CREP-Brown upright macroalgae,Algae,_BRUP
+ARMS-CREP-Dictyopteris/Dictyota spp,Algae,_DICO
+ARMS-CREP-Green encrusting macroalgae,Algae,_GREN
+ARMS-CREP-Green upright macroalgae,Algae,_GRUP
+ARMS-CREP-Red encrusting macroalgae,Algae,_RDEN
+ARMS-CREP-Red upright macroalgae,Algae,_RDUP
+Articulate Calcareous Algae (ACA),Algae,ACA
+Articulated Calcareous Macroalgae,Algae,ACM
+Articulated coralline algae,Algae,ArtCA
+Ascophyllum nodosum,Algae,ASCONOD
+Ascoseira mirabilis,Algae,ASC.
+Asparagopsis,Algae,Asparago
+Asparagopsis armata,Algae,AspaArm
+Asparagopsis_corticated_macrophyte,Algae,aspcom
+Asparagopsis taxiformis,Algae,AspaTax
+Asperococcus ensiformis,Algae,Asperococ
+Asteronema breviarticulatum,Algae,ABREV
+A-TAL,Algae,A-TAL
+Avrainvillea,Algae,Avrainvil
+Avrainvillea amadelpha,Algae,AVAM
+Avrainvillea lacerata,Algae,Avr_lac
+Avrainvillea longicaulis,Algae,AvrLo
+Ballia callitricha,Algae,Baca
+Bangiaceae (canopy),Algae,BANC
+Bangiaceae (substratum),Algae,BANS
+Beached Hypnea esperi,Algae,BleaHE
+Benthic Microalgae on Sand,Algae,BMA_sand
+Bifurcata,Algae,BIF
+Black crust,Algae,BlackCru
+Bladder Weed - Colpomenia sinuosa,Algae,COLPOMENIA
+Bleached Acanthophora nayadiformis,Algae,BleacAcan
+bleached algae,Algae,BleaAlg
+bleached cca,Algae,B_CCA
+Bleached cladophora,Algae,BleaCL
+Bleached Crustose Coralline Algae,Algae,BCCA
+Bleached Dictyota dichotoma,Algae,Bleadd
+Bleached ellisolandia elongata,Algae,BleaEE
+Bleached Jania rubens,Algae,BleacJR
+bleached Laurencia papillosa,Algae,BleaLP
+Bleached Padina pavonica,Algae,BleaPad
+Bleached Palisada perforata,Algae,BleaPP
+Bleached ulva,Algae,BleaU
+Blue-Green Algae,Algae,BLGR
+Blue-pink CCA,Algae,BpCCA
+Boergesenia,Algae,boe
+Boodlea,Algae,Boodlea
+Boodlea kaeneana,Algae,Bokae
+Bornetella sphaerica,Algae,BoSph
+Bossiella Sp.,Algae,BOSp
+Botrycladia occidentalis,Algae,Botryclad
+Botryocladia pseudodichotoma,Algae,BOPS
+Botryocladia Sp.,Algae,Bot
+Botryocladia wynnei,Algae,Botryoclad
+Branched algae,Algae,ALGbranch
+Branching and calcareous algae,Algae,BRAN-CALC
+Branching Coralline Algae,Algae,BranchCA
+Branching pink CCA,Algae,pCCAb
+Branching pink CCA on dead massive coral,Algae,BpCCAdmC
+Bright red CCA,Algae,BrCCA
+Brillo Spike Pad,Algae,BSP
+Brown algae,Algae,BROA
+"Brown algae, thin film",Algae,BRTF
+"Brown algae, unidentified",Algae,BRUN
+Brown CCA on dead columnar coral,Algae,/brCCAdcC
+Brown CCA on dead encrusting coral,Algae,/brCCAdeC
+Brown CCA on dead laminar coral,Algae,/brCCAdlC
+Brown CCA on dead massive coral,Algae,/brCCAdmC
+Brown Crust,Algae,B_crust
+Brown encrusting alga,Algae,BEAA
+brown encrusting algae,Algae,BEA
+Brown fleshy algae,Algae,BrFlesAlg
+Brown/Green Algal Crust,Algae,BGCrustAlg
+Brown Macroalgae,Algae,BrownM
+Brown turfing algae,Algae,BTA
+Bryopsis hypnoides,Algae,BYHY
+Bryopsis indica,Algae,Bi
+Bryopsis pennata,Algae,Bry_pen
+Bryopsis spp.,Algae,BrSpp
+Bushy Dictyota,Algae,B_Dictyota
+Bushy Dictyota w/ Sed,Algae,B_Dict_Sed
+Bushy Macroalgae,Algae,BuM
+Calcareous algae,Algae,CALG
+Calcifying algae: Other,Algae,MACR_Cal_O
+Calcifying calcareous crustose algae: DHC,Algae,CAL_CCA_DC
+Calcifying Calcareous Crustose Algae: Rubble,Algae,CAL_CCA_RB
+Calcifying Calcareous Crustose Algae: Sub,Algae,CAL_CCA_S
+Calcifying macroalgae: Galaxaura spp.,Algae,MACR_Cal_G
+Caldora penicillata,Algae,Cal_pen
+Callophyllis spp.,Algae,CALL
+Canistrocarpus cervicornis,Algae,CANI
+Caulerpa,Algae,Caulerpa
+Caulerpa brachypus,Algae,C brach
+Caulerpa cupressoides,Algae,CAULcupre
+Caulerpa filicoides,Algae,Cau_fil
+Caulerpa lanuginosa,Algae,CAULlanugi
+Caulerpa + Lobophora,Algae,CalLobo
+Caulerpa peltata,Algae,Capel
+Caulerpa pickeringii,Algae,Capic
+Caulerpa prolifera,Algae,CAULprolif
+Caulerpa racemosa,Algae,CauRac
+Caulerpa racemosa var. lamourouxii,Algae,Cau_rac_la
+Caulerpa serrulata,Algae,Cau_ser
+Caulerpa sertualariodes,Algae,CASE
+Caulerpa sertularioides,Algae,CAULsertul
+Caulerpa spp.,Algae,CAUL.
+Caulerpa taxifolia or similar,Algae,Ctax
+Caulerpa verticillata,Algae,Cau_ver
+Caulerpa webbiana,Algae,Cau_web
+CCA/Bare Space,Algae,CCA_bare
+CCA (crustose coralline algae),Algae,CCA
+CCA + Dictyota,Algae,CCA_Dicty
+CCA + Dictyota + Seds,Algae,CCADicSed
+CCA_encrusting,Algae,CCA_enc
+CCA growing on hard substrate,Algae,CCAH
+CCA growing on rubble,Algae,CCA_Rub
+CCA + Hypnea,Algae,CCA_Hyp
+CCA + Hypnea + Seds,Algae,CCAHypSed
+CCA + Jania,Algae,CCA_Jania
+CCA + Jania + Seds,Algae,CCAJanSed
+CCA on dead branching coral,Algae,/CCADBC
+CCA on dead columnar coral,Algae,/CCADCC
+CCA: On dead coral,Algae,*CCADHC
+CCA on dead encrusting coral,Algae,/CCADEC
+CCA on dead laminar coral,Algae,/CCADLC
+CCA on dead massive coral,Algae,/CCADMC
+CCA on other,Algae,CCAO
+CCA + Palmophyllum,Algae,CCA+Palmo
+CCA + Palmophyllum + Dictyota,Algae,CCAPalDict
+CCA + Palmophyllum + Hypnea,Algae,CCAPalHyp
+CCA + Palmophyllum + Jania,Algae,CCAPalJan
+CCA + Palmophyllum + Red Turf,Algae,CCAPalRTur
+CCA + Palmophyllum + Seds,Algae,CCAPalSed
+CCA + Palmophyllum + Turf,Algae,CCAPalTurf
+CCA + Red Turf,Algae,CCA_RTurf
+CCA + Red Turf + Seds,Algae,CCA_RT_Sed
+CCA + Sediment,Algae,CCASed
+CCA + Turf,Algae,CCA_Turf
+CCA + Turf + Dictyota,Algae,CCATurfDic
+CCA + Turf + Dictyota + Sediment,Algae,CCATDicSed
+CCA + Turf + Seds,Algae,CCA_Tu_Sed
+CCA white to greenish,Algae,CCAG
+Centroceras spp.,Algae,CeSpp
+Ceramium sp.,Algae,Cermium
+Ceramium virgatum (canopy),Algae,CVC
+Ceramium virgatum (substratum),Algae,CVS
+Ceratodictyon sp.,Algae,Ceratodict
+Ceratodictyon variabile,Algae,CeratodicV
+Chaetomorpha antennina,Algae,Chant
+Chamaedoris peniculum,Algae,Chpe
+Champia/Lomentaria,Algae,ChaLom
+Champia parvula,Algae,ChPar
+Chlorodesmis fastigiata,Algae,Chl_fas
+Chlorodesmis sp.,Algae,Chlor
+Chlorophyta,Algae,GREE
+Chnoospora implexa,Algae,Chimp
+Chnoospora minima,Algae,ChMi
+Chondracanthus acicularis,Algae,Chondra
+Chondracanthus exasperatus,Algae,CHEX
+Chondria species,Algae,Chondsp
+Chondrus_corticated_macrophyte,Algae,chocom
+Chorda filum,Algae,CHO
+Chrysemenia enteromorpha,Algae,ChryEnt
+Chrysocystis fragilis,Algae,CyFa
+Chrysophyta,Algae,CHRY
+Chrysymenia ventricosa,Algae,Chrysy_ven
+Clado,Algae,CLSE
+Cladophora prolifera,Algae,ClaPro
+Cladophora sp.,Algae,Cldph
+Cladophora vagabunda,Algae,CLVA
+Cladophoropsis adhaerens,Algae,C.adhaeren
+Cladophoropsis luxurians,Algae,Cllux
+Cladophoropsis membranacea,Algae,Clmem
+Clathromorphum spp.,Algae,CLT
+Clear algae?,Algae,clear
+Clopomenia sinuosa,Algae,Cl si
+Clumpy Brown Macroalgae,Algae,MacBrnClmp
+Codium,Algae,Cod
+Codium carolineaum,Algae,CodCar
+Codium_corticated_macrophyte,Algae,codcom
+Codium fragile,Algae,CodErc
+Codium fragile ssp fragile (canopy),Algae,CODC
+Codium fragile ssp fragile (substratum),Algae,CODS
+Codium geppiorum,Algae,Cogep
+Codium intertextum,Algae,CODintertx
+Codium isthmocladum,Algae,CODisthmoc
+Codium Reediae,Algae,Cod R
+Codium setchellii,Algae,COSE
+Codium taylorii,Algae,CODtaylor
+Codium vermilara/fragile,Algae,codium
+Coelothrix irregularis,Algae,CoIrr
+Colpomenia peregrina,Algae,COP
+Colpomenia sinuosa,Algae,ColSin
+Colpomenia sinuosaa,Algae,Colp
+Concr Calcária Viva,Algae,CCV
+Concreção Calcária Morta,Algae,CCM
+Concreção Calcária Viva,Algae,c
+Corallin,Algae,Cor.
+Corallina,Algae,Corall
+Corallinaceae,Algae,Corallinac
+corallinales,Algae,Coll
+Corallina officinalis (canopy),Algae,COC
+Corallina officinalis (substratum),Algae,COS
+corals:Macroalga,Algae,MA**
+Corticated Foliose Algae,Algae,CFOL_A
+Corticated Foliose Macroalgae,Algae,CFM
+Corticated Macrophytes,Algae,CMACRO_A
+Costaria costata,Algae,COST
+Cottoniella filamentosa/fusiformis,Algae,Cotton
+Course filamentous turf,Algae,FILC
+"Crab, unidentified",Algae,Cra
+CRED-Blue-green macroalga,Algae,*BGMA
+CRED-Brown macroalgae,Algae,*BRMA
+CRED-Dictyopteris/Dictyota spp,Algae,*DICO
+CRED-Encrusting macroalgae,Algae,*EMA
+CRED-Green macroalgae,Algae,*GRMA
+CRED-Red macroalgae,Algae,*RDMA
+CRED-Upright macroalgae,Algae,*UPMA
+CREP-T3a Acanthophora spp,Algae,*ACPH
+CREP-T3a Amansia spp,Algae,*AMSP
+CREP-T3a Boodlea spp,Algae,*BOOD
+CREP-T3a Chlorodesmis spp,Algae,*CHLS
+CREP-T3a Galaxaura spp,Algae,*GALS
+CREP-T3a Ganonema/Liagora spp,Algae,*GALI
+Crustose_algae,Algae,Crus_Algae
+Crustose Algae,Algae,C_A
+"Crustose Coralline Algae, Diseased",Algae,CCA_Dis
+Crustose Corraline 1,Algae,CCR1
+Crustose Corraline 2,Algae,CCR2
+Crustose Corraline 3,Algae,CCR3
+Crustose Corraline 4,Algae,CCR4
+Crustose non-coralline algae,Algae,CNCA
+Cryptonemia sp.,Algae,Crypnm
+Cryptonemia spp.,Algae,CRYPT
+Cryptopleura ruprechtiana,Algae,CRRU
+Cualerpa,Algae,Cual
+Curdiea racovitzae,Algae,CUR
+Cyanobacteria on rock or other substrates,Algae,CYANO_Sub
+Cyanobacteria smothering dead coral,Algae,CYANO_DHC
+Cyanobacteria smothering rubble,Algae,CYANO_RB
+Cystoseira babies-marina,Algae,Cyst_ab
+Cystoseira compressa,Algae,Cystcom
+Cystoseira sp,Algae,cysto
+Cystosphaera jacquinotii,Algae,CYST
+Damselfish turf + sediments,Algae,DTuf_Sed
+Damsel turf,Algae,Dam turf
+Dark Brown crust,Algae,DBCR
+Dark yellow CCA,Algae,DyCCA
+Dark yellow CCA on dead collumnar Coral,Algae,DyCCAdcC
+Dark yellow CCA on dead encrustingCoral,Algae,/dyCCAdeC
+Dark yellow CCA on dead laminar Coral,Algae,/dyCCAdlC
+Dark yellow CCA on dead massive Coral,Algae,DyCCAdmC
+Dasya sp,Algae,dasya
+Dasycladus vermicularis,Algae,DASVE
+Dead Acanthophora spicifera,Algae,DeAcnSp
+Dead Acropora with sedimented turf,Algae,Dacrsed
+Dead Acropora with sediment free turf,Algae,Dacr
+dead corallina,Algae,DeCo
+Dead Gorgonian,Algae,DG
+Dead Halimeda,Algae,HaliDead
+Dead Mans Finger - Codium Fragile,Algae,CODIUM.
+Dead Pocillopora with sedimented turf,Algae,Dpocsed
+Dead Pocillopora with sediment free turf,Algae,Dpoc
+Deep-pink CCA,Algae,DpCCA
+Deep pink CCA on dead massive coral,Algae,/dpCCAdmC
+Delisea_corticated_macrophyte,Algae,delcom
+Derbesia fastigiata,Algae,Der_fas
+Derbesia tenuissima,Algae,Derb_ten
+Dermonema_corticated_macrophyte,Algae,dercom
+Desmarestia aculeata (canopy),Algae,DAC
+Desmarestia aculeata (substratum),Algae,DASUB
+Desmarestia anceps,Algae,DESANC
+Desmarestia antarctica,Algae,DESANT
+Desmarestia menziesii,Algae,DESMEN
+Desmarestia munda,Algae,DEMU
+Desmarestia sp.,Algae,DESM
+Desmarestia viridis,Algae,DESV
+Desmarestia viridis (canopy)),Algae,DVC
+Desmarestia viridis (substratum),Algae,DVS
+Detritus algal,Algae,Detr
+Dichothrix sp.,Algae,Dich
+Dichotomaria,Algae,Dicho
+Dichotomaria_articulated_calcareous,Algae,dioart
+Dichotomaria marginata,Algae,Dic_mar
+Dichotomaria obtusata,Algae,Diobt
+Dictyopteris,Algae,Dictyopter
+Dictyopteris australis,Algae,Dicaus
+Dictyopteris hoytii,Algae,DictHo
+Dictyopteris membranacea,Algae,DictMem
+Dictyosphaeria,Algae,Dictyosph
+Dictyosphaeria cavernosa,Algae,DCav
+Dictyosphaeria verluysii,Algae,DctVerluys
+Dictyosphaeria versluysii,Algae,DVers
+Dictyota,Algae,Dictyota
+Dictyota bartayresiana,Algae,Dibar
+Dictyota + CCA,Algae,DictCCA
+Dictyota_corticated_foliose,Algae,diccof
+Dictyota dichotoma,Algae,ddich
+Dictyota divaricata,Algae,Didiv
+Dictyota friabilis,Algae,Difri
+Dictyota hamifera,Algae,Diham
+Dictyota implexa,Algae,Diimp
+Dictyota + Lobophora,Algae,DictLobo
+Dictyota + Lobophora + Sediment,Algae,DicLoboSed
+Dictyota + Red Filamentous + Sediment,Algae,DicRfilSed
+Dictyota + Turf + Sediment,Algae,DicTurfSed
+Dictyota with Sediment,Algae,DictySed
+Digenea simplex,Algae,Dig_simp
+Dilsea,Algae,Dil
+Dissimularia umbraticola,Algae,Dumbra
+Drift algae,Algae,DRIFT
+Dry ulva,Algae,Dryulva
+Dudresnaya,Algae,Dude
+EAM: Dead Hard Coral,Algae,EAM_DHC
+EAM: Rock or Substrate,Algae,EAM_Sub
+EAM: with sediment,Algae,EAMsedi
+Early Gametophyte,Algae,E GAM
+Ectocarpus Lyngbye,Algae,Ectocarp
+Ellisolandia elongata,Algae,Ellis
+Encrsuting Fleshy Algae,Algae,_EFA
+encrusting calcareous macroalgae sp 1,Algae,ECMsp1
+encrusting calcareous macroalgae sp 2,Algae,ECMsp2
+Encrusting Peysso,Algae,PeyEnc
+Endolithic Algae on Rock,Algae,EdLtAlgRck
+Enteromorpha flexuisa,Algae,ENFL
+Epilithic algal matirx smotheting rubble,Algae,EAM_RB
+Epiphytic algae,Algae,MAFE
+Erect Rhodphyta,Algae,ERHD
+Eucheuma_corticated_macrophyte,Algae,euccom
+Eucheuma denticulatum,Algae,EDEN
+Eucheuma isiforme,Algae,EuchIs
+Fan Shape LOB/PAD,Algae,FS
+Feldmannia sp.,Algae,Feld
+Female Gametophyte,Algae,F GAM
+Filamentous Macroalgae,Algae,MACR_Fil_A
+Filamentous red algae,Algae,EFRA
+Fine turf,Algae,FILF
+Flabellia petiolata,Algae,Flbpet
+fleshy seawed,Algae,FS*
+Foliose Algae: Other,Algae,MACR_Fol_O
+Foliose Algae SML,Algae,Al_Fol_Sm
+Foliose CCA on Rubble,Algae,CCAFRub
+Foliose Fan-shaped Macroalgae,Algae,MACR_Fol_F
+Foliose feathery (e.g. Caulerpa),Algae,MA_Fol_Fea
+Foliose Feathery Macro Algae,Algae,MACR_Fol_P
+Foliose Macroalgae,Algae,FM
+Foliose Peysso,Algae,PeyFol
+Foliose Peysso on Rubble,Algae,PeyFRub
+Foliose sheeting macroalage: (e.g Ulva),Algae,MACR_Fol_S
+Foliose Strap/ Branched Macro Algae,Algae,MACR_Fol_B
+Foliose strap/branched macroalgae: (e.g. Dict,Algae,M_Fol_BRA
+Fucus distichus,Algae,FUCU
+Fucus sp.,Algae,FUCUS
+Fucus spiralis,Algae,FuSpir
+Fucus vesiculosus,Algae,FUCVES
+Galaxaura,Algae,Galaxaura
+Galaxaura_articulated_calcareous,Algae,glaart
+Galaxaura filamentosa,Algae,Gafil
+Galaxaura gametophyte,Algae,galax-gane
+Galaxaura rugosa,Algae,GalRug
+Galaxaura spp.,Algae,Gaspp
+Gelidiales,Algae,geli
+Gelidiella Acerosa,Algae,G.A
+Gelidiella pannosa,Algae,Gelidi
+Gelidiella spp.,Algae,Gespp.
+Gelidium spp,Algae,GLD
+Georgiella confluens,Algae,GEOR
+Gibsmithia hawaiiensis,Algae,Gihaw
+Gibsmithia sp,Algae,Gibsm
+Gigartina skottsbergii,Algae,GIGA
+Gillidium,Algae,Gillidium
+Gloiocladia laciniata,Algae,GLOI
+Golden Algae,Algae,GOAL
+Gooey Red Algae,Algae,GooRed
+Gracelaria blodgettii,Algae,GraBlo
+Gracilaria coronopifolia,Algae,GRCO
+Gracilaria_corticated_macrophyte,Algae,gracom
+Gracilaria mammalaris,Algae,GracMam
+Gracilaria/Rhodymenia,Algae,GracRho
+Gracilaria salicornia,Algae,GSAL
+Gracilaria spp.,Algae,GRAC
+Gracilaria verrucosa,Algae,Graci verr
+Grazed or thin turf,Algae,Turf thin
+Green algae - Caulerpa grape,Algae,GACG
+Green algae - filamentous,Algae,FGA
+Green algae: filamentous,Algae,filgreen
+"Green algae, thin film",Algae,GRTF
+"Green algae, unidentified",Algae,GRAL
+Green encrusting alga,Algae,GEAA
+Green encrusting algae,Algae,GEA
+Green Fine Filamentous Algae,Algae,GreenFineF
+Green fleshy algae,Algae,GFA
+Green Macroalgae,Algae,GreenM
+Green Rock,Algae,GrnRck
+Green turfing algae,Algae,GTA
+Halimeda,Algae,Halimeda
+Halimeda_articulated_calcareouseous,Algae,halart
+Halimeda cuneata,Algae,Hal_cun
+Halimeda discoidea,Algae,HADI
+Halimeda (disc sediments),Algae,9999
+Halimeda dis_fra_gra_hed_opu_tun_vel,Algae,Hal_dfghot
+Halimeda distorta,Algae,Hadis
+Halimeda Fleshy Algae Mix,Algae,HalFA
+Halimeda incrassata,Algae,Hainc
+Halimeda incrassata_simulans,Algae,Hal_inc
+Halimeda lacunalis_taenicola,Algae,Hal_lac
+Halimeda macroloba,Algae,Hal_mac
+Halimeda micronesica,Algae,Hal_mic
+Halimeda minima,Algae,Hamin
+Halimeda opuntia,Algae,HOpu
+Haliptylon sp,Algae,Halip
+Halopteris filicina,Algae,Halopt_fil
+Halopteris obovata,Algae,HALO.
+Halopteris scoparia,Algae,Halo
+Halymeniaceae,Algae,HYceae
+Halymenia elongata,Algae,HalyEl
+Halymenia floresia,Algae,HalyFsa
+Halymenia floridana,Algae,Halyflo
+Halymenia sp.,Algae,HALY
+Halymenia trigona,Algae,HalyTri
+Hamelida tuna,Algae,Halim_tun
+Heterosiphonia,Algae,Heterosiph
+Hildenbrandia rubra,Algae,hilden
+Himanthalia elongata,Algae,HiElon
+Himantothallus grandifolius,Algae,HIM
+Hincksia,Algae,Hink
+Hormosira,Algae,Hormos
+Hydroclathrus,Algae,Hydrocl
+Hydroclathrus clathratus,Algae,Hyclat
+Hydroclathrus Clathrus,Algae,HydroCla
+Hydrolithon craspedium,Algae,Hyd_cra
+Hydrolithon reinboldii,Algae,Hyd_rei
+Hydropuntia_corticated_macrophyte,Algae,hydcom
+Hymenena falklandica,Algae,L.marina
+Hymenena/Phycodrys,Algae,Hymene/Phy
+Hyp/Cyano,Algae,HCComp
+Hypnea,Algae,Hyp
+Hypnea cervicornis,Algae,HYCE
+Hypnea_corticated_macrophyte,Algae,hypcom
+Hypnea esperi,Algae,Hypnesp
+Hypnea musciformis,Algae,HMUS
+Hypnea pannosa,Algae,Hyp_pan
+Hypnea pseudomusciformis,Algae,HYPseudom
+Hypnea spinella,Algae,Hyspi
+Hypnea + Turf + Sediment,Algae,HypTurfSed
+Hypnea with Sediments,Algae,HypneaSed
+Iridaea cordata,Algae,IIRID
+Jania,Algae,Jania
+Jania rubens,Algae,Jan
+Jania + Sediment,Algae,JanSed
+Jinju,Algae,Jinju
+Jointed Calcareous Algae,Algae,JCA
+Juvenile kelp E.radiata,Algae,mlcej
+Juvenile Undaria pinnatifida,Algae,UndariaJUV
+Kappaphycus sp.,Algae,KAPPA
+Kelp,Algae,KELPA
+"Kelp, dead holdfast",Algae,KEDH
+Lambia antarctica,Algae,LAMB
+Laminaria complanata,Algae,LAMC
+Laminaria digitata,Algae,lamdig
+Laminaria digitata (canopy)),Algae,LDC
+Laminaria digitata (substratum),Algae,LDS
+Laminaria solidungula,Algae,Lsol
+Large visible globuoles (e.g. Valonia ssp. an,Algae,MA_GLOB_Al
+Laurencia,Algae,Laur
+Laurencia_corticated_macrophyte,Algae,laucom
+Laurencia spp.,Algae,Limu
+laurenciella marilzae,Algae,Lm
+Leathery Macrophytes,Algae,LMACRO_A
+Leathery Macrophytes: Brown,Algae,MACR_LTH_T
+Leathery macrophytes Brown: Turbinaria,Algae,MA_LTH_Tur
+Leathery Macrophytes: Other,Algae,MACR_LTH_O
+Leptolyngbya sp.,Algae,brnblob
+Liagora,Algae,LIA
+Liagoraceae sp. 1,Algae,Lia_sp1
+Liagoraceae sp. 2,Algae,Lia_sp2
+Liagora ceranoides,Algae,Licer
+Lichen,Algae,LICHEN
+Light Brown Crust,Algae,LBCR
+Lithophyllum kotschyanum,Algae,LPH__k
+Lithophyllum pygmaeum,Algae,Lit_pyg
+Lithophyllum spp. Encrusting,Algae,Lithophyl
+Lithothamnion spp.,Algae,LIT
+Lobed Macroalgae,Algae,MacLob
+Lobed Macroalgae over Sand,Algae,MacLobSnd
+Lobophera,Algae,Lobop
+Lobophora,Algae,Lobophora
+Lobophora_corticated_foliose,Algae,lobcof
+Lobophora + Dictyota,Algae,LoboDict
+Lobophora + Dictyota + Sediment,Algae,LoboDicSed
+Lobophora_encrusting,Algae,Loenc
+Lobophora_foliose,Algae,Lofol
+Lobophora + Hypnea,Algae,LoboHypnea
+Lobophora + Hypnea + Sediments,Algae,LoboHypSed
+Lobophora + Jania,Algae,LoboJania
+Lobophora + Jania + Sediment,Algae,LoboJanSed
+Lobophora on Rubble,Algae,LobR
+Lobophora + Red Turf,Algae,LoboRTurf
+Lobophora + Red Turf + Sediment,Algae,LoboRTSed
+Lobophora + Turf,Algae,LoboTurf
+Lobophora + Turf + Dictyota,Algae,LoboTurDic
+Lobophora + Turf + Seds,Algae,LoboTurSed
+Lobophora variegata,Algae,LopVar
+Lobophora with sediment,Algae,LoboSed
+Lomentaria clavellosa,Algae,L.clavello
+Long sediment-laden algal turf,Algae,LSAT
+Long turf sediment free,Algae,Lturf
+Lvariegata,Algae,Lvar
+Lyengaria,Algae,Lyeng
+Lyngbya majuscula,Algae,lyn_maj
+Lyngbya majuscula_semiplena,Algae,Lyn_m_s
+Lyngbya spp.,Algae,Lyn_spp
+Macroalga,Algae,MA*
+Macroalgae,Algae,MAL
+Macroalgae 1,Algae,MLAG
+Macroalgae: Articulated calcareous,Algae,MAAC
+Macroalgae: Articulated calcareous: green,Algae,MAACG
+Macroalgae:Articulated-Calcareous:Green,Algae,MACG
+Macroalgae: Articulated calcareous: red,Algae,MAACR
+Macroalgae:ArticulatedCalcareous:Red:Amphiroa,Algae,MACRA
+Macroalgae:ArticulatedCalcareous:Red:Haliptal,Algae,MACRH
+Macroalgae:ArticulatedCalcareous:Red:Jania,Algae,MACRJ
+Macroalgae:ArticulatedCalcareous:Red:Metagoni,Algae,MACRM
+Macroalgae:ArticulatedCalcareous:Red:Rhodopel,Algae,MACRR
+Macroalgae:ArticulatedCalcareus:Red:Corallina,Algae,MACRC
+Macroalgae: Codium,Algae,MACR_Cod
+Macroalgae-covered Sand,Algae,MacSnd
+Macroalgae: Encrusting,Algae,MAEN
+Macroalgae: Encrusting: brown,Algae,MAENB
+Macroalgae: Encrusting: calcareous,Algae,MAENC
+Macroalgae: Encrusting: green,Algae,MAENG
+Macroalgae:Encrusting:Green: Codium dimorphum,Algae,encgre
+Macroalgae:Encrusting:Green:Non-Calcareous:CD,Algae,MEGNC
+Macroalgae: Encrusting: red,Algae,MAENR
+Macroalgae:Encrusting:Red:Calcareou:Rhodolith,Algae,MERCR
+Macroalgae:Encrusting:Red:Calcareous:Crustose,Algae,MERCC
+Macroalgae:Encrusting:Red:Non-calcareous,Algae,MERNC
+Macroalgae:Erectcoarseb:brown:acrocarpia,Algae,MECBBA
+Macroalgae:Erectcoarseb:brown:carpoglosum,Algae,MECBBCarpo
+Macroalgae:Erectcoarseb:brown:caulocystis,Algae,MECBBC
+Macroalgae:Erectcoarseb:brown:cystophora mon.,Algae,MECBBCm
+Macroalgae:Erectcoarseb:brown:cystophora tor.,Algae,MECBBCt
+Macroalgae:Erectcoarseb:brown:hormosia,Algae,MECBBH
+Macroalgae:Erectcoarseb:brown:scaberia,Algae,MECBBScab
+Macroalgae:Erectcoarseb:brown:seirococcus,Algae,MECBBS
+Macroalgae:Erectcoarseb:brown:xiphophora,Algae,MECBBX
+Macroalgae:Erectcoarseb:green:caulerpa cact.,Algae,MECBGCc
+Macroalgae:Erectcoarseb:green:caulerpa flex,Algae,MECBGCf
+Macroalgae:Erectcoarseb:green:caulerpa hodg.,Algae,MECBGCh
+Macroalgae:Erectcoarseb:green:caulerpa papil.,Algae,MECBGCp
+Macroalgae:Erectcoarseb:green:caulerpa race.,Algae,MECBGCr
+Macroalgae:Erectcoarseb:green:codium cuneatum,Algae,MECBRCc
+Macroalgae:Erectcoarseb:green:codium duthiaea,Algae,MECBRC
+Macroalgae:Erectcoarseb:green:codium fragile,Algae,MECBGCfra
+Macroalgae: Erect coarse branching,Algae,MAEC
+Macroalgae: Erect coarse branching brown,Algae,MAECB
+Macroalgae: Erect coarse branching green,Algae,MAECG
+Macroalgae: Erect coarse branching red,Algae,MAECR
+Macroalgae:Erectcoarseb:red:betaphycus,Algae,MECBRBeta
+Macroalgae:Erectcoarseb:red:botryocladia,Algae,MECBRB
+Macroalgae:Erectcoarseb:red:thamnoclonium,Algae,MECBRT
+Macroalgae: Erect fine branching,Algae,MAEF
+Macroalgae: Erect fine branching brown,Algae,MAEFB
+Macroalgae:ErectFineBranching:Brown:Carpomitr,Algae,MEBCC
+Macroalgae:ErectFineBranching:Brown:Lobospira,Algae,MEBL
+Macroalgae:ErectFineBranching:Brown:Pachydict,Algae,MEBP
+Macroalgae:ErectFineBranching:Brown:Perithali,Algae,MEBPC
+Macroalgae: Erect fine branching green,Algae,MAEFG
+Macroalgae:ErectFineBranching:Green:caulerpaf,Algae,MEFBGC
+Macroalgae: Erect fine branching red,Algae,MAEFR
+Macroalgae:ErectFineBranching:Red:Areschougia,Algae,MERA
+Macroalgae:ErectFineBranching:Red:Dasya,Algae,MERD
+Macroalgae:ErectFineBranching:Red:Deliseapulc,Algae,MERDP
+Macroalgae:ErectFineBranching:Red:Dictyomenia,Algae,MERDS
+Macroalgae:ErectFineBranching:Red:Euptilota,Algae,MEREA
+Macroalgae:ErectFineBranching:Red:Galaxaura,Algae,MERGM
+Macroalgae:ErectFineBranching:Red:Gracilaria,Algae,MERGC
+Macroalgae:ErectFineBranching:Red:Soleria,Algae,MERSR
+Macroalgae:Filamentous:Brown:Ectocarpus,Algae,MFBE
+Macroalgae:Filamentous:Brown:Hincksia,Algae,MFBH
+Macroalgae: Filamentous / filiform,Algae,MAF
+Macroalgae: Filamentous / filiform : brown,Algae,MAFB
+Macroalgae: Filamentous / filiform : green,Algae,MAFG
+Macroalgae:Filamentous/filiform:Polysiphonia,Algae,polsiph
+Macroalgae: Filamentous / filiform : red,Algae,MAFR
+Macroalgae:Filamentous/filiform:Red:Asparogop,Algae,aspsp
+Macroalgae:Filamentous:Green:Apjohnia,Algae,MFGA
+Macroalgae:Filamentous:Green:Cladophora,Algae,MFGC
+Macroalgae:Filamentous:Red:Asparogopsis,Algae,MFRAs
+Macroalgae:Filamentous:Red:Polysiphonia,Algae,MFRPo
+Macroalgae: Globose: brown: c,Algae,MGBH
+Macroalgae: Globose: brown: Colpomenia,Algae,MGBC
+Macroalgae: Globose: brown: Leathesia,Algae,MGBL
+Macroalgae: Globose: green: codium,Algae,MGGC
+Macroalgae: Globose: green: Derbesia,Algae,MGGD
+Macroalgae: Globose: red: gloiosaccion,Algae,MGRG
+Macroalgae: Globose / saccate,Algae,MAG
+Macroalgae: Globose / saccate brown,Algae,MAGB
+Macroalgae: Globose / saccate green,Algae,MAGG
+Macroalgae: Globose / saccate red,Algae,MAGR
+Macroalgae: Laminate,Algae,MALA
+Macroalgae: Laminate: brown,Algae,MALAB
+Macroalgae: Laminate: Brown: L. variegata,Algae,lobov
+Macroalgae: Laminate: brown: Zonaria sp.,Algae,MALABZ
+Macroalgae:Laminate:Brown: Zonaria Turneriana,Algae,MLBZ
+Macroalgae: Laminate: green,Algae,MALAG
+Macroalgae: Laminate: green: dictyosphaeria,Algae,MLGD
+Macroalgae: Laminate: green: udotea,Algae,MLGU
+Macroalgae: Laminate: red,Algae,MALAR
+Macroalgae: Laminate: red: peysonnelia,Algae,MLRP
+Macroalgae: Laminate: red: rhipiliopsis,Algae,MLRR
+Macroalgae: Laminate: red: sonderopelta,Algae,MLRS
+Macroalgae: Large canopy-forming,Algae,MALC
+Macroalgae: Large canopy-forming : brown,Algae,MALCB
+Macroalgae: Large canopy-forming : Ecklonia,Algae,ECKL
+Macroalgae: Large canopy-forming: P. comosa,Algae,pcomo
+Macroalga em decomposição,Algae,MAD
+Macroalgae: Membraneous: Brown,Algae,MMB
+Macroalgae: Membraneous: Brown: Dictyota,Algae,MMBD
+Macroalgae: Membraneous: Brown: Petalonia,Algae,MMBP
+Macroalgae: Membraneous: Red: Grateloupia,Algae,MMRG
+Macroalgae: Membraneous: Red: Kallymenia,Algae,MMRK
+Macroalgae: Membraneous: Red: Martensia,Algae,MMRM
+Macroalgae: Membraneous: Red: Schizoseris,Algae,MMRSchizo
+Macroalgae: Membraneous: Red: Schizymenia,Algae,MMRS
+Macroalgae-Seaweed,Algae,MALG
+Macroalgae: Sheet-like / membraneous,Algae,MAM
+Macroalgae: Sheet-like / membraneous: brown,Algae,MAMB
+Macroalgae: Sheet-like / membraneous: green,Algae,MAMG
+Macroalgae: Sheet-like / membraneous: red,Algae,MAMR
+Macroalgae unkown,Algae,UnkMacro
+Macroalgal Turf,Algae,TrfMac
+Macroalgal Turf on Pebbles,Algae,MacTrfPeb
+Macroalgal Turf on Rubble,Algae,MacTrfRub
+Macroalge:Filamentous:Green:Chaetomorpha,Algae,MFGCh
+Macroalge:Filamentous:Red:Polysiphonia,Algae,MFRP
+Macroalge: Membraneous: Red: Porphyra,Algae,MMRP
+Macroalg:ErectFinBranching:Green:Caulerpialon,Algae,MEGCL
+Macroalg:ErectFineBranching:Brown:Sporochnus,Algae,MEBSR
+Macroalg:ErectFineBranching:Green:Caulerpaobs,Algae,MEGCO
+Macroalg:ErectFineBranching:Green:Caulerpatax,Algae,MEGCT
+Macroalg:ErectFineBranching:Red:Phacelocarpus,Algae,MERPP
+Macroalg:Filamentous:Red:Polysiphonia,Algae,MFRPoly
+Macroalg: Large Canopy Forming: Phyllosphora,Algae,PHYLL
+Macrocystis pyrifera,Algae,pyrifera
+Macrolagae all genera,Algae,MALGAE
+Male gametophyte,Algae,M GAM
+Marginisporum_articulated_calcareous,Algae,marart
+Martensia elegans,Algae,Maele
+Martensia Spp.,Algae,MART
+Mastophora rosea,Algae,Mas_ros
+Mazzaella splendens,Algae,MASP
+Melanamansia_corticated_foliose,Algae,melcof
+Melyvonnea erubescens,Algae,Melyv erub
+Mesophyllum spp. Encrusting,Algae,Mesophyl
+Microalgae,Algae,MIC
+Microalgal puffs,Algae,micro_puff
+Microdictyon,Algae,Microdicty
+Microdictyon okamurae,Algae,Mioka
+Microdictyon umbilicatum,Algae,Miumb
+Millerella pannosa,Algae,MillePa
+Miscellaneous algae,Algae,MisAlg
+Monsotroma hariotii,Algae,MONO
+"Montipora capitata, recently dead",Algae,MCAP_RD
+"Montipora patula, recently dead",Algae,MPAT_RD
+Moorea bouillonii_polychroa,Algae,Moo_b_p
+Myriogramme manginii,Algae,MYRI
+Nemacystus decipiens,Algae,Ndec
+nemalion helminthoides,Algae,Nema
+Neogoniolithon frutescens,Algae,Nefru
+Neogoniolithon spp.,Algae,Ngl_spp
+Neomeris,Algae,Neomeris
+Neomeris annulata,Algae,Neo Ann
+Neomeris_corticated_foliose,Algae,neocof
+Neomeris vanbosseae,Algae,Nevan
+Neptune's Necklace - Hormosira banksii,Algae,HORMOSIRA.
+Nereia spp.,Algae,NER
+Nereocystis luetkeana,Algae,NERO
+Neurymenia_corticated_macrophyte,Algae,neucom
+Non CCA Crustose Algae,Algae,NCCACA
+Nutrient Indicator Algae,Algae,NIA
+Ochrophyta,Algae,OCH
+Ochtodes secyndiramea,Algae,Ochsec
+Opuntiella californica,Algae,OPCA
+Osmundaria obtusiloba,Algae,OSMUobtu
+Other Algae,Algae,ALG_OTH
+other Algea,Algae,UD
+Others_cca,Algae,othcca
+Padina,Algae,Padina
+Padina boryana,Algae,Pabor
+Padina mexicana,Algae,P.mexicana
+Padina pavonica,Algae,Padin
+Pale Red CCA,Algae,PrCCA
+Pale red CCA on dead encrusting coralal,Algae,/PrCCAdeC
+Pale red CCA on dead laminar coral,Algae,/PrCCAdlC
+Pale red CCA on dead massive coral,Algae,/PrCCAdmC
+Pale yellow branching CCA,Algae,pybCCA
+Pale yellow CCA,Algae,PyCCA
+Pale yellow CCA on dead branching coral,Algae,/pyCCAdbC
+Pale yellow CCA on dead columnar coral,Algae,/pyCCAdcC
+Pale yellow CCA on dead encrusting coral,Algae,/pyCCAdeC
+Pale yellow CCA on dead massive coral,Algae,/pyCCAdmC
+Palisada coralopsis,Algae,PalisCor
+Palisada parvipapillate,Algae,Papa
+Palisada perforata,Algae,Palisa
+Palmaria decipiens,Algae,PALM
+Palmaria palmata,Algae,PALPAL
+Palmophyllum crassum,Algae,Palmophyl_
+Palmophyllum + Dictyota,Algae,PalDict
+Palmophyllum + Dictyota + Sediment,Algae,PalDicSed
+Palmophyllum + Hypnea,Algae,PalHypnea
+Palmophyllum + Hypnea + Sediment,Algae,PalHypSed
+Palmophyllum + Jania,Algae,PalJania
+Palmophyllum + Jania + Sediment,Algae,PalJanSed
+Palmophyllum + Red Turf,Algae,PalRedTurf
+Palmophyllum + Red Turf + Sediment,Algae,PalRTSed
+Palmophyllum + Sediments,Algae,PalSeds
+Palmophyllum + Turf,Algae,PalTurf
+Palmophyllum + Turf + Sediment,Algae,PalTurfSed
+Pandina pavonia,Algae,PANDINA
+Pantoneura plocamioides,Algae,PANT
+Pebble CCA,Algae,CCAPeb
+Pebble Peysso,Algae,PeyPeb
+Penicillus spp.,Algae,PENCIL
+Petalonia fascia/Punctaria latifolia (canopy),Algae,PETC
+Petalonia fascia/Punctaria latifolia (substr),Algae,PETS
+petroglossum,Algae,Pgloss
+Pey/CCA,Algae,PeyCCA
+Peyssonnelia,Algae,Peysson
+Peyssonnelia_cca,Algae,pescca
+Peyssonnelia + Dictyota,Algae,PeyDict
+Peyssonnelia + Dictyota + Sediment,Algae,PeyDicSed
+Peyssonnelia + Hypnea,Algae,PeyHypnea
+Peyssonnelia + Hypnea + Sediment,Algae,PeyHypSed
+Peyssonnelia + Jania,Algae,PeyJania
+Peyssonnelia + Jania + Sediment,Algae,PeyJanSed
+Peyssonnelia + Red Turf,Algae,PeyRTurf
+Peyssonnelia + Red Turf + Sediment,Algae,PeyRTSed
+Peyssonnelia + Sediment,Algae,PeySed
+Peyssonnelia + Turf,Algae,PeyTurf
+Peyssonnelia + Turf + Dictyota,Algae,PeyTurfDic
+Peyssonnelia + Turf + Sediment,Algae,PeyTurfSed
+Phaeurus antarcticus,Algae,Phae
+Phormidium sp.,Algae,Pho_spe
+Phormidium spp.,Algae,Phorm
+Phycodrys quercifolia,Algae,Red leaf
+Phycodrys quercifolia.,Algae,PHYC
+Phycodrys rubens (canopy),Algae,PRC
+Phycodrys rubens (substratum),Algae,PRS
+Phyllodictyon anastomosans,Algae,Phana
+Phyllophora/Chondrus (canopy),Algae,PCC
+Phyllophora/Chondrus (substratum),Algae,PCS
+Phyllospora comosa,Algae,Phyllo
+Phymatolithon spp.,Algae,PHY
+Picconiella plumosa,Algae,PIC
+Piconiella plumosa,Algae,Picpl
+Pink branching CCA on dead branching coral,Algae,/pbCCAdmC
+Pink branching CCA on dead tabular coral,Algae,/pbCCAdtC
+Pink CCA,Algae,pCCA
+Pink CCA on dead branching coral,Algae,/pCCAdbC
+Pink CCA on dead columnar coral,Algae,/pCCAdcC
+Pink CCA on dead encrusting coral,Algae,/pCCAdeC
+Pink CCA on dead laminar coral,Algae,/pCCAdlC
+Pink CCA on dead massive coral,Algae,/pCCAdmC
+Plocamium brasiliensis,Algae,PLOCbrasil
+Plocamium cartilagineum,Algae,PLCA
+Plocamium spp.,Algae,PLOC
+Pneophyllum conicum,Algae,Pp_c
+Polyneura latissima,Algae,POLA
+Polysiphonia stricta (canopy),Algae,PSC
+Polysiphonia stricta (substratum),Algae,PSS
+"Porites compressa, recently dead",Algae,PCOM_RD
+"Porites lobata, recently dead",Algae,PLOB_RD
+Porolithon,Algae,Poro
+Portieria hornemannii,Algae,Por_hor
+Predaea spp.,Algae,PRWE
+Pterociadiella spp,Algae,PT
+Pterocladiella caerulescens,Algae,Pt ca
+Pterocladiella capillacea,Algae,Pteroc
+Pterygophora californica,Algae,PTCA
+Ptilota serrata (canopy),Algae,PTC
+Ptilota serrata (substatum),Algae,PTS
+Pyropia endiviifolia,Algae,PYR
+Ralfsia expansa,Algae,Rae
+Ralfsia spp.,Algae,Ralfs
+Ramicrusta Covered by Sand,Algae,RAMS
+Ramicrusta spp.,Algae,Ram_spp
+Red algae.,Algae,REDA
+Red ALgae,Algae,RAlg
+Red_algae_articulated_calcareous,Algae,redart
+Red algae - branching,Algae,RAB
+Red_algae_corticated_macrophyte,Algae,redcom
+Red algae crustosa,Algae,REDCR
+"Red algae, crustose coralline",Algae,CCRA
+Red algae - Crustose coralline algae,Algae,Root CCA
+"Red algae, crustose coralline bleached/dead",Algae,CCRB
+"Red algae, erect coralline",Algae,ERCO
+Red algae - filamentous,Algae,RAF
+"Red algae, filamentous",Algae,RAFI
+Red algae foliosa,Algae,REDFOL
+"Red algae, thick branching",Algae,RACB
+"Red algae, thick sheet",Algae,RACS
+"Red algae, thin branching",Algae,RANB
+"Red algae, thin sheet",Algae,RANS
+"Red algae, unidentified encrusting",Algae,RAUE
+"Red algae, unidentified foliose",Algae,RAUF
+Red branching CCA,Algae,R_CCAb
+Red Calcareous,Algae,ReCa
+Red CCA,Algae,R_CCA
+Red CCA on dead branching coral,Algae,/rCCAdbC
+Red CCA on dead columnar coral,Algae,/rCCAdcC
+Red CCA on dead encrusting coral,Algae,/rCCAdeC
+Red CCA on dead laminar coral,Algae,/rCCAdlC
+Red CCA on dead massive coral,Algae,/rCCAdmC
+Red encrusting algae,Algae,REA
+Red Filamentous algae,Algae,RedFilAlg
+Red Filamentous with Sediment,Algae,R_Fila_Sed
+Red Fine Filamentous Algae,Algae,RedFineFil
+Red fleshy algae,Algae,RFA
+Red Foliose,Algae,RF
+Red Leafy Macroalgae,Algae,MacRedLf
+Red Macroalgae,Algae,RedM
+Red Strap/Filamentous Algae,Algae,RedStrap
+Red Thick Filamentous Algae,Algae,RedThickFi
+Red Turf,Algae,RedTurf
+Red turfing algae,Algae,RTAl
+Red Turf + Sediment,Algae,RedTurfSed
+Rhipidosiphon javensis,Algae,Rhi_jav
+Rhipilia sinuosa,Algae,Rhi_sin
+Rhipilia spp.,Algae,Rhp
+Rhipocephalus sp.,Algae,Rhipo
+Rhodophyta,Algae,RHODO
+Rhodymeniales Small Blade,Algae,LRBs
+Rhodymenia Sp.,Algae,Rhod
+Rodolito Morto,Algae,RM
+Rodolito Vivo,Algae,RV
+Rosenvingea sp.,Algae,RSVG
+Rubble Peysso,Algae,PeyRub
+Saccharina bongardiana,Algae,SACB
+Saccharina latissima,Algae,SALA
+Saccharina latissima (canopy),Algae,SLC
+Saccharina latissima (substratum),Algae,SLS
+Saccharina sp.,Algae,Sacsp
+Saccorhiza dermatodea,Algae,SACDE
+Sarcodiotheca gaudichaudii,Algae,SAGA
+Sarcomenia,Algae,Sarcom
+Sargassum,Algae,Sargassum
+Sargassum aquifolium,Algae,SAQUI
+Sargassum filipendula,Algae,Sarfil
+Sargassum hystrix,Algae,SarHys
+Sargassum muticum,Algae,SAMU
+Sargassum pacificum,Algae,Sapac
+Sargassum polyphyllum,Algae,SPOLY
+Sargassum vulgare,Algae,Sargas
+Scinaia spp,Algae,Scinaia
+Scytosiphon lomentaria,Algae,Scyto
+"Short productive algal turfs (SPATs),",Algae,SPAT
+Short turf sediment free,Algae,Sturf
+Short turf sediment free on rubble,Algae,Sturfrub
+Sick CCA,Algae,SCCA
+Siphonogramen parva,Algae,Spar
+Smothered CCA,Algae,SmCCA
+Smothered Fleshy Algae,Algae,SmFALG
+Solieria filiformis,Algae,SolFil
+Spatoglossum schroederi,Algae,SPATogloss
+SPAT + Sediment,Algae,SPATSed
+Sphacelaria spp,Algae,Sph
+Sphaerococcus coronopifolius,Algae,Sphae_coro
+Spongomorpha sp.,Algae,Spongo sp.
+Spore,Algae,SPO
+Spore (germinated),Algae,SPO G
+Spyridia filamentosa,Algae,SPYR
+Stenogramme interrupta,Algae,STNI
+Stephanocystis dioica,Algae,STEPHDI
+Stypopodium schimperi,Algae,Stypo
+Stypopodium sp.,Algae,Styp
+Stypopodium spp.,Algae,STYP.
+Stypopodium zonale,Algae,STYZO
+Symploca hydnoides,Algae,Symhyd
+Symploca sp.,Algae,Sym_spe
+Taonia atomaria,Algae,Taoni
+Thick Branching CCA,Algae,CCATkBr
+Thick Branching Green Macroalgae,Algae,MacGrnTkBr
+Thick CCA,Algae,CCATk
+Thick turf algae,Algae,Turf thick
+Thick Turf on Pebbles,Algae,TkTrfPeb
+Thick Turf on Rubble,Algae,TkTrfRub
+Thin Patchy CCA,Algae,CCAThPch
+Thin Turf Algae,Algae,ThnTrf
+Thin Turf on Pebbles,Algae,TnTrfPeb
+Thin Turf on Rubble,Algae,TnTrfRub
+Tolypiocladia glomerulata,Algae,TolyGlom
+Trematocarpus antarcticus,Algae,TREM
+Tricleocarpa,Algae,TRIcleocar
+Tricleocarpa_articulated_calcareous,Algae,triart
+Tricleocarpa fragilis,Algae,Tri_fra
+Turbinaria (algae),Algae,Turbin
+Turbinaria ornata,Algae,Tur_orn
+Turf algae,Algae,Turf
+Turf Algae on dead columnar coral,Algae,TA_dcC
+Turf Algae on Dead Coral (+ rubble),Algae,TA on Dead
+Turf Algae on dead encrusting coral,Algae,TA_deC
+Turf Algae on dead laminar coral,Algae,TA_dlC
+Turf algae on dead tabular coral,Algae,TA_dtC
+Turf Algae Sediment,Algae,TASED
+Turf and sand,Algae,Turf_sand
+Turf + Dictyota,Algae,TurfDict
+Turf + Dictyota + Sediment,Algae,TurfDicSed
+Turf_filamentous,Algae,turalg
+Turf growing on hard substrate,Algae,TURFH
+Turf + Hypnea,Algae,TurfHyp
+Turf + Jania,Algae,TurfJan
+Turf Maybe,Algae,TfMb
+Turf On Pebbles,Algae,TrfPeb
+Turf on rubble,Algae,Turf_rubbl
+Turf - other,Algae,Turf - O
+Turf overgrowing recently dead coral,Algae,Turf coral
+turf_sedimented,Algae,tursed
+Turf with sediment,Algae,Turfsed
+Turf with sediment on rubble,Algae,Sedturfrub
+Turfy Biotic Matrix on Pebbles,Algae,TBMatPeb
+Turfy Macroalge over Sand,Algae,TrfMacSnd
+Tydemania expeditionis,Algae,Tyd_exp
+Tydemania spp.,Algae,Tyd
+Udoteaceae,Algae,Udo
+Udotea_corticated_macrophyte,Algae,udocom
+Udotea cyathiformis,Algae,UdoCya
+Udotea spp.,Algae,UDOT
+Ulva,Algae,Ulva
+Ulva_foliose,Algae,ulvfol
+Ulva prolifera,Algae,UlvaP
+Ulva sp,Algae,Ulvsp
+Ulva spp. (substratum),Algae,ULS
+Undaria debris,Algae,UndariaRES
+Undaria pinnatifida,Algae,U.pinnatif
+Unidentified algae,Algae,ALGA
+Unidentified Brown,Algae,BROWN
+Unidentified brown blade (canopy),Algae,BBC
+Unidentified brown blade (substratum),Algae,BBS
+Unidentified brown branched (canopy),Algae,BBD
+Unidentified brown branched (substratum),Algae,BBR
+Unidentified brown crust,Algae,BRC
+Unidentified crustose coralline algae,Algae,UCC
+Unidentified diatoms,Algae,UDI
+Unidentified Green Algae,Algae,GREEN
+Unidentified green blade (canopy),Algae,UGC
+Unidentified green blade (substratum),Algae,UGS
+Unidentified green branched (canopy),Algae,GBC
+Unidentified green branched (substratum),Algae,GBS
+Unidentified green film,Algae,UGF
+Unidentified Red,Algae,RED
+Unidentified red blade (canopy),Algae,UBC
+Unidentified red blade (substratum),Algae,UBS
+Unidentified red branched (canopy),Algae,URC
+Unidentified red branched (substratum),Algae,URS
+Unidentified red fleshy crust,Algae,URF
+Unknown Algae,Algae,UA
+Unknown macroalgae,Algae,UnkMacroa
+Unknown Stringy Brown Algae,Algae,UnStBA
+Unk Red Alga,Algae,UNKredALGA
+Unspecified red algae: Branching: Fine/Thin,Algae,URB1
+Unspecified red algae: Branching: Thick,Algae,URB2
+Unspecified red algae: Sheet: Thick/Leathery,Algae,URS2
+Unspecified red algae: Sheet: Thin/Membranous,Algae,URS1
+Valonia aegagropila,Algae,Vaaeg
+Valonia_corticated_foliose,Algae,valcof
+Valonia macrophysa,Algae,Valo_macro
+Valonia spp.,Algae,Valspp
+Valonia ventricosa,Algae,Vavent
+Ventricaria sp.,Algae,Vent
+White CCA,Algae,wCCA
+White-gray CCA on dead columnar coral,Algae,/wCCAdcC
+White-gray CCA on dead encrusting coral,Algae,/wCCAdeC
+White-gray CCA on dead massive coral,Algae,/wCCAdmC
+Wrangelia,Algae,WRA
+Wrangelia penicillata,Algae,Wrangel pe
+Wrangelia sp.,Algae,WRAN
+Yellow-orange CCA on dead branching coral,Algae,/yoCCAdbC
+Yuzurua poiteaui,Algae,YUZ
+Zanardinia typus,Algae,Zanard_typ
+Zonaria diesingiana,Algae,zona
+Zonaria tournefortii,Algae,Zon
+Amphibolis,Seagrass,AMB
+Amphibolis antarctica,Seagrass,AmphAnt
+Cymodocea rotundata,Seagrass,CymRot
+Cymodocea serrulata,Seagrass,CymSer
+Dead seagrass,Seagrass,D_Seagrass
+Halodule uninervis,Seagrass,HalodUni
+Halodule wrightii,Seagrass,HalodWri
+Halophila decipiens,Seagrass,HalophDec
+Halophila hawaiiana,Seagrass,HalophHaw
+Halophila ovalis,Seagrass,HalophOva
+Halophila stipulacea,Seagrass,HalophStip
+Heterozostera,Seagrass,HZos
+Posidonia,Seagrass,Pos
+Seagrass,Seagrass,Seagrass
+Seagrass (Enhalus),Seagrass,SeaEnh
+Seagrass (Enhalus acoroides),Seagrass,SEnhAco
+Seagrasses: Elliptical Leaves,Seagrass,SGE
+Seagrasses: Elliptical Leaves: H. ovalis,Seagrass,SGEH
+Seagrasses: Strap-like leaves,Seagrass,SGS
+Seagrasses: Strap-like leaves: P. australis,Seagrass,SGSP
+Seagrasses: Strap-like leaves: Z. muelleri,Seagrass,SGSZ
+Seagrass: Fern-like leaves,Seagrass,SGF
+Syringodium,Seagrass,Syringodiu
+Syringodium filiforme,Seagrass,SyrFil
+Syringodium isoetifolium,Seagrass,SyrIso
+Thalassia,Seagrass,Thalassia
+Thalassia hemprichii,Seagrass,ThalHemp
+Thalassia testudinum,Seagrass,ThalTes
+Thalassondendron ciliatum,Seagrass,T_ciliat
+Zostera capricorni,Seagrass,ZOS
+Zostera marina,Seagrass,ZOSMAR
+Zostera tasmanica,Seagrass,ZosTas

@@ -1,0 +1,97 @@
+Name,Short Code,Functional Group
+CRED-Acanthastrea spp,*ACAS,Hard coral
+CRED-Acropora spp_branching,*ACBR,Hard coral
+CRED-Acropora spp_tabulate,*ACTA,Hard coral
+CRED-Astreopora spp,*ASSP,Hard coral
+CRED-Astrea spp,*ASTS,Hard coral
+CRED-Branching hard coral,*BR,Hard coral
+CRED-Columnar hard coral,*COL,Hard coral
+CRED-Coscinaraea spp,*COSP,Hard coral
+CRED-Cyphastrea spp,*CYPS,Hard coral
+CRED-Diploastrea spp,*DISP,Hard coral
+CRED-Echinophyllia spp,*ECHL,Hard coral
+CRED-Echinopora spp,*ECHP,Hard coral
+CRED-Encrusting hard coral,*ENC,Hard coral
+CRED-Euphyllia spp,*EUSP,Hard coral
+CRED-Favia spp,*FASP,Hard coral
+CRED-Favites spp,*FAVS,Hard coral
+CRED-Foliose hard coral,*FOL,Hard coral
+CRED-Free-living hard coral,*FREE,Hard coral
+CRED-Fungia spp,*FUSP,Hard coral
+CRED-Galaxea spp,*GASP,Hard coral
+CRED-Goniopora/Alveopora spp,*GOAL,Hard coral
+CRED-Goniastrea spp,*GONS,Hard coral
+CRED-Heliopora spp,*HCOE,Hard coral
+CRED-Hydnophora spp,*HYSP,Hard coral
+CRED-Isopora spp,*ISSP,Hard coral
+CRED-Leptastrea spp,*LEPT,Hard coral
+CRED-Leptoseris spp,*LESP,Hard coral
+CRED-Lobophyllia spp,*LOBS,Hard coral
+CRED-Leptoria spp,*LPHY,Hard coral
+CRED-Massive hard coral,*MASS,Hard coral
+CRED-Merulina spp,*MESP,Hard coral
+CRED-Millepora spp,*MISP,Hard coral
+CRED-Montastraea spp,*MONS,Hard coral
+CRED-Montipora spp_branching,*MOBR,Hard coral
+CRED-Montipora spp_encrusting,*MOEN,Hard coral
+CRED-Montipora spp_foliose,*MOFO,Hard coral
+CRED-Oulophyllia spp,*OUSP,Hard coral
+CRED-Pachyseris spp,*PACS,Hard coral
+CRED-Pavona spp_encrusting,*PAEN,Hard coral
+CRED-Pavona spp_foliose,*PAFO,Hard coral
+CRED-Pavona spp_massive,*PAMA,Hard coral
+CRED-Phymastrea spp,*PHSP,Hard coral
+CRED-Plerogyra spp,*PLER,Hard coral
+CRED-Platygyra spp,*PLSP,Hard coral
+CRED-Porites spp_branching,*POBR,Hard coral
+CRED-Pocillopora spp,*POCS,Hard coral
+CRED-Porites spp_encrusting,*POEN,Hard coral
+CRED-Porites spp_foliose,*POFO,Hard coral
+CRED-Porites spp_massive,*POMA,Hard coral
+CRED-Psammocora spp,*PSSP,Hard coral
+CRED-Stylophora spp,*STYS,Hard coral
+CRED-Symphyllia spp,*SYSP,Hard coral
+CRED-Turbinaria spp,*TURS,Hard coral
+CRED-Anemone,*AMNE,Other Invertebrates
+CRED-Wire and black coral,*ANTI,Other Invertebrates
+CRED-Bivalve,*BI,Other Invertebrates
+CRED-Bryozoan,*BRY,Other Invertebrates
+CRED-Corallimorph,*CMOR,Other Invertebrates
+CRED-Giant clam,*GC,Other Invertebrates
+CRED-Hydrocoral,*HYCO,Other Invertebrates
+CRED-Octocoral,*OCTO,Other Invertebrates
+CRED-Sponge,*SP,Other Invertebrates
+CRED-Tunicate,*TUN,Other Invertebrates
+CRED-Unclassified sessile invertebrate,*UI,Other Invertebrates
+CRED-Zoanthid,*ZO,Other Invertebrates
+CRED-Fine sediment,*FINE,Soft Substrate
+CRED-Sand,*SAND,Soft Substrate
+CRED-CCA growing on hard substrate,*CCAH,Hard Substrate
+CRED-CCA growing on rubble,*CCAR,Hard Substrate
+CRED-Hard substrate,*HARD,Hard Substrate
+CRED-Rubble substrate,*RUB,Hard Substrate
+CRED-Turf growing on hard substrate,*TURFH,Hard Substrate
+CRED-Turf growing on rubble,*TURFR,Hard Substrate
+CRED-Mobile fauna,*MOBF,Other
+CRED-Shadow,*SHAD,Other
+CRED-Tape,*TAPE,Other
+CRED-Unclassified/Unknown,*UNK,Other
+CRED-Wand,*WAND,Other
+CRED-Asparagopsis spp,*ASPP,Algae
+CRED-Avrainvillea spp,*AVSP,Algae
+CRED-Blue-green macroalga,*BGMA,Algae
+CRED-Brown macroalgae,*BRMA,Algae
+CRED-Caulerpa spp,*CAUL,Algae
+CRED-Dictyopteris/Dictyota spp,*DICO,Algae
+CRED-Dictyosphaeria spp,*DICT,Algae
+CRED-Encrusting macroalgae,*EMA,Algae
+CRED-Green macroalgae,*GRMA,Algae
+CRED-Halimeda spp,*HALI,Algae
+CRED-Lobophora spp,*LOBO,Algae
+CRED-Microdictyon spp,*MICR,Algae
+CRED-Neomeris spp,*NEOM,Algae
+CRED-Padina spp,*PADI,Algae
+CRED-Peyssonnelia spp,*PESP,Algae
+CRED-Red macroalgae,*RDMA,Algae
+CRED-Seagrass,*SG,Algae
+CRED-Upright macroalgae,*UPMA,Algae

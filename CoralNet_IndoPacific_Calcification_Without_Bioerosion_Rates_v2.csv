@@ -1,0 +1,117 @@
+"Region","Name","Mean","Lower bound","Upper bound"
+"Indo-Pacific","Acanthastrea",5.79,4.74,7.13
+"Indo-Pacific","Acropora",25.98,20.97,31.64
+"Indo-Pacific","Acropora (branching)",29.21,23.42,35.68
+"Indo-Pacific","Acropora (tabulate)",22.76,18.51,27.61
+"Indo-Pacific","Astrea",5.85,4.82,7.05
+"Indo-Pacific","Astreopora",2.85,2.18,3.7
+"Indo-Pacific","Bare Rock",0,0,0
+"Indo-Pacific","CCA (crustose coralline algae)",0.65,0.49,0.82
+"Indo-Pacific","CCA growing on rubble",0.64,0.49,0.82
+"Indo-Pacific","CRED-Acanthastrea spp",5.79,4.74,7.13
+"Indo-Pacific","CRED-Acropora spp_branching",29.21,23.42,35.68
+"Indo-Pacific","CRED-Acropora spp_tabulate",22.76,18.51,27.61
+"Indo-Pacific","CRED-Astrea spp",5.85,4.82,7.05
+"Indo-Pacific","CRED-Astreopora spp",2.85,2.18,3.7
+"Indo-Pacific","CRED-Branching hard coral",30.31,24.01,37.07
+"Indo-Pacific","CRED-CCA growing on hard substrate",0.65,0.49,0.82
+"Indo-Pacific","CRED-CCA growing on rubble",0.64,0.49,0.82
+"Indo-Pacific","CRED-Columnar hard coral",37.69,30.13,45.38
+"Indo-Pacific","CRED-Coscinaraea spp",4.32,3.46,5.27
+"Indo-Pacific","CRED-Cyphastrea spp",4.92,4.03,5.94
+"Indo-Pacific","CRED-Diploastrea spp",15.22,10.45,20.96
+"Indo-Pacific","CRED-Echinophyllia spp",7.39,6.29,8.62
+"Indo-Pacific","CRED-Echinopora spp",11.9,9.68,14.47
+"Indo-Pacific","CRED-Encrusting hard coral",5.19,4.21,6.36
+"Indo-Pacific","CRED-Euphyllia spp",18.7,15.19,22.7
+"Indo-Pacific","CRED-Favia spp",2.84,2.23,3.58
+"Indo-Pacific","CRED-Favites spp",2.68,2.11,3.38
+"Indo-Pacific","CRED-Foliose hard coral",11.46,9.68,13.45
+"Indo-Pacific","CRED-Free-living hard coral",27.68,23.47,32.28
+"Indo-Pacific","CRED-Fungia spp",26.21,22.93,29.74
+"Indo-Pacific","CRED-Galaxea spp",3.24,2.63,3.96
+"Indo-Pacific","CRED-Goniastrea spp",16.46,14.22,18.91
+"Indo-Pacific","CRED-Goniopora/Alveopora spp",6.24,5.16,7.48
+"Indo-Pacific","CRED-Hard substrate",0,0,0
+"Indo-Pacific","CRED-Heliopora spp",14.4,10.63,18.24
+"Indo-Pacific","CRED-Hydnophora spp",22.45,18.17,27.23
+"Indo-Pacific","CRED-Isopora spp",7.41,6.19,8.77
+"Indo-Pacific","CRED-Leptastrea spp",4.42,3.57,5.46
+"Indo-Pacific","CRED-Leptoria spp",3.96,3.14,4.91
+"Indo-Pacific","CRED-Leptoseris spp",5.9,4.9,7.06
+"Indo-Pacific","CRED-Lobophyllia spp",21.75,17.37,26.71
+"Indo-Pacific","CRED-Massive hard coral",20.76,17.42,24.33
+"Indo-Pacific","CRED-Merulina spp",16.47,14.02,19.26
+"Indo-Pacific","CRED-Millepora spp",22.71,17.74,28.19
+"Indo-Pacific","CRED-Montastraea spp",5.69,4.73,6.79
+"Indo-Pacific","CRED-Montipora spp_branching",32.92,25.59,40.31
+"Indo-Pacific","CRED-Montipora spp_encrusting",5.7,4.48,7.16
+"Indo-Pacific","CRED-Montipora spp_foliose",10.67,8.88,12.68
+"Indo-Pacific","CRED-Oulophyllia spp",27.45,20.53,35.03
+"Indo-Pacific","CRED-Pachyseris spp",10.52,8.98,12.1
+"Indo-Pacific","CRED-Pavona spp_encrusting",6.22,5.01,7.67
+"Indo-Pacific","CRED-Pavona spp_foliose",14.01,12.06,16.2
+"Indo-Pacific","CRED-Pavona spp_massive",37.15,31.34,43.29
+"Indo-Pacific","CRED-Phymastrea spp",6.49,5.48,7.62
+"Indo-Pacific","CRED-Platygyra spp",18.18,14.89,21.66
+"Indo-Pacific","CRED-Plerogyra spp",16.81,12.97,21.18
+"Indo-Pacific","CRED-Pocillopora spp",38.16,32.82,43.95
+"Indo-Pacific","CRED-Porites spp_branching",20.95,17.94,24.27
+"Indo-Pacific","CRED-Porites spp_encrusting",4.56,3.76,5.49
+"Indo-Pacific","CRED-Porites spp_foliose",6.27,5.23,7.43
+"Indo-Pacific","CRED-Porites spp_massive",31.03,25.27,36.81
+"Indo-Pacific","CRED-Psammocora spp",5.75,4.42,7.38
+"Indo-Pacific","CRED-Rubble substrate",0,0,0
+"Indo-Pacific","CRED-Stylophora spp",27.21,21.6,33.52
+"Indo-Pacific","CRED-Symphyllia spp",25.19,20.63,30.29
+"Indo-Pacific","CRED-Turbinaria spp",9.82,7.63,12.33
+"Indo-Pacific","CRED-Turf growing on hard substrate",0,0,0
+"Indo-Pacific","CRED-Turf growing on rubble",0,0,0
+"Indo-Pacific","Coscinaraea",4.32,3.46,5.27
+"Indo-Pacific","Cyphastrea",4.92,4.03,5.94
+"Indo-Pacific","Diploastrea",15.22,10.45,20.96
+"Indo-Pacific","Dipsastraea",2.84,2.23,3.58
+"Indo-Pacific","Echinophyllia",7.39,6.29,8.62
+"Indo-Pacific","Echinopora",11.9,9.68,14.47
+"Indo-Pacific","Euphyllia",18.7,15.19,22.7
+"Indo-Pacific","Favites",2.68,2.11,3.38
+"Indo-Pacific","Fungia",26.21,22.93,29.74
+"Indo-Pacific","Galaxea",3.24,2.63,3.96
+"Indo-Pacific","Goniastrea",16.46,14.22,18.91
+"Indo-Pacific","Hard Coral (branching)",30.31,24.01,37.07
+"Indo-Pacific","Hard Coral (columnar)",37.69,30.13,45.38
+"Indo-Pacific","Hard Coral (encrusting)",5.19,4.21,6.36
+"Indo-Pacific","Hard Coral (foliose)",11.46,9.68,13.45
+"Indo-Pacific","Hard Coral (free-living)",27.68,23.47,32.28
+"Indo-Pacific","Hard Coral (massive)",20.76,17.42,24.33
+"Indo-Pacific","Hard Substrate",0,0,0
+"Indo-Pacific","Hard coral",22.18,18.15,26.48
+"Indo-Pacific","Heliopora",14.4,10.63,18.24
+"Indo-Pacific","Hydnophora",22.45,18.17,27.23
+"Indo-Pacific","Isopora",7.41,6.19,8.77
+"Indo-Pacific","Leptastrea",4.42,3.57,5.46
+"Indo-Pacific","Leptoria",3.96,3.14,4.91
+"Indo-Pacific","Leptoseris",5.9,4.9,7.06
+"Indo-Pacific","Lobophyllia",21.75,17.37,26.71
+"Indo-Pacific","Merulina",16.47,14.02,19.26
+"Indo-Pacific","Millepora",22.71,17.74,28.19
+"Indo-Pacific","Montastraea",5.69,4.73,6.79
+"Indo-Pacific","Montipora",16.43,12.98,20.05
+"Indo-Pacific","Montipora (branching)",32.92,25.59,40.31
+"Indo-Pacific","Montipora (encrusting)",5.7,4.48,7.16
+"Indo-Pacific","Montipora (foliose)",10.67,8.88,12.68
+"Indo-Pacific","Oulophyllia",27.45,20.53,35.03
+"Indo-Pacific","Pachyseris",10.52,8.98,12.1
+"Indo-Pacific","Phymastrea",6.49,5.48,7.62
+"Indo-Pacific","Platygyra",18.18,14.89,21.66
+"Indo-Pacific","Plerogyra",16.81,12.97,21.18
+"Indo-Pacific","Pocillopora",38.16,32.82,43.95
+"Indo-Pacific","Porites",15.7,13.05,18.5
+"Indo-Pacific","Porites (branching)",20.95,17.94,24.27
+"Indo-Pacific","Porites (massive)",31.03,25.27,36.81
+"Indo-Pacific","Psammocora",5.75,4.42,7.38
+"Indo-Pacific","Rock",0,0,0
+"Indo-Pacific","Stylophora",27.21,21.6,33.52
+"Indo-Pacific","Symphyllia",25.19,20.63,30.29
+"Indo-Pacific","Turbinaria (coral)",9.82,7.63,12.33
+"Indo-Pacific","Turf on rubble",0,0,0
