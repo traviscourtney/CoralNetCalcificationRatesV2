@@ -9,7 +9,7 @@ The attached code can be adapted and run for location-specific ReefBudget spread
 
 #### Please cite the following data release for use of the area-normalized calcification and bioerosion rates as follows:
 
-Courtney TA, Lange ID, Pilly SS, Townsend JE, Chan S, Perry CT, Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet Version 2.0
+Courtney TA, Lange ID, Sannassy Pilly S, Townsend JE, Chan S, Perry CT, Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet Version 2.0
 
 #### Updates compared to Version 1.0:
 
