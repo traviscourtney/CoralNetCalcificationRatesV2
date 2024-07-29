@@ -1,4 +1,4 @@
-# Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet v2.0
+# Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet Version 2.0
 The following code generates area-normalized calcification, macrobioerosion, and microbioerosion rates from ReefBudget methodologies (http://geography.exeter.ac.uk/reefbudget/; Perry et al., 2018; Perry and Lange 2019) for use with CoralNet image identification labels to support the integration of estimated carbonate production rates with CoralNet, an automated benthic image analysis platform (https://coralnet.ucsd.edu/; Beijbom et al., 2015). Calcification and bioerosion rates have been developed separately for the Indo-Pacific and the Western Atlantic following the below methodologies and data sources.
 
 #### Inclusion of Bioerosion
