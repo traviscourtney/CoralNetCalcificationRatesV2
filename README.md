@@ -1,5 +1,5 @@
-# Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet
-The following code generates area-normalized calcification, macrobioerosion, and microbioerosion rates from ReefBudget methodologies (http://geography.exeter.ac.uk/reefbudget/; Perry et al., 2018; Perry and Lange 2019) for use with CoralNet image identification labels to support the integration of estimated carbonate production rates with CoralNet, an automated benthic image analysis platform (https://coralnet.ucsd.edu/; Beijbom et al., 2015). Calcification and bioerosion rates have been developed separately for the Indo-Pacific and the Western Atlantic following the below methodologies and data sources. 
+# Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet v2.0
+The following code generates area-normalized calcification, macrobioerosion, and microbioerosion rates from ReefBudget methodologies (http://geography.exeter.ac.uk/reefbudget/; Perry et al., 2018; Perry and Lange 2019) for use with CoralNet image identification labels to support the integration of estimated carbonate production rates with CoralNet, an automated benthic image analysis platform (https://coralnet.ucsd.edu/; Beijbom et al., 2015). Calcification and bioerosion rates have been developed separately for the Indo-Pacific and the Western Atlantic following the below methodologies and data sources.
 
 #### Inclusion of Bioerosion
 The default rates include coral calcification, CCA calcification, macrobioerosion, and microbioerosion to be consistent with ReefBudget calcification sheet outputs, but the include_bioerosion argument can be set to FALSE at the beginning of the script to calculate the gross carbonate production without any sources of bioerosion. Because rates have been adapted for benthic image labels, the resulting CoralNet total calcification estimates do not account for mobile sources of parrotfish or urchin bioerosion that are included in the net reef carbonate budget following ReefBudget methodologies. 
@@ -7,21 +7,22 @@ The default rates include coral calcification, CCA calcification, macrobioerosio
 #### User defined area-normalized rates
 The attached code can be adapted and run for location-specific ReefBudget spreadsheets to allow the user to redefine local calcification rates based on additional data. Alternatively, the included ReefBudget2CoralNet.R function and Shiny app (https://traviscourtney.shinyapps.io/reefbudget2coralnet/) can be used to to generate area-normalized calcification rates for additional labels using linear extension rate and skeletal density (input into ReefBudget calcification sheet to generate calcification coefficient and intercept), average colony size, and colony rugosity.
 
-#### Please cite the following data release for use of the area-normalized calcification and bioerosion rates as follows:
-
-Courtney TA, Lange ID, Sannassy Pilly S, Townsend JE, Chan S, Perry CT, Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet Version 2.0
-
-#### Updates compared to Version 1.0:
+#### Updates compared to Version 1.0 (https://github.com/traviscourtney/CoralNetCalcificationRates):
 
 -	Updated from ReefBudget Indo-Pacific Version v1.2 to v1.3 and ReefBudget Caribbean Version v2.1 to v2.3
 -	Removed open-space conversion factor for Indo-Pacific and Caribbean as conversion factors are already integrated into the coefficient and intercept estimates derived from ReefBudget
--	Added seed for generating random numbers and increased number of simulations from 10,000 to 100,000 to increase consistency for generating area-normalized calcification rates
 -	Updated colony rugosity estimates for the Indo-Pacific from Gonzalez-Barios & Alvarez-Filip (2019) Caribbean morphology estimates to Husband et al (2022) Indo-Pacific measurements
 - Removed microbioerosion and macrobioerosion from coral and CCA substrates when calculating area-normalized calcification rates (note: Indo-Pacific CCA still uses macrobioerosion rates following ReefBudget v1.3)
--	Replaced ReefBudgetRandCalc with rtriangle for simulating asymmetric uncertainties because ReefBudgetRandCalc was no longer supported by the latest version of R
 - Updated Western Atlantic colony sizes from CARICOMP to more recent NCRMP survey data
 - Revised Western Atlantic equation according to change in colony sizes from 3D (CARICOMP) to 2D (NCRMP)
 - Used Husband et al (2022) to fill in morphologies lacking colony rugosity data for Western Atlantic taxa not included in Gonzalez-Barios & Alvarez-Filip (2019)
+-	Replaced ReefBudgetRandCalc with rtriangle for simulating asymmetric uncertainties because ReefBudgetRandCalc was no longer supported by the latest version of R
+-	Added seed for generating random numbers and increased number of simulations from 10,000 to 100,000 to increase consistency for generating area-normalized calcification rates
+- Matched calcification rate data to additional CoralNet labels
+
+#### Please cite the following data release for use of the area-normalized calcification and bioerosion rates as follows:
+
+Courtney TA, Lange ID, Sannassy Pilly S, Townsend JE, Chan S, Perry CT, Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of ReefBudget calcification, macrobioerosion, and microbioerosion rates for use with CoralNet Version 2.0
 
 ## Estimating CoralNet calcification rates for the Indo-Pacific
 
