@@ -3,12 +3,12 @@
 ##’
 ##’ @author Travis A Courtney, PhD
 ##’ @contact travis.courtney@upr.edu
-##’ @date 2024-06-25
+##’ @date 2024-07-30
 ##’ @log Version 2.0 - Please see README for a description of updates from Version 1.0
 
 ###########include or exclude bioerosion##########
 #bioerosion rates are included by default, set include_bioerosion to FALSE to calculate gross carbonate production only
-include_bioerosion=FALSE
+include_bioerosion=TRUE
 
 ###########require packages and scripts##########
 library(fs)
@@ -25,11 +25,11 @@ set.seed(999)
 #########CoralNet Western Atlantic Calcification Rates##########
 #Import Required Data
 setwd("Data_WesternAtlantic")
-ReefBudget_Atlantic <- read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Calcification Rates", skip = 9) #import Indo-Atlantic ReefBudget rates
+ReefBudget_Atlantic <- read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Calcification Rates", skip = 9) #import Indo-Atlantic ReefBudget rates
 Gonzalez_Barrios <- read_csv("Gonzalez-Barios_Alvarez-Filip_2019_Rugosity.csv") #Import Gonzalez-Barrios taxa-level estimates of colony structural complexity
 CoralNet_Atlantic <- read_csv("CoralNet_labelset.csv") #Import CoralNet labels
-microbioerosion=read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Microbioerosion") #import Caribbean ReefBudget microbioerosion data
-macrobioerosion=read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Macrobioerosion", skip = 3) #import Caribbean 
+microbioerosion=read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Microbioerosion") #import Caribbean ReefBudget microbioerosion data
+macrobioerosion=read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Macrobioerosion", skip = 3) #import Caribbean 
 NCRMP_Florida <- read_csv("CRCP_Coral_Demographic_Survey_Florida_4525_37fd_301a.csv") %>% 
   select(SPECIES_NAME,MAX_DIAMETER)
 NCRMP_PuertoRico <- read_csv("CRCP_Coral_Demographic_Survey_Puerto_Rico_f50a_5235_ae5f.csv") %>% 
@@ -44,6 +44,10 @@ ReefBudget_Atlantic <- ReefBudget_Atlantic[!is.na(ReefBudget_Atlantic$coeff_mean
 
 #Merge rates with taxa-specific rugosity index from Gonzalez-Barrios data
 rugosity_rates= merge(ReefBudget_Atlantic,Gonzalez_Barrios,by="name",all.x=TRUE)
+
+#use Madracis formosa rugosity for Madracis carmabi
+rugosity_rates[!is.na(str_match(rugosity_rates$name,"Madracis carmabi")),]$rugosity_mean=rugosity_rates[!is.na(str_match(rugosity_rates$name,"Madracis formosa")),]$rugosity_mean
+rugosity_rates[!is.na(str_match(rugosity_rates$name,"Madracis carmabi")),]$rugosity_sd=rugosity_rates[!is.na(str_match(rugosity_rates$name,"Madracis formosa")),]$rugosity_sd
 
 #find taxa with complete and missing rugosity data
 complete_rugosity=rugosity_rates[!is.na(rugosity_rates$rugosity_mean),]

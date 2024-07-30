@@ -10,7 +10,7 @@
 "Atlantic","Agaricia humilis",8.84,7.66,10.07
 "Atlantic","Agaricia lamarcki",1.98,1.78,2.31
 "Atlantic","Agaricia tenuifolia",1.19,1.01,1.39
-"Atlantic","Agaricia undata",3.43,2.91,4.13
+"Atlantic","Agaricia undata",3.44,2.92,4.15
 "Atlantic","Bare Rock",0,0,0
 "Atlantic","Biofilmed Rock",0,0,0
 "Atlantic","Blue-pink CCA",0.38,0.29,0.47
@@ -73,8 +73,8 @@
 "Atlantic","Dead Articulated CCA",0.38,0.29,0.47
 "Atlantic","Deep-pink CCA",0.38,0.29,0.47
 "Atlantic","Deep pink CCA on dead massive coral",0.38,0.29,0.47
-"Atlantic","Dendrogyra cylindrus",3.17,3.08,3.27
-"Atlantic","Dichocoenia stokesi",40.15,33.73,46.82
+"Atlantic","Dendrogyra cylindrus",3.83,3.73,3.93
+"Atlantic","Dichocoenia stokesi",6.66,5.53,7.8
 "Atlantic","Dictyota + CCA",0.38,0.29,0.47
 "Atlantic","Diploria labyrinthiformis",9.57,8.74,10.42
 "Atlantic","EAM: Rock or Substrate",0,0,0
@@ -87,44 +87,44 @@
 "Atlantic","Foliose CCA",0.38,0.29,0.47
 "Atlantic","Foliose CCA on Rubble",0.38,0.29,0.47
 "Atlantic","Green Rock",0,0,0
-"Atlantic","Hard coral",14.98,12.74,17.44
-"Atlantic","Hard Coral (branching)",7.81,5.88,10.05
+"Atlantic","Hard coral",6.32,5.3,7.37
+"Atlantic","Hard Coral (branching)",7.78,5.88,10.02
 "Atlantic","Hard Coral (encrusting)",1.88,1.58,2.23
-"Atlantic","Hard Coral (foliose)",32.85,28,38.97
-"Atlantic","Hard Coral (massive)",11.59,10.02,13.19
-"Atlantic","Helioseris cucullata",26.87,22.9,32.44
+"Atlantic","Hard Coral (foliose)",2.81,2.42,3.26
+"Atlantic","Hard Coral (massive)",11.6,10.03,13.2
+"Atlantic","Helioseris cucullata",2.22,1.94,2.61
 "Atlantic","Isophyllia",7.9,7.29,8.49
-"Atlantic","Isophyllia rigida",5.83,5.34,6.32
+"Atlantic","Isophyllia rigida",5.83,5.34,6.33
 "Atlantic","Isophyllia sinuosa",9.67,9.03,10.33
 "Atlantic","Lightly Biofilmed Rock",0,0,0
 "Atlantic","Macroalgae: Laminate: red: peysonnelia",0.38,0.29,0.47
-"Atlantic","Madracis",16.52,13.7,19.54
+"Atlantic","Madracis",14.98,12.6,17.52
 "Atlantic","Madracis auretenra",11.83,10.71,12.96
-"Atlantic","Madracis carmabi",31.68,25.63,38.39
-"Atlantic","Madracis decactis",12.28,8.07,16.51
-"Atlantic","Madracis formosa",11.65,10.27,13.14
-"Atlantic","Madracis pharensis",8.85,7.66,10.07
-"Atlantic","Madracis senaria",8.81,7.6,10.02
+"Atlantic","Madracis carmabi",15.22,13.39,17.14
+"Atlantic","Madracis decactis",12.3,8.13,16.49
+"Atlantic","Madracis formosa",11.66,10.25,13.13
+"Atlantic","Madracis pharensis",8.84,7.65,10.05
+"Atlantic","Madracis senaria",8.81,7.6,10.03
 "Atlantic","Manicina areolata",16.34,15.86,16.97
 "Atlantic","Meandrina",2.64,2.28,3
 "Atlantic","Meandrina meandrites",2.97,2.58,3.35
 "Atlantic","Millepora",6.75,5.95,7.56
-"Atlantic","Millepora alcicornis",2.33,1.84,2.83
-"Atlantic","Millepora complanata",7.44,5.11,9.76
-"Atlantic","Millepora squarrosa",8.42,7.45,9.75
+"Atlantic","Millepora alcicornis",2.33,1.83,2.83
+"Atlantic","Millepora complanata",7.43,5.12,9.75
+"Atlantic","Millepora squarrosa",8.41,7.44,9.77
 "Atlantic","Montastraea",11.67,9.63,13.74
-"Atlantic","Montastraea cavernosa",11.67,9.61,13.75
-"Atlantic","Mussa angulosa",9.97,9.73,10.22
-"Atlantic","Mycetophyllia",27.24,23.76,31.58
-"Atlantic","Mycetophyllia aliciae",32.05,27.5,38.24
-"Atlantic","Mycetophyllia ferox",24.73,21.75,28.68
-"Atlantic","Mycetophyllia lamarckana",9.58,8.86,10.31
+"Atlantic","Montastraea cavernosa",11.69,9.61,13.75
+"Atlantic","Mussa angulosa",9.98,9.73,10.23
+"Atlantic","Mycetophyllia",3.97,3.54,4.43
+"Atlantic","Mycetophyllia aliciae",2.7,2.37,3.14
+"Atlantic","Mycetophyllia ferox",2.07,1.86,2.34
+"Atlantic","Mycetophyllia lamarckana",9.57,8.86,10.31
 "Atlantic","Non CCA Crustose Algae",0.38,0.29,0.47
 "Atlantic","Oculina",6.74,5.48,8.15
-"Atlantic","Oculina diffusa",6.74,5.49,8.12
+"Atlantic","Oculina diffusa",6.76,5.49,8.14
 "Atlantic","Orbicella",21.55,19.42,23.7
-"Atlantic","Orbicella annularis",28.85,25.39,32.34
-"Atlantic","Orbicella faveolata",22.69,18.86,26.61
+"Atlantic","Orbicella annularis",28.87,25.4,32.35
+"Atlantic","Orbicella faveolata",22.71,18.82,26.6
 "Atlantic","Orbicella franksi",12.95,12.65,13.25
 "Atlantic","Other",0.38,0.29,0.47
 "Atlantic","Pale Red CCA",0.38,0.29,0.47
@@ -147,16 +147,16 @@
 "Atlantic","Pink CCA on dead encrusting coral",0.38,0.29,0.47
 "Atlantic","Pink CCA on dead laminar coral",0.38,0.29,0.47
 "Atlantic","Pink CCA on dead massive coral",0.38,0.29,0.47
-"Atlantic","Porites",13.04,11.58,14.66
-"Atlantic","Porites astreoides",10.46,8.47,12.43
-"Atlantic","Porites branneri",10.18,8.82,11.54
-"Atlantic","Porites colonensis",37.83,33.13,43.37
-"Atlantic","Porites divaricata",5.02,4.71,5.34
+"Atlantic","Porites",7.12,6.31,7.95
+"Atlantic","Porites astreoides",10.45,8.47,12.44
+"Atlantic","Porites branneri",10.18,8.83,11.54
+"Atlantic","Porites colonensis",3.16,2.78,3.59
+"Atlantic","Porites divaricata",5.03,4.71,5.34
 "Atlantic","Porites furcata",5.64,5.55,5.72
-"Atlantic","Porites porites",8.44,7.18,9.69
+"Atlantic","Porites porites",8.45,7.19,9.7
 "Atlantic","Pseudodiploria",10.58,8.76,12.42
-"Atlantic","Pseudodiploria clivosa",9.95,8.4,11.5
-"Atlantic","Pseudodiploria strigosa",11.22,9.11,13.32
+"Atlantic","Pseudodiploria clivosa",9.96,8.41,11.49
+"Atlantic","Pseudodiploria strigosa",11.24,9.15,13.33
 "Atlantic","Red branching CCA",0.38,0.29,0.47
 "Atlantic","Red CCA",0.38,0.29,0.47
 "Atlantic","Red CCA on dead branching coral",0.38,0.29,0.47
@@ -169,20 +169,20 @@
 "Atlantic","Rock Turf Algae",0,0,0
 "Atlantic","Rock_Pavement",0,0,0
 "Atlantic","Scolymia",5.35,5.16,5.55
-"Atlantic","Scolymia cubensis",5.38,5.18,5.58
+"Atlantic","Scolymia cubensis",5.38,5.18,5.57
 "Atlantic","Scolymia lacera",5.33,5.14,5.53
 "Atlantic","Sick CCA",0.38,0.29,0.47
 "Atlantic","Siderastrea",6.83,6.21,7.47
-"Atlantic","Siderastrea radians",6,5.7,6.3
-"Atlantic","Siderastrea siderea",7.68,6.69,8.69
+"Atlantic","Siderastrea radians",5.99,5.7,6.3
+"Atlantic","Siderastrea siderea",7.68,6.69,8.68
 "Atlantic","Smothered CCA",0.38,0.29,0.47
 "Atlantic","Smothered Rock",0,0,0
 "Atlantic","Solenastrea",12.3,11.38,13.23
 "Atlantic","Solenastrea bournoni",16.36,16.02,16.83
-"Atlantic","Solenastrea hyades",5.96,5.13,6.82
+"Atlantic","Solenastrea hyades",5.97,5.14,6.82
 "Atlantic","Sponge: Cliona",0,0,0
-"Atlantic","Stephanocoenia intersepta",5.74,5.24,6.25
-"Atlantic","Stylaster roseus",7.43,6.23,8.63
+"Atlantic","Stephanocoenia intersepta",5.74,5.25,6.25
+"Atlantic","Stylaster roseus",7.45,6.25,8.66
 "Atlantic","Substrate: Consolidated (hard) Rock",0,0,0
 "Atlantic","Thick Branching CCA",0.38,0.29,0.47
 "Atlantic","Thick CCA",0.38,0.29,0.47
@@ -191,7 +191,7 @@
 "Atlantic","Thin Sediment over Rock",0,0,0
 "Atlantic","Thin Turf/Biofilm on Rock",0,0,0
 "Atlantic","Tubastraea",7.42,6,9
-"Atlantic","Tubastraea coccinea",7.42,6,8.98
+"Atlantic","Tubastraea coccinea",7.4,5.98,8.98
 "Atlantic","Very Thin Sediment over Rock",0,0,0
 "Atlantic","White-gray CCA on dead columnar coral",0.38,0.29,0.47
 "Atlantic","White-gray CCA on dead encrusting coral",0.38,0.29,0.47

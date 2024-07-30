@@ -352,9 +352,10 @@ display: none;
 </div>
 
 
-<div id="area-normalized-scaling-of-reefbudget-calcification-macrobioerosion-and-microbioerosion-rates-for-use-with-coralnet" class="section level1">
+<div id="area-normalized-scaling-of-reefbudget-calcification-macrobioerosion-and-microbioerosion-rates-for-use-with-coralnet-version-2.0" class="section level1">
 <h1>Area-normalized scaling of ReefBudget calcification,
-macrobioerosion, and microbioerosion rates for use with CoralNet</h1>
+macrobioerosion, and microbioerosion rates for use with CoralNet Version
+2.0</h1>
 <p>The following code generates area-normalized calcification,
 macrobioerosion, and microbioerosion rates from ReefBudget methodologies
 (<a href="http://geography.exeter.ac.uk/reefbudget/" class="uri">http://geography.exeter.ac.uk/reefbudget/</a>; Perry et al.,
@@ -363,7 +364,9 @@ labels to support the integration of estimated carbonate production
 rates with CoralNet, an automated benthic image analysis platform (<a href="https://coralnet.ucsd.edu/" class="uri">https://coralnet.ucsd.edu/</a>; Beijbom et al., 2015).
 Calcification and bioerosion rates have been developed separately for
 the Indo-Pacific and the Western Atlantic following the below
-methodologies and data sources.</p>
+methodologies and data sources. This release serves as an update to the
+previous Version 1.0 (<a href="https://doi.org/10.5281/zenodo.5140477" class="uri">https://doi.org/10.5281/zenodo.5140477</a>; Courtney et al.,
+2021).</p>
 <div id="inclusion-of-bioerosion" class="section level4">
 <h4>Inclusion of Bioerosion</h4>
 <p>The default rates include coral calcification, CCA calcification,
@@ -388,25 +391,17 @@ additional labels using linear extension rate and skeletal density
 coefficient and intercept), average colony size, and colony
 rugosity.</p>
 </div>
-<div id="please-cite-the-following-data-release-for-use-of-the-area-normalized-calcification-and-bioerosion-rates-as-follows" class="section level4">
-<h4>Please cite the following data release for use of the
-area-normalized calcification and bioerosion rates as follows:</h4>
-<p>Courtney TA, Lange ID, Pilly SS, Townsend JE, Chan S, Perry CT,
-Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of ReefBudget
-calcification, macrobioerosion, and microbioerosion rates for use with
-CoralNet Version 2.0</p>
-</div>
 <div id="updates-compared-to-version-1.0" class="section level4">
-<h4>Updates compared to Version 1.0:</h4>
+<h4>Updates compared to Version 1.0</h4>
+<p>Version 2.0 includes the following updates relative to Version 1.0
+(<a href="https://doi.org/10.5281/zenodo.5140477" class="uri">https://doi.org/10.5281/zenodo.5140477</a>; Courtney et al.,
+2021):</p>
 <ul>
 <li>Updated from ReefBudget Indo-Pacific Version v1.2 to v1.3 and
 ReefBudget Caribbean Version v2.1 to v2.3</li>
-<li>Removed open-space conversion factor for Indo-Pacific and Caribbean
-as conversion factors are already integrated into the coefficient and
+<li>Removed open-space conversion factor for branching corals because
+conversion factors are already integrated into the coefficient and
 intercept estimates derived from ReefBudget</li>
-<li>Added seed for generating random numbers and increased number of
-simulations from 10,000 to 100,000 to increase consistency for
-generating area-normalized calcification rates</li>
 <li>Updated colony rugosity estimates for the Indo-Pacific from
 Gonzalez-Barios &amp; Alvarez-Filip (2019) Caribbean morphology
 estimates to Husband et al (2022) Indo-Pacific measurements</li>
@@ -414,9 +409,6 @@ estimates to Husband et al (2022) Indo-Pacific measurements</li>
 substrates when calculating area-normalized calcification rates (note:
 Indo-Pacific CCA still uses macrobioerosion rates following ReefBudget
 v1.3)</li>
-<li>Replaced ReefBudgetRandCalc with rtriangle for simulating asymmetric
-uncertainties because ReefBudgetRandCalc was no longer supported by the
-latest version of R</li>
 <li>Updated Western Atlantic colony sizes from CARICOMP to more recent
 NCRMP survey data</li>
 <li>Revised Western Atlantic equation according to change in colony
@@ -424,7 +416,59 @@ sizes from 3D (CARICOMP) to 2D (NCRMP)</li>
 <li>Used Husband et al (2022) to fill in morphologies lacking colony
 rugosity data for Western Atlantic taxa not included in Gonzalez-Barios
 &amp; Alvarez-Filip (2019)</li>
+<li>Replaced ReefBudgetRandCalc with rtriangle for simulating asymmetric
+uncertainties because ReefBudgetRandCalc was no longer supported by the
+latest version of R</li>
+<li>Added seed for generating random numbers and increased number of
+simulations from 10,000 to 100,000 to increase consistency for
+generating area-normalized calcification rates</li>
+<li>Matched calcification rate data to additional CoralNet labels</li>
 </ul>
+<p>The net effect of these updates on the area-normalized calcification
+rates from V1.0 to V2.0 varied greatly. Rates for branching increased
+substantially due to the removal of the open-space conversion factor for
+branching taxa from the area-normalized rate calculations and also for
+and columnar taxa due to the removal of the conversion factor from the
+ReefBudget sheets. Changes in rates for the other morphologies and taxa
+were typically smaller and resulted from the combined, interacting
+effects of the above changes. The hard coral mean rates for the
+Indo-Pacific and Western Atlantic are summarized here to show general
+changes in the area-normalized calcification rates between v1.0 and
+v2.0.</p>
+<p>Indo-Pacific hard coral mean rates:</p>
+<ul>
+<li>Branching rates increased from 11.64 to 30.31 kg CaCO<sub>3</sub>
+m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Columnar rates increased from 7.23 to 37.69 kg CaCO<sub>3</sub>
+m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Free-living rates decreased from 38.61 to 27.68 kg CaCO<sub>3</sub>
+m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Foliose rates increased slightly from 7.26 to 11.46 kg
+CaCO<sub>3</sub> m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Massive rates remained similar from 22.21 to 20.76 kg
+CaCO<sub>3</sub> m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Encrusting rates remained similar from 4.09 to 4.21 kg
+CaCO<sub>3</sub> m<sup>-2</sup> yr<sup>-1</sup></li>
+</ul>
+<p>Western Atlantic hard coral mean rates:</p>
+<ul>
+<li>Branching rates increased from 1.18 to 7.78 kg CaCO<sub>3</sub>
+m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Foliose rates decreased from 5.27 to 2.81 kg CaCO<sub>3</sub>
+m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Massive rates remained similar from 11.81 to 11.60 kg
+CaCO<sub>3</sub> m<sup>-2</sup> yr<sup>-1</sup></li>
+<li>Encrusting rates decreased slightly from 2.44 to 1.88 kg
+CaCO<sub>3</sub> m<sup>-2</sup> yr<sup>-1</sup></li>
+</ul>
+</div>
+<div id="please-cite-the-following-data-release-for-use-of-the-area-normalized-calcification-and-bioerosion-rates-as-follows" class="section level4">
+<h4>Please cite the following data release for use of the
+area-normalized calcification and bioerosion rates as follows:</h4>
+<p>Courtney TA, Lange ID, Sannassy Pilly S, Townsend JE, Chan S, Perry
+CT, Kriegman DJ, Andersson AJ (2024) Area-normalized scaling of
+ReefBudget calcification, macrobioerosion, and microbioerosion rates for
+use with CoralNet Version 2.0</p>
 </div>
 <div id="estimating-coralnet-calcification-rates-for-the-indo-pacific" class="section level2">
 <h2>Estimating CoralNet calcification rates for the Indo-Pacific</h2>
@@ -520,6 +564,10 @@ Dunlap MJ, Moriarty V, Fan T-Y, Tan C-J, Chan S, Treibitz T, Gamst A,
 Mitchell BG, Kriegman D (2015) Towards Automated Annotation of Benthic
 Survey Images: Variability of Human Experts and Operational Modes of
 Automation. PLoS ONE 10(7): e0130312.</p>
+<p>Courtney, T. A., Chan, S., Lange, I. D., Perry, C. T., Kriegman, D.
+J., &amp; Andersson, A. J. (2021). Area-normalized scaling of ReefBudget
+calcification, macrobioerosion, and microbioerosion rates for use with
+CoralNet Version 1.0 (1.0). Zenodo. <a href="https://doi.org/10.5281/zenodo.5140477" class="uri">https://doi.org/10.5281/zenodo.5140477</a></p>
 <p>González-Barrios FJ, Álvarez-Filip L. A framework for measuring coral
 species-specific contribution to reef functioning in the Caribbean.
 Ecological Indicators. 2018 Dec 1;95:877-86.</p>
