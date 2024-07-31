@@ -25,11 +25,11 @@ set.seed(999)
 #########CoralNet Western Atlantic Calcification Rates##########
 #Import Required Data
 setwd("Data_WesternAtlantic")
-ReefBudget_Atlantic <- read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Calcification Rates", skip = 9) #import Indo-Atlantic ReefBudget rates
+ReefBudget_Atlantic <- read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Calcification Rates", skip = 9) #import Indo-Atlantic ReefBudget rates
 Gonzalez_Barrios <- read_csv("Gonzalez-Barios_Alvarez-Filip_2019_Rugosity.csv") #Import Gonzalez-Barrios taxa-level estimates of colony structural complexity
 CoralNet_Atlantic <- read_csv("CoralNet_labelset.csv") #Import CoralNet labels
-microbioerosion=read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Microbioerosion") #import Caribbean ReefBudget microbioerosion data
-macrobioerosion=read_excel("Caribbean carbonate production template V2.3-June24-tac.xlsx", sheet = "Macrobioerosion", skip = 3) #import Caribbean 
+microbioerosion=read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Microbioerosion") #import Caribbean ReefBudget microbioerosion data
+macrobioerosion=read_excel("Caribbean carbonate production template V2.3-June24.xlsx", sheet = "Macrobioerosion", skip = 3) #import Caribbean 
 NCRMP_Florida <- read_csv("CRCP_Coral_Demographic_Survey_Florida_4525_37fd_301a.csv") %>% 
   select(SPECIES_NAME,MAX_DIAMETER)
 NCRMP_PuertoRico <- read_csv("CRCP_Coral_Demographic_Survey_Puerto_Rico_f50a_5235_ae5f.csv") %>% 
